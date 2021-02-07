@@ -25,7 +25,7 @@ In the past, I've argued both for and against incest, depending on the situation
 
 I do not support child pornography or pedophila.
 
-In 2016, a fan emailed me with a link to an academic article relating to child pornography. The authors of the paper suggested that it might be in the best interest of society to institute a program whereby pedophilies with repeat offenses would be allowed to consume old child pornography. The hope was that doing this would reduce their urges, resulting in a reduction of the amount of new child pornography getting produced, and a reduction of new kids getting abused.
+In 2016, a fan emailed me with a link to an academic paper relating to child pornography. The authors of the paper suggested that it might be in the best interest of society to institute a program whereby pedophilies with repeat offenses would be allowed to consume old child pornography. The hope was that this would reduce their urges, resulting in a reduction of the amount of new child pornography getting produced, and a reduction of new kids getting abused.
 
 Obviously, there are concerns with this idea: would we / should we get permission from the person in the old photograph/video? Could it lead to an increase in first-time-offenses? And so on. However, in principle, if it could be demonstrated that the program would result in less children being raped, then I would be for the program, since I am against child abuse and I support less children being abused.
 
