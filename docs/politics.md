@@ -94,4 +94,4 @@ Furthermore, I think that people have a right to defend their property with leth
 
 (I dutifully acknowledge that there can be degrees of escalation and de-escalation; the above example is simplified to get the point across.)
 
-Many disagreements over whether or not defense of personal property is justified boil down to a difference of underlying values. Well-off people may underestimate the personal sacrifice and time investment put into obtaining a business, a car, or even something as simple as a stereo system.
+Many disagreements over whether or not defense of personal property is justified boil down to a difference of underlying values. Middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system.
