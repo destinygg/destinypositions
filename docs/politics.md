@@ -64,9 +64,11 @@ With that said, if co-ops were really a vehicle for increased happiness, product
 
 ### Political Ineffectiveness
 
-A major gripe that I have with "online socialism" is it is political impotent. People in America (and around the world) have problems <strong>right now</strong> that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidate (at both a local and a national level).
+A major gripe that I have with "online socialism" is it is politically impotent. People in America (and around the world) have problems <strong>right now</strong> that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidate (at both a local and a national level).
 
-Moreover, all policies instituted by the government are going to have pros and cons. Let's debate these policies and try to find out which one will be the best. Once we know that, we can then put pressure on our local politicians and state representatives to try and implement them. But most socialists that I talk to have no actual policy positions. They live in a fantasy land where all capital is abolished, without a plan for how to get there and without a plan for solving the actual problems that we are facing right now.
+Moreover, all policies instituted by the government are going to have pros and cons. Let's debate these policies and try to find out which one will be the best. Once we know that, we can then put pressure on our local politicians and state representatives to try and implement them.
+
+But most socialists that I talk to have no actual policy positions. They live in a fantasy land where all capital is abolished, without a plan for how to get there and without a plan for solving the actual problems that we are facing right now.
 
 ## Violence
 
