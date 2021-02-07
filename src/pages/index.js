@@ -33,7 +33,7 @@ const features = [
     iconName: 'tired',
     description: (
       <>
-        Online political discourse has become increasingly unhealthy - I want discourse to be grounded in facts &amp; research. You can see some of the resources that I draw from here.
+        Online political discourse has become increasingly unhealthy. I want debate to be grounded in facts and research. You can see some of the resources that I base my positions on here.
       </>
     ),
   },
