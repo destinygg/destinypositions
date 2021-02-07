@@ -36,7 +36,7 @@ I would consider myself to be a capitalist, with some caveats.
 
 At a high-level, capitalism is best-known societal mechanism to generate wealth and make everyone better off. This is completely non-controversial and is what most actual economists and political scientists believe, and has been demonstrated over and over throughout history.
 
-However, there are different kinds of capitalism, ranging from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). We know that completely free-market systems have serious downsides, such as monopolies amd not properly accounting for externalities (e.g. pollution, global warming). Thus, I believe that capitalism should be tempered by a strong government that corrects for these problems. (Not surprisingly, this is the exact state of affairs in nearly all advanced economies in the world.)
+However, there are different kinds of capitalism, ranging from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). We know that completely free-market systems have serious downsides, such as monopolies amd not properly accounting for externalities (e.g. pollution, global warming). Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems. (Not surprisingly, this is the exact state of affairs in nearly all advanced economies in the world.)
 
 ## Socialism / Communism
 
@@ -44,13 +44,13 @@ However, there are different kinds of capitalism, ranging from *[laissez-faire](
 
 In order to learn more about socialism, I have had discussions with many people who self-identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and more. (Search YouTube for "destiny socialism").
 
-When we actually get into the nitty-gritty of how socialism would work on a day to day basis, there are things that socialists cannot explain or have murky explanations for, such as how new capital is allocated, how workers can change their positions, and so forth.
+When we actually get into the nitty-gritty of how socialism would work on a day to day basis, there are things that socialists cannot explain or have murky explanations for, such as how new capital is allocated, and how workers can change their positions.
 
 My deep-dive into socialism has resulted in a high amount of skepticism with many of its claims.
 
-### Online Activism for Socialism
+### Online Socialism Activism
 
-A lot of the discourse online around socialism (e.g. on Twitter) is from people who are widely ignorant of economics and how capital markets actually work in practice. Plenty of socialist-leaning content creators just have a fundamental misunderstanding of basic facts, such as [Philosophy Tube's video on Housing](https://www.youtube.com/watch?v=rBbhZWZf0gM).
+A lot of the discourse around socialism (e.g. on Twitter) is from people who are widely ignorant of economics and how capital markets actually work in practice. Plenty of socialist-leaning content creators have a fundamental misunderstanding of basic facts, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM).
 
 While there are plenty of highly intelligent people who identify as a socialist, my general interactions with "online socialists" or "online lefties" from 2018 to 2020 have left me with a very low impression of the community at large.
 
@@ -60,13 +60,13 @@ Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are busine
 
 I don't see anything inherently wrong with co-ops. I agree that they could, theoretically, be a superior way of organizing a business. If you want to experiment with making a co-op, you should do so.
 
-With that said, if co-ops were really a vehicle for increased happiness, productivity, quality, efficiency, and so forth, then it seems likely that they would <strong>already</strong> be widespread throughout society.
+With that said, if co-ops were really a vehicle for increased happiness, productivity, quality, or efficiency, then it seems likely that they would already have caught on and already be widespread throughout society.
 
 ### Political Ineffectiveness
 
 A major gripe that I have with "online socialism" is that they are political impotent. People in America (and around the world) have problems <strong>right now</strong> that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting.
 
-Moreover, all policies instituted by the government are going to have pros and cons. Let's debate those policies and find out which one will be the best. But most socialists that I talk to will have no actual policy positions. They just live in a fantasy land where all capital is abolished, without a plan for how to get there and without a plan for solving the actual problems that we are facing right now.
+Moreover, all policies instituted by the government are going to have pros and cons. Let's debate those policies and find out which one will be the best. But most socialists that I talk to will have no actual policy positions. They live in a fantasy land where all capital is abolished, without a plan for how to get there and without a plan for solving the actual problems that we are facing right now.
 
 ## Violence
 
@@ -74,9 +74,9 @@ In general, I am against violence. However, I think it is probably okay to be ph
 
 ## Protesting & Rioting
 
-I am for non-violent protesting. Protesting is a legitimate form of political activism and has a long history of being a "very-American" thing to do (e.g. the [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)).
+I am for non-violent protesting. Protesting is a legitimate form of political activism and has a long history of being a "very-American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)).
 
-I am also for violent protesting (e.g. rioting), but only if the destruction of property is public (e.g. a government building like a courthouse).
+Additionally, I am for violent protesting (e.g. rioting), but only if the destruction of property is public (e.g. a government building like a courthouse).
 
 I am not for rioting when the destruction of property is private (e.g. a local business).
 

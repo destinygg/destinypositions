@@ -17,6 +17,6 @@ I chose to move to California for work-related reasons - the opportunities for c
 
 I went to the [University of Nebraska at Omaha](https://www.unomaha.edu/) and majored in music, but dropped out.
 
-In general, I do think that people need to have a college degree in order to have good opinions or to know what they are talking about.
+In general, I do not think that people need to have a college degree in order to have good opinions or to know what they are talking about.
 
-However, a formal education doesn't hurt. I think that laymen should generally defer to the consensus of experts, as they can grossly misinterpret the data. A good example of this is in [my debate with Vegan Gains](https://www.youtube.com/watch?v=9yK-lO98scI).
+However, a formal education doesn't hurt. I think that laymen should generally defer to the consensus of experts, as they can grossly misinterpret the data. A good example of this can be found in [my discussion with Vegan Gains](https://www.youtube.com/watch?v=9yK-lO98scI).
