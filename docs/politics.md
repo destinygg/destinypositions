@@ -10,6 +10,14 @@ In politics, it can be useful to know which particular ideology someone subscrib
 1. Having the core values of liberalism (e.g. freedom and equality).
 2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
 
+## Philosophical Axioms and Consistency
+
+I think that political positions should be the result of a consistent system - namely, an underlying philosophical or moral framework. My personal system starts with the axiom of wanting to maximize my own internal happiness. But my internal happiness can't be fully realized without other people contributing to the project. And these other people are also concerned with their own internal happiness. Thus, it follows that I should be concerned with other the well-being of others, for purely selfish reasons, at least as long as those people are also subscribed to the project of maximizing everyone's well-being. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) provides a full explanation.
+
+My political positions generally follow from my moral system. I think that this is much better state of affairs than having my positional positions be inherited from the a political party.
+
+A lot of political debate actually just boils down to having a different moral system. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down and try to figure out what the other person actually believes at a fundamental level. This is why hypotheticals are an extremely useful tool when trying to get at the root of what other people believe.
+
 ## The Alt-Right
 
 I do not support the alt-right, but I will acknowledge that there is a real problem with many Americans feeling like they have been left-behind.
