@@ -42,7 +42,7 @@ I would consider myself to be a capitalist, with some caveats.
 
 At a high-level, capitalism is best-known societal mechanism to generate wealth and make everyone better off. This is completely non-controversial and is what most actual economists and political scientists believe, and has been demonstrated over and over throughout history.
 
-However, there are different kinds of capitalism, ranging from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). We know that completely free-market systems have serious downsides, such as monopolies and not properly accounting for externalities (e.g. pollution, global warming). Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems. (Not surprisingly, this is the exact state of affairs in nearly all advanced economies in the world.)
+However, there are different kinds of capitalism, ranging from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). We know that completely free-market systems have serious downsides, such as monopolies, and not properly accounting for externalities (e.g. pollution, global warming). Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems. (Not surprisingly, this is the exact state of affairs in nearly all advanced economies in the world.)
 
 ## Socialism / Communism
 
@@ -80,13 +80,31 @@ Also see [the section on voting](#voting).
 
 ## Social Justice
 
-I think that social justice is a real thing.
+I think that social justice is a real thing. We have made a ton of progress so far (in e.g. ending slavery, ending redlining, legalizing gay marriage) but we are not at the finish line yet. In general, the government should work to protect the rights of minority groups, including trans people.
 
-However, sometimes social justice can go too far (e.g. Twitch banning the "blind playthrough" tag, completely made up pronouns based on animals).
+Sometimes, social justice can go too far (e.g. Twitch banning the "blind playthrough" tag, completely made up pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
 
-On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
+The right place is somewhere in the middle. Try to have respect for other people, especially if it won't inconvienence you that much. In general, this means that if someone wants you to call them she/her, then you should be polite and do so.
 
-The right place is somewhere in the middle - try to have respect for other people, especially if it won't inconvienence you that much. In general, this means that if someone wants you to call them she/her, then you should be polite and do so.
+## Diversity
+
+In general, I think that diversity is a good thing, but it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races - the best person should get the job, regardless of what gender or race they are.
+
+But at the same time, there is a big difference in a group with 10 men versus a group with 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group a lot more to hire the women - the group would gain a different perspective and it would be more well-rounded.
+
+A great anecdote showcasing this concept is the software engineers who developed facial recognition software. As the story goes, when the engineers were refining their algorithms and testing them out, they were testing on people in their local area. It was only later, when the technology got to be used in a more widespread fashion, did they realize that it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). Oops! If the team had had one black engineer, it might have helped the team to catch this problem early on.
+
+Anecdotes aside, what does the data say? Research tends to show that [diversity does tend to have benefits](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), but [it isn't completely one-sided](https://hbr.org/2016/07/why-diversity-programs-fail).
+
+Also see the section on [affirmative action](#affirmative-action).
+
+## Affirmative Action
+
+I am neither for nor against affirmative action - it depends on how it is implemented.
+
+For example, I am against [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/), because it seems like it is going too far.
+
+Also see the section on [diversity](#diversity).
 
 ## Voting
 
@@ -106,11 +124,15 @@ Additionally, I am for violent protesting (e.g. rioting), but only if the destru
 
 I am not for rioting when the destruction of property is private (e.g. a local business).
 
-## Kyle Rittenhouse & Defense of Property
+## Kyle Rittenhouse
 
 First, see my position on [protesting & rioting](#protesting--rioting).
 
 In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home.
+
+Also see the section on (defense of property)[#defense-of-property].
+
+## Defense of Property
 
 Putting aside whether Kyle Rittenhouse was "in the right" or "in the wrong", I think that we can have a separate discussion on defending property. I think that, in general, people have a right to defend their property. 
 
