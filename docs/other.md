@@ -7,7 +7,7 @@ title: Other
 
 In general, I am for free speech. However, I also think that public figures (including Twitch streamers and YouTubers) have a responsibility to use language that won't be misinterpreted by their most-toxic fans.
 
-For example, imagine that I made a joke on-stream that included the N-word. If thousands of people happen to be watching the stream, it could be the case that one of them harbors resentment for black people. In hearing me say the joke, it might signal to them that not liking black people is acceptable, that using the N word is okay in all contexts, and so forth. Even though it seems likely that most normal people wouldn't ever jump to those conclusions, I have avoided making jokes like that, and will continue to.
+For example, imagine that I made a joke on-stream that included the N-word. If thousands of people happen to be watching the stream, it could be the case that one of them harbors resentment for black people. In hearing me say the joke, it might signal to them that not liking black people is acceptable, that using the N word is okay in all contexts, and so forth. Even though it seems likely that most normal people wouldn't ever jump to those conclusions, I have avoided making jokes like that in public, and will continue to.
 
 With that said, this public responsibility does not extend to speech that I use in private. For example, imagine that I tell the same N-word joke to a small group of friends in a private context. If no-one in my friend group is racist, and everyone in my friend group knows that I am not a racist, then it would be impossible for the same type of hate-propagation to occur.
 
