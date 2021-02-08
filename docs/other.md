@@ -13,6 +13,8 @@ With that said, this public responsibility does not extend to speech that I use 
 
 (I acknowledge that there can be degrees of racism; the above example is simplified to get the point across.)
 
+I do not regularly use the N-word in my private interactions. With that said, I do not think that it is inherantly wrong to tell a racist joke in private, and I reserve the right to do so in the future.
+
 ## Incest
 
 In general, I do not support incest. This is mostly because there is a large power imbalance between the two parties (e.g. mother and son, older brother and younger sister), which is not healthy. There are many arguments against incest, but this is the best one.
