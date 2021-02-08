@@ -92,6 +92,8 @@ Sometimes, social justice can go too far (e.g. Twitch banning the "blind playthr
 
 The right place is somewhere in the middle. Try to have respect for other people, especially if it won't inconvienence you that much. In general, this means that if someone wants you to call them she/her, then you should be polite and do so.
 
+Also see the section on [systemic racism](#systemic-racism).
+
 ## Diversity
 
 In general, I think that diversity is a good thing, but it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races - the best person should get the job, regardless of what gender or race they are.
@@ -111,6 +113,26 @@ I am neither for nor against affirmative action - it depends on how it is implem
 For example, I am against [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/), because it seems like it is going too far.
 
 Also see the section on [diversity](#diversity).
+
+## Systemic Racism
+
+[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The interesting thing about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist - it had a computer system that was programmed to assign more police drivebys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single policeman and policewomen** in the entire force is a black-loving certified anti-racist. But the police force would still be racist.
+
+We have pretty strong evidence of that in the United States, there are some lingering forms of systemic racism. For example, by [looking at graphs of where redlining existed](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining do affect current outcomes (in a statistical, on-average way).
+
+Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are racist people in the country somewhere in charge of bank loans or city planning - but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
+
+I think that systemic racist clearly exists (in some forms). I don't have a strong opinion on the best policies to address it.
+
+Also see the section on [reparations](#reparations).
+
+## Reparations
+
+After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government renegged on this promise, which seems pretty unfair.
+
+There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of (finally) fuffilling a debt that was promised.
+
+Logistically, implementing reparations would be difficult. I acknowledge that reparations are probably not politically feasiable.
 
 ## Voting
 
