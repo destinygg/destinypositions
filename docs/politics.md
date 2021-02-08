@@ -90,7 +90,7 @@ I think that social justice is a real thing. We have made a ton of progress so f
 
 Sometimes, social justice can go too far (e.g. Twitch banning the "blind playthrough" tag, completely made up pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
 
-The right place is somewhere in the middle. Try to have respect for other people, especially if it won't inconvienence you that much. In general, this means that if someone wants you to call them she/her, then you should be polite and do so.
+The right place is somewhere in the middle. I advocate that you should try to have respect for other people, especially if doing so won't inconvienence you that much. In general, this means that if someone wants you to call them she/her, then you should be polite and do so.
 
 Also see the section on [systemic racism](#systemic-racism).
 
