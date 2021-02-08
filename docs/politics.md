@@ -140,6 +140,20 @@ Voting is important.
 
 People in America (and around the world) have problems <strong>right now</strong> that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidate (at both a local and a national level).
 
+## Global Warming
+
+I think that global warming is a real thing and is anthroprogenic (e.g. caused by humans).
+
+Unfortunately, I have low hopes that the world will be able to agree to reduce carbon emissions to prevent significant warming (<4°C).
+
+I don't support any particular policies relating to global warming.
+
+## The Green New Deal
+
+I do not support the [Green New Deal](https://en.wikipedia.org/wiki/Green_New_Deal), a policy championed by the [Justice Democrats](https://en.wikipedia.org/wiki/Justice_Democrats).
+
+While I would like to see policies that bring America closer to being carbon-neutral, the Green New Deal includes a federal-jobs-gaurantee, which is absurd. Even if I did agree with a federal-jobs-guarantee, it wouldn't be politically viable: every single Republican is against it, and some Democrats besides.
+
 ## International Trade Agreements
 
 I am highgly in favor of international trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
