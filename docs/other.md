@@ -15,7 +15,7 @@ With that said, this public responsibility does not extend to speech that I use 
 
 ## Incest
 
-In general, I do not support incest. This is because most of the time, there is a large power imbalance between the two parties (e.g. mother and son, older brother and younger sister), which is not healthy.
+In general, I do not support incest. This is mostly because there is a large power imbalance between the two parties (e.g. mother and son, older brother and younger sister), which is not healthy. There are many arguments against incest, but this is the best one.
 
 Incest can be useful as a discussion topic in certain situations. This is because most people assume that incest is wrong, but have not given it much thought, and when pressed, cannot seem to articulate exactly why it is wrong. The ability to actually engage with the topic and go through it in a systematic way is demonstrative of a good thought process (and intelligence, more generally).
 
