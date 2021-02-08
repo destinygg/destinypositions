@@ -11,7 +11,9 @@ I chose to move to California for work-related reasons - the opportunities for c
 
 ## Melina
 
-[Melina](https://www.twitch.tv/melina) is my fiancée. We met in New Zealand when she was 20 years old and I was 30 years old. We are in an open relationship. More specifically, this means that we treat each other as primary partners, but each of us are free to pursue secondary relationships (with the blessing of the other). I am aware that throughout the world, polyamorous relationships and open relationships are not common. Please understand that my having an open relationship does not mean that I love my partner any less than if I was in a monogamous relationship.
+[Melina](https://www.twitch.tv/melina) is my fiancée. We met in New Zealand when she was 20 years old and I was 30 years old.
+
+Melina and I are currently in an open relationship. More specifically, this means that we treat each other as primary partners, but each of us are free to pursue secondary relationships (with the blessing of the other). I am aware that throughout the world, polyamorous relationships and open relationships are not common. Please understand that my having an open relationship does not mean that I love my partner any less than if I was in a monogamous relationship.
 
 ## College
 
