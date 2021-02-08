@@ -171,3 +171,15 @@ Furthermore, I think that people have a right to defend their property with leth
 (I dutifully acknowledge that there can be degrees of escalation and de-escalation; the above example is simplified to get the point across.)
 
 Many disagreements over whether or not defense of personal property is justified boil down to a difference of underlying values. Middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system.
+
+## Stock Buybacks
+
+Stock buybacks are not inherantly evil. [TBC]
+
+Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez) seem to be economically illerate in this specific regard.
+
+## Robin Hood
+
+On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independant media, this was reported as being a conspiracy of "the rich" against "the little guy", which was a gross mispresentation of what actually happened and showcases a woeful misunderstanding of how finance works throughout society.
+
+[TBC]
