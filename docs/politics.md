@@ -34,7 +34,7 @@ My most recent [debate with Erik Striker & James Allsup](https://www.youtube.com
 
 I do not support [populism](https://en.wikipedia.org/wiki/Populism).
 
-Populism is usually defined as the "people" versus "the elites". This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based in facts.
+Populism is usually defined as "the people" versus "the elites". This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based in facts.
 
 ## Capitalism
 
