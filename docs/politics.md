@@ -3,6 +3,12 @@ id: politics
 title: Politics
 ---
 
+## Political Discourse in General
+
+The reason that I got into politics in the first place was because I noticed a lot of bad arguments and faulty reasoning throughout online discourse. I support fact-based discussion, trying to be [charitable](https://en.wikipedia.org/wiki/Principle_of_charity) to the other side, doing at least a bare minimum of research on a topic before speaking about it, and not sensationalizing the news for a political narrative.
+
+To be fair, I have been streaming for over 10 years. You will be able to find plenty of times where I have used bad arguments, wasn't charitable, or didn't do a proper amount of research on a topic. But I do strive to live up to these ideals, and feel like I do a pretty good job most of the time.
+
 ## Omni-Liberalism
 
 In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
