@@ -146,7 +146,7 @@ I think that global warming is a real thing and is anthroprogenic (e.g. caused b
 
 Unfortunately, I have low hopes that the world will be able to agree to reduce carbon emissions to prevent significant warming (<4°C).
 
-I don't support any particular policies relating to global warming.
+I don't support any particular policies relating to global warming, although I would like to see America (and the rest of the world) become carbon neutral as fast as reasonably possible.
 
 ## The Green New Deal
 
