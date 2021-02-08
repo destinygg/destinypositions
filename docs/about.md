@@ -9,4 +9,4 @@ As a content creator, I am often misrepresented. Sometimes, this is by people wh
 
 This problem has only gotten worse over time. I have been streaming for over 10 years, and a good chunk of people out there may have unfavorable opinions of me based on positions that I don't actually hold. It is exhausting to have to repeatedly clarify myself and stop the spread of misinformation.
 
-Let's fix that. My actual positions are laid out on this website. If you see someone online misrepresenting me (e.g. "Destiny believes in X"), feel free to link them to the specific subsection of this website that clarifies my real position.
+Let's fix that. My actual positions are laid out on this website. If you see someone online misrepresenting me (e.g. "Destiny believes in X"), feel free to link them to the specific subsection of this website that clarifies my real position. (You can click on the "#" symbol next to a header in order to generate a link.)
