@@ -29,8 +29,8 @@ const features = [
   },
   {
     num: 3,
-    title: 'Internet Discourse',
-    iconName: 'tired',
+    title: 'Sources',
+    iconName: 'book-open',
     description: (
       <>
         Online political discourse has become increasingly unhealthy. I want debate to be grounded in facts and research. You can see some of the resources that I base my positions on here.
