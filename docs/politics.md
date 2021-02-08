@@ -176,7 +176,7 @@ Many disagreements over whether or not defense of personal property is justified
 
 Stock buybacks are not inherantly evil. [TBC]
 
-Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez) seem to be economically illerate in this specific regard.
+Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)) seem to be economically illerate in this specific regard.
 
 ## Robin Hood
 
