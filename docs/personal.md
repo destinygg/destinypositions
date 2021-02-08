@@ -7,7 +7,7 @@ title: Personal
 
 I have a son called Nathan with my ex-wife. They live in Omaha, Nebraska. My ex-wife was physically abusive to me when we were together, which was one of the main reasons for the divorce. However, we are now on good terms and raise our son together.
 
-I chose to move to California for work-related reasons - the opportunities for collaboration were much higher. The move has allowed me to grow my platform. I love my son and spend as much time with my son as possible, making several trips per year back to Omaha to visit him.
+I chose to move to California for work-related reasons - the opportunities for collaboration were much higher. The move has allowed me to grow my platform. I love my son and spend as much time with him as possible, making several trips per year back to Omaha to visit him.
 
 ## Melina
 
