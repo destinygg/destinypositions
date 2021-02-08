@@ -29,4 +29,4 @@ In 2016, a fan emailed me with a link to an academic paper relating to child por
 
 Obviously, there are concerns with this idea: would we / should we get permission from the people in the old photographs/videos? Could it lead to an increase in first-time-offenses? And so on. However, in principle, if it could be demonstrated that the program would result in less children being abused, then I would be for the program, since I support less children being abused.
 
-Nowadays, I understand that the program in question has not been particularly well-received. As a laymen, I do not actively follow the latest results in the criminology world, so I will continue to defer to the consensus of criminologists, and continue to be in support of any program that they think will best result in less children being abused.
+Nowadays, I understand that the program in question has not been particularly well-received. As a laymen, I do not actively follow the latest results in the criminology world, so I will continue to defer to the consensus of criminologists, and will continue to be in support of any program that they think will best result in less children being abused.
