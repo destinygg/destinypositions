@@ -132,7 +132,7 @@ After the civil war, [former slaves were promised 40 acres and a mule](https://w
 
 There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of (finally) fuffilling a debt that was promised.
 
-Logistically, implementing reparations would be difficult. I acknowledge that reparations are probably not politically feasiable.
+Logistically, implementing reparations would be difficult. (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?) I acknowledge that reparations are probably not politically feasiable.
 
 ## Voting
 
