@@ -46,7 +46,7 @@ Populism is usually defined as "the people" versus "the elites". This happens on
 
 I would consider myself to be a capitalist, with some caveats.
 
-At a high-level, capitalism is best-known societal mechanism to generate wealth and make everyone better off. This is completely non-controversial and is what most actual economists and political scientists believe, and has been demonstrated over and over throughout history.
+At a high-level, capitalism is the best-known mechanism to generate wealth and make everyone better off. This is completely non-controversial and is what most actual economists and political scientists believe, and has been demonstrated over and over throughout history.
 
 However, there are different kinds of capitalism, ranging from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). We know that completely free-market systems have serious downsides, such as monopolies, and not properly accounting for externalities (e.g. pollution, global warming). Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems. (Not surprisingly, this is the exact state of affairs in nearly all advanced economies in the world.)
 
