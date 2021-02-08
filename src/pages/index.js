@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     num: 1,
-    title: 'Get It From the Source',
+    title: 'Get It From Me',
     iconName: 'brain',
     description: (
       <>
@@ -19,11 +19,11 @@ const features = [
   },
   {
     num: 2,
-    title: 'Nuance',
+    title: 'Compromise',
     iconName: 'comments',
     description: (
       <>
-        The real world is complicated and the best answers are usually found between two extremes. Please take the time to understand the nuance involved in my positions.
+        The real world is complicated and the best answers are usually found between two extremes. My positions can be better understood if you avoid black and white and allow for nuance.
       </>
     ),
   },
