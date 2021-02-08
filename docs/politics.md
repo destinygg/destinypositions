@@ -140,7 +140,7 @@ Voting is important.
 
 People in America (and around the world) have problems <strong>right now</strong> that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidate (at both a local and a national level).
 
-## International Trade Agreements (e.g. TPP)
+## International Trade Agreements
 
 I am highgly in favor of international trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
 
