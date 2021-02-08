@@ -16,7 +16,7 @@ I think that political positions should be the result of a consistent system - n
 
 My political positions generally follow from my moral system. I think that this is a much better state of affairs than having my positional positions be inherited from my parents, or inherited from a particular political party.
 
-A lot of political debate actually just boils down to having a different moral system. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down and try to figure out what the other person actually believes at a fundamental level. This is why hypotheticals are an extremely useful tool - it can help pinpoint exactly where you disagree with someone else.
+A lot of political debate actually just boils down to having a different moral system. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down and try to figure out what the other person actually believes at a fundamental level. This is why hypotheticals are an extremely useful tool - they can help pinpoint exactly where you disagree with someone else.
 
 ## Libertarianism
 
