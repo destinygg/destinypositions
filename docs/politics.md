@@ -120,7 +120,7 @@ Also see the section on [diversity](#diversity).
 
 We have pretty strong evidence that in the United States, there are some lingering forms of systemic racism. For example, by [looking at graphs of where redlining existed](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
 
-Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere in charge of bank loans or city planning - but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
+Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning - but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
 
 I think that systemic racist clearly exists (in some forms). I don't have a strong opinion on the best policies to address it.
 
