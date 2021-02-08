@@ -130,7 +130,7 @@ First, see my position on [protesting & rioting](#protesting--rioting).
 
 In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home.
 
-Also see the section on (defense of property)[#defense-of-property].
+Also see the section on [defense of property](#defense-of-property).
 
 ## Defense of Property
 
