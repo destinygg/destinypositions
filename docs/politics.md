@@ -18,6 +18,12 @@ My political positions generally follow from my moral system. I think that this 
 
 A lot of political debate actually just boils down to having a different moral system. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down and try to figure out what the other person actually believes at a fundamental level. This is why hypotheticals are an extremely useful tool - it can help pinpoint exactly where you disagree with someone else.
 
+## Libertarianism
+
+[Libertarianism](https://en.wikipedia.org/wiki/Libertarianism) is concerned with maximizing liberty and personal freedom. I viewed myself as a libertarian when I was a teenager and have read books by [Ayn_Rand](https://en.wikipedia.org/wiki/Ayn_Rand).
+
+I am still pro liberty and pro freedom, but my political views have evolved. Libertarianism does not seem to do a very good job at solving some major problems, like social inequality and global warming. The latter, in particular, seems likely only to be solved by international cooperation at a global level.
+
 ## The Alt-Right
 
 I do not support the alt-right, but I will acknowledge that there is a real problem with many Americans feeling like they have been left-behind.
