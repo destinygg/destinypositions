@@ -17,8 +17,11 @@ jobs:
         with:
           node-version: '14'
           
+      - name: Install Tools
+        run: npm ci
+        
       - name: Build Local
-        run: yarn run build
+        run: npm run build
       
       - name: Copy Build to DGGProd
         uses: appleboy/scp-action@master
