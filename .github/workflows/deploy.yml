@@ -31,5 +31,6 @@ jobs:
           port: ${{ secrets.SCP_PORT }}
           key: ${{ secrets.SCP_KEY }}
           source: "build/*"
+          rm: true
           target: ${{ secrets.SCP_TARGET }}
           strip_components: 1
