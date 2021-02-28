@@ -1,13 +1,13 @@
 module.exports = {
   title: 'My Positions',
   tagline: 'Find out what I actually believe.',
-  url: 'https://destinypositions.github.io',
+  url: 'https://positions.destiny.gg/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'destinypositions', // Usually your GitHub org/user name.
-  projectName: 'destinypositions.github.io', // Usually your repo name.
+  projectName: 'destinypositions', // Usually your repo name.
   themeConfig: {
     // Vanilla settings
     navbar: {
@@ -80,7 +80,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub Repository',
-              href: 'https://github.com/destinypositions/destinypositions.github.io',
+              href: 'https://github.com/destinygg/destinypositions',
             },
           ],
         },
