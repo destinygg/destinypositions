@@ -33,3 +33,4 @@ jobs:
           source: "build/*"
           rm: true
           target: ${{ secrets.SCP_TARGET }}
+          strip_components: 1
