@@ -116,7 +116,7 @@ Also see the section on [diversity](#diversity).
 
 ## Systemic Racism
 
-[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The interesting thing about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist - it had a computer system that was programmed to assign more police drivebys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single policeman and policewomen** in the entire force is a black-loving certified anti-racist. But the police force would still be racist.
+[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The interesting thing about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist - it had a computer system that was programmed to assign more police drive-bys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single policeman and policewomen** in the entire force is a black-loving certified anti-racist. But the police force would still be racist.
 
 We have pretty strong evidence that in the United States, there are some lingering forms of systemic racism. For example, by [looking at graphs of where redlining existed](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
 
@@ -201,6 +201,6 @@ Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.w
 
 ## Robinhood
 
-On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independent media, this was reported as being a conspiracy of "the rich" against "the little guy", which was a gross mispresentation of what actually happened and showcases a woeful misunderstanding of how finance works.
+On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independent media, this was reported as being a conspiracy of "the rich" against "the little guy", which was a gross misrepresentation of what actually happened and showcases a woeful misunderstanding of how finance works.
 
-[TBC]
+For more information, see [my in-depth video on the subject](https://www.youtube.com/watch?v=DHM4gFiem7s&t=627s).

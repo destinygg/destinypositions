@@ -7,7 +7,7 @@ title: Personal
 
 I have a son called Nathaniel with my ex-girlfriend, Rachel. They both live in Omaha, Nebraska. My ex-girlfriend and I had an incredibly toxic relationship, which was one of the main reasons for our separation. However, we are now on good terms and raise our son together.
 
-I chose to move to California for work-related reasons - the opportunities for collaboration were much higher. The move has allowed me to grow my platform. I love my son and spend as much time with him as possible, making several trips per year back to Omaha to visit him while regularly communicating with him (usually him asking me for vbux zz). I also currently pay for their house, a vehicle, + child support for my son.
+I chose to move to California for work-related reasons - the opportunities for collaboration were much higher. The move has allowed me to grow my platform. I love my son and spend as much time with him as possible, making several trips per year back to Omaha to visit him while regularly communicating with him (usually him asking me for vbux). I also currently pay for their house, a vehicle, + child support for my son.
 
 ## Melina
 
