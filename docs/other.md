@@ -13,7 +13,7 @@ With that said, this public responsibility does not extend to speech that I use 
 
 (I acknowledge that there can be degrees of racism; the above example is simplified to get the point across.)
 
-I do not regularly use the N-word in my private interactions. With that said, I do not think that it is inherantly wrong to tell a racist joke in private, and I will likely continue to do so in the future.
+I do not regularly use the N-word in my private interactions. With that said, I do not think that it is inherently wrong to tell a racist joke in private, and I will likely continue to do so in the future.
 
 ## Incest
 
@@ -25,9 +25,9 @@ In the past, I've argued both for and against incest, depending on the situation
 
 ## Child Pornography
 
-I do not support child pornography or pedophila.
+I do not support child pornography or pedophilia.
 
-In 2016, a fan emailed me with a link to an academic paper relating to child pornography. The authors of the paper suggested that it might be in the best interest of society to institute a program whereby pedophilies with repeat offenses would be allowed to consume old child pornography. The hope was that this would reduce their urges, resulting in a reduction of the amount of new child pornography getting produced, and a reduction of new kids getting abused.
+In 2016, a fan emailed me with a link to an academic paper relating to child pornography. The authors of the paper suggested that it might be in the best interest of society to institute a program whereby pedophiles with repeat offenses would be allowed to consume old child pornography. The hope was that this would reduce their urges, resulting in a reduction of the amount of new child pornography getting produced, and a reduction of new kids getting abused.
 
 Obviously, there are concerns with this idea: would we / should we get permission from the people in the old photographs/videos? Could it lead to an increase in first-time-offenses? And so on. However, in principle, if it could be demonstrated that the program would result in less children being abused, then I would be for the program, since I support less children being abused.
 
