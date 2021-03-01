@@ -2,6 +2,7 @@
 id: about
 title: About
 sidebar_label: About
+description: Positions of Steven "Destiny" Bonnell
 slug: /
 ---
 
