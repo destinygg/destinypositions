@@ -4,7 +4,6 @@ on:
   push:
     branches: [ main ]
 
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -43,4 +42,3 @@ jobs:
           port: ${{ secrets.SCP_PORT }}
           key: ${{ secrets.SCP_KEY }}
           script: "sudo varnishadm \"ban req.http.host == positions.destiny.gg\""
-        
