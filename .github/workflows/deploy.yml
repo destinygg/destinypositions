@@ -34,3 +34,13 @@ jobs:
           rm: true
           target: ${{ secrets.SCP_TARGET }}
           strip_components: 1
+          
+      - name: Bust Varnish Cache 
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SCP_HOST }}
+          username: ${{ secrets.SCP_USERNAME }}
+          port: ${{ secrets.SCP_PORT }}
+          key: ${{ secrets.SCP_KEY }}
+          script: "sudo varnishadm \"ban req.http.host == positions.destiny.gg\""
+        
