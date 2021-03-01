@@ -90,7 +90,7 @@ I think that social justice is a real thing. We have made a ton of progress so f
 
 Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism", Twitch banning the "blind playthrough" tag, completely made up pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
 
-The right place is somewhere in the middle. I advocate that you should try to have respect for other people, especially if doing so won't inconvienence you that much. In general, this means that if someone wants you to call them she/her, then you should probably be polite and do so.
+The right place is somewhere in the middle. I advocate that you should try to have respect for other people, especially if doing so won't inconvenience you that much. In general, this means that if someone wants you to call them she/her, then you should probably be polite and do so.
 
 Also see the section on [systemic racism](#systemic-racism).
 
@@ -128,11 +128,11 @@ Also see the section on [reparations](#reparations).
 
 ## Reparations
 
-After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government renegged on this promise, which seems pretty unfair.
+After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems pretty unfair.
 
-There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of (finally) fuffilling a debt that was promised.
+There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of (finally) fulfilling a debt that was promised.
 
-Logistically, implementing reparations would be difficult. (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?) I acknowledge that reparations are probably not politically feasiable.
+Logistically, implementing reparations would be difficult. (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?) I acknowledge that reparations are probably not politically feasible.
 
 ## Voting
 
@@ -142,7 +142,7 @@ People in America (and around the world) have problems <strong>right now</strong
 
 ## Global Warming
 
-I think that global warming is a real thing and is anthroprogenic (e.g. caused by humans).
+I think that global warming is a real thing and is anthropogenic (e.g. caused by humans).
 
 Unfortunately, I have low hopes that the world will be able to agree to reduce carbon emissions to prevent significant warming (<4°C).
 
@@ -156,10 +156,10 @@ While I would like to see policies that bring America closer to being carbon-neu
 
 ## International Trade Agreements
 
-I am highly in favor of international trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
+I am highly in favor of international trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
 
 1. International cooperation - International trade agreements lay the groundwork for even more international trade agreements. Ever-increasing cooperation is one of the only hopes we have at solving global warming.
-2. American soft power - In forfeiting the TPP, America cedes ground to China and their [Belt and Road Initiaitive](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative). Soft power is more important than you might think. Without it, we lose the ability to exert pressure on other countries to respect the values of democracy, personal freedom, political freedom, and basic human rights.
+2. American soft power - In forfeiting the TPP, America cedes ground to China and their [Belt and Road Initiative](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative). Soft power is more important than you might think. Without it, we lose the ability to exert pressure on other countries to respect the values of democracy, personal freedom, political freedom, and basic human rights.
 
 ## Violence
 
@@ -201,6 +201,6 @@ Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.w
 
 ## Robin Hood
 
-On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independant media, this was reported as being a conspiracy of "the rich" against "the little guy", which was a gross mispresentation of what actually happened and showcases a woeful misunderstanding of how finance works.
+On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independent media, this was reported as being a conspiracy of "the rich" against "the little guy", which was a gross mispresentation of what actually happened and showcases a woeful misunderstanding of how finance works.
 
 [TBC]
