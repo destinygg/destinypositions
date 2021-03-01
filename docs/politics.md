@@ -152,7 +152,7 @@ I don't support any particular policies relating to global warming, although I w
 
 I do not support the [Green New Deal](https://en.wikipedia.org/wiki/Green_New_Deal), a policy championed by the [Justice Democrats](https://en.wikipedia.org/wiki/Justice_Democrats).
 
-While I would like to see policies that bring America closer to being carbon-neutral, the Green New Deal includes a federal-jobs-gaurantee, which is absurd. Even if I did agree with a federal-jobs-guarantee, it wouldn't be politically viable: every single Republican is against it, and some Democrats besides.
+While I would like to see policies that bring America closer to being carbon-neutral, the Green New Deal includes a federal-jobs-guarantee, which is absurd. Even if I did agree with a federal-jobs-guarantee, it wouldn't be politically viable: every single Republican is against it, and some Democrats besides.
 
 ## International Trade Agreements
 
