@@ -20,7 +20,7 @@ In politics, it can be useful to know which particular ideology someone subscrib
 
 I think that political positions should be the result of a consistent system - namely, an underlying philosophical or moral framework. My personal system starts with the axiom of wanting to maximize my own internal happiness. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) provides a full explanation.
 
-My political positions generally follow from my moral system. I think that this is a much better state of affairs than having my positional positions be inherited from my parents, or inherited from a particular political party.
+My political positions generally follow from my moral system. I think that this is a much better state of affairs than having my political positions be inherited from my parents, or inherited from a particular political party.
 
 A lot of political debate actually just boils down to having a different moral system. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down and try to figure out what the other person actually believes at a fundamental level. This is why hypotheticals are an extremely useful tool - they can help pinpoint exactly where you disagree with someone else.
 
