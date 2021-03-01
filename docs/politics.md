@@ -199,7 +199,7 @@ Stock buybacks are sometimes characterized as being greedy, benefitting stockhol
 
 Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)) seem to be ignorant on these points.
 
-## Robin Hood
+## Robinhood
 
 On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independent media, this was reported as being a conspiracy of "the rich" against "the little guy", which was a gross mispresentation of what actually happened and showcases a woeful misunderstanding of how finance works.
 
