@@ -96,11 +96,11 @@ Also see the section on [systemic racism](#systemic-racism).
 
 ## Diversity
 
-In general, I think that diversity is a good thing, but it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races - the best person should get the job, regardless of what gender or race they are.
+In general, I believe diversity is a good thing, thought there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races - the best person should get the job, regardless of what gender or race they are.
 
-But at the same time, there is a big difference in a group with 10 men versus a group with 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group a lot more to hire the women - the group would gain a different perspective and it would be more well-rounded.
+At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group a lot more to hire the women - the group would gain a different perspective and it would be more well-rounded.
 
-A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms and testing them out, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, did they realize that it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). Oops! If the team had had one black engineer, it might have helped the team to catch this problem early on, resulting in a higher-quality and more well-rounded product.
+A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms and testing them out, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, that they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped the team to catch this problem early on, resulting in a higher-quality and more well-rounded product.
 
 Anecdotes aside, what does the data say? Research tends to show that [diversity does tend to have benefits](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), but [it isn't completely one-sided](https://hbr.org/2016/07/why-diversity-programs-fail).
 
@@ -163,21 +163,25 @@ I am highly in favor of international trade agreements, especially large binding
 
 ## Violence
 
-In general, I am against violence. However, I think it is probably okay to be physically violent in response to some forms of political violence (e.g. wrongful deportation).
+In general, I am against violence. However, I think it is morally defensible to engage in physical self-defense in response to some forms of political violence (e.g. wrongful deportation, oppressive police injustice, etc...).
 
 ## Protesting & Rioting
 
-I am for non-violent protesting. Protesting is a legitimate form of political activism and has a long history of being a "very-American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)).
+I am in favor of all forms of peaceful protest. I am also in favor of some forms of rioting (property damage) when it is done against **public property** absent causing injury/death. Protesting is a legitimate form of political activism and has a long history of being a "very-American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)). I also believe that rioting can be a way to legitimately air grievances against an unresponsive state, when the rioting is focused on public institutions and not private property (e.g. private businesses).
 
-Additionally, I am for violent protesting (e.g. rioting), but only if the destruction of property is public (e.g. a government building like a courthouse).
-
-I am not for rioting when the destruction of property is private (e.g. a local business).
-
-## Kyle Rittenhouse
+## Kyle Rittenhouse ("mowing down protestors")
 
 First, see my position on [protesting & rioting](#protesting--rioting).
 
-In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home.
+In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home. I also think there are steps he could have taken to minimize the risk of him needing to discharge a firearm.
+
+Out of a larger 20+ minute debate with someone, a short 16 second clip was cut to make it sound as though I support violence against Black Lives Matter protesters when this couldn't be farther from the truth. I am incredibly heated in this clip, but I am clear when I state that my main frustration is with the few rioters burning down private businesses and the idea that Trump's only path to victory was with continued arson and destruction of privately owned businesses across the US ([full conversation in August of 2020 with context part clipped](https://www.youtube.com/watch?t=1183&v=vMLJoUZZV1k&feature=youtu.be)).
+I have always defended the existence of BLM and its purpose, sometimes in front of live audiences as the only liberal member on the panel. ([Jesse Lee Peterson panel in October of 2020](https://www.youtube.com/watch?t=5719&v=dtGovEfzG8U&feature=youtu.be) | ([Conversation with call-in defending the existence and effectiveness of BLM's protests](https://www.youtube.com/watch?t=387&v=eTkMgMzYmQc&feature=youtu.be) | [Panel debate in August of 2020](https://www.youtube.com/watch?t=605&v=Fk99OaajDo8&feature=youtu.be) | [Support in November of 2018 of Kaepernick kneeling in the NFL](https://www.youtube.com/watch?t=6&v=LDNSV5AUX4k&feature=youtu.be) | [Attacking Dave Rubin's criticisms of Kaepernick's protests in September 2017](https://www.youtube.com/watch?v=lvd2AJ_oXM0))
+I've consistently pushed back against "white lives matter" and similar types of irresponsible (see: racist) rhetoric from the right. ([Jesse Lee Peterson panel in October of 2020](https://www.youtube.com/watch?v=XZbROikHd_Y))
+I have continually defended protesting, and even rioting against public institutions while pushing back against supporting the rioting/looting of private businesses, as I believe these are Republican tactics to draw attention away from the overwhelmingly positive protests. ([Discussion about Minneapolis protesting/looting in May of 2020](https://www.youtube.com/watch?t=639&v=oAQJfK9FKR8&feature=youtu.be) | [Debate with conservative/NeoNazi(?) Ethan Ralph in June 2020](https://www.youtube.com/watch?t=417&v=brlvVrI3dKE&feature=youtu.be) | [Discussion on my stream in September of 2020](https://www.youtube.com/watch?t=887&v=-FuT_caZCx8&feature=youtu.be))
+My specific issue in this debate was that I didn't believe it was morally acceptable to defend rioters destroying private businesses, regardless of their legitimate grievances with the local police. When I think of rioters attacking and destroying private property, I generally support citizens' rights to defend that property. I think back to the [Korean-Americans that were defending their property](https://www.youtube.com/watch?v=OCYT9Hew9ZU) in the '92 LA Riots, the Black Panthers in California [defending their communities](https://www.youtube.com/watch?v=uZlnZCpXfpQ), or the tragedy of the ["Black Wall Street" Tulsa massacre in 1921](https://www.youtube.com/watch?v=x-ItsPBTFO0). I was especially moved by the frustrated, black local business owner who was [screaming out](https://www.youtube.com/watch?v=wxK8VzylOrQ) in frustration about looters and rioters destroying his business in the '92 LA Riots.
+
+It's incredibly frustrating that people have intentionally and maliciously misconstrued a 16 second cut from a larger conversation to make it sound as though I don't support the BLM protests or somehow approve of racist white people indiscriminately killing protesters when this is an issue that I have been ruthlessly consistent on throughout the years. I unequivocally support BLM's right to both protest and riot against the public institutions that they view as oppressive. I have not changed or wavered on this stance in years.
 
 Also see the section on [defense of property](#defense-of-property).
 
