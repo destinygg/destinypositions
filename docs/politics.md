@@ -122,7 +122,7 @@ We have pretty strong evidence that in the United States, there are some lingeri
 
 Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning - but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
 
-I think that systemic racist clearly exists (in some forms). I don't have a strong opinion on the best policies to address it.
+I think that systemic racism clearly exists (in some forms). I don't have a strong opinion on the best policies to address it.
 
 Also see the section on [reparations](#reparations).
 
