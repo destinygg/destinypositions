@@ -9,11 +9,11 @@ In general, I am for free speech. However, I also think that public figures (inc
 
 For example, imagine that I made a joke on-stream that included the N-word. If thousands of people happen to be watching the stream, it could be the case that one of them harbors resentment for black people. In hearing me say the joke, it might signal to them that not liking black people is acceptable, that using the N word is okay in all contexts, and so forth. Even though it seems likely that most normal people wouldn't ever jump to those conclusions, I have avoided making jokes like that in public, and will continue to.
 
-With that said, this public responsibility does not extend to speech that I use in private. For example, imagine that I tell the same N-word joke to a small group of friends in a private context. If no-one in my friend group is racist, and everyone in my friend group knows that I am not a racist, then it would be impossible for the same type of hate-propagation to occur.
+With that said, this public responsibility does not extend to speech that I use in private. For example, imagine that I tell the same N-word joke to a small group of friends in a private context. If I believe that no-one in my friend group is racist, and everyone in that friend group also believes that I am not racist, then I have taken the necessary amount of precaution to make sure that the joke is engaged with in a responsible manner. There would be no risk for the same type of hate-propagation to occur.
 
 (I acknowledge that there can be degrees of racism; the above example is simplified to get the point across.)
 
-I do not regularly use the N-word in my private interactions. With that said, I do not think that it is inherently wrong to tell a racist joke in private, and I will likely continue to do so in the future.
+I do not regularly use the N-word in my private interactions. With that said, I do not think that it is inherently wrong to use the word within a joke playing on social taboo or for dark humour, in a private setting. I will likely continue to act with this belief in the future.
 
 ## Incest
 
