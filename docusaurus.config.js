@@ -8,6 +8,9 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'destinypositions', // Usually your GitHub org/user name.
   projectName: 'destinypositions', // Usually your repo name.
+  customFields: {
+    metaDescription: 'Steven (Destiny) Bonnell II is a professional streamer, primarily playing games, but will often venture off into other topics, including but not limited to: philosophy, youtube videos, music and all sorts of wonderful pseudo-intellectualism.',
+  },
   themeConfig: {
     // Vanilla settings
     navbar: {
