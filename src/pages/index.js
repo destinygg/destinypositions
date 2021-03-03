@@ -63,8 +63,7 @@ function Feature({num, title, iconName, description}) {
 }
 
 function Home() {
-  const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const {siteConfig = {}} = useDocusaurusContext();
   return (
     <Layout
       title={`${siteConfig.title}`}
