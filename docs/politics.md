@@ -142,7 +142,7 @@ People in America (and around the world) have problems <strong>right now</strong
 
 ## Global Warming
 
-I think that global warming is a real thing and is anthropogenic (e.g. caused by humans).
+I think that global warming is a real thing and is anthropogenic (i.e. caused by humans).
 
 Unfortunately, I have low hopes that the world will be able to agree to reduce carbon emissions to prevent significant warming (<4°C).
 
