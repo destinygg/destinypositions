@@ -66,7 +66,6 @@ function Home() {
   const {siteConfig = {}} = useDocusaurusContext();
   return (
     <Layout
-      title={siteConfig.title}
       description={siteConfig.customFields.metaDescription}>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
