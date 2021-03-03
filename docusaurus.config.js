@@ -95,6 +95,7 @@ module.exports = {
     colorMode: {
       defaultMode: 'dark',
     },
+    image: 'https://static-cdn.jtvnw.net/jtv_user_pictures/destiny-profile_image-951fd53950bc2f8b-300x300.png',
   },
   presets: [
     [
