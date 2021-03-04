@@ -66,6 +66,7 @@ function Home() {
   const {siteConfig = {}} = useDocusaurusContext();
 
   useEffect(() => {
+    // after a netlify user has been set up redirect them to the admin page
     function handleInitializeNetlifyUser() {
       if (!user) {
         window.netlifyIdentity.on('login', () => {
@@ -73,10 +74,14 @@ function Home() {
         });
       }
     }
-    window.netflifyIdentity.on('init', handleInitializeNetlifyUser);
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on('init', handleInitializeNetlifyUser);
+    }
 
     return () => {
-      window.netlifyIdentity.off('init', handleInitializeNetlifyUser);
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.off('init', handleInitializeNetlifyUser);
+      }
     };
   }, []);
 
