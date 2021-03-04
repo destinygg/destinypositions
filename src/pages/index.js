@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -65,15 +65,19 @@ function Feature({num, title, iconName, description}) {
 function Home() {
   const {siteConfig = {}} = useDocusaurusContext();
 
-  // if (window?.netlifyIdentity) {
-  //   window.netlifyIdentity.on('init', user => {
-  //     if (!user) {
-  //       window.netlifyIdentity.on('login', () => {
-  //         document.location.href = '/admin'
-  //       });
-  //     }
-  //   });
-  // }
+  useEffect(() => {
+    function handleInitializeNetflifyUser() {
+      if (!user) {
+        window.netlifyIdentity.on('login', () => {
+          document.location.href = '/admin'
+        });
+      }
+    }
+
+    return () => {
+      window.netflifyIdentity.off('init', handleInitializeNetlifyUser);
+    };
+  }, []);
 
   return (
     <Layout
