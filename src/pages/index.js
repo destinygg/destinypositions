@@ -65,15 +65,15 @@ function Feature({num, title, iconName, description}) {
 function Home() {
   const {siteConfig = {}} = useDocusaurusContext();
 
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on('init', user => {
-      if (!user) {
-        window.netlifyIdentity.on('login', () => {
-          document.location.href = '/admin'
-        });
-      }
-    });
-  }
+  // if (window?.netlifyIdentity) {
+  //   window.netlifyIdentity.on('init', user => {
+  //     if (!user) {
+  //       window.netlifyIdentity.on('login', () => {
+  //         document.location.href = '/admin'
+  //       });
+  //     }
+  //   });
+  // }
 
   return (
     <Layout
