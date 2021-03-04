@@ -75,7 +75,7 @@ function Home() {
     }
 
     return () => {
-      window.netflifyIdentity.off('init', handleInitializeNetlifyUser);
+      window.netlifyIdentity.off('init', handleInitializeNetlifyUser);
     };
   }, []);
 
