@@ -5,6 +5,9 @@ sidebar_label: About
 description: Positions of Steven "Destiny" Bonnell
 slug: /
 ---
+TEST TEST TEST
+
+
 
 As a content creator, I am often misrepresented. Sometimes, this is by people who disagree with me and want to attack a [straw man](https://en.wikipedia.org/wiki/Straw_man). But at the same time, part of the problem is that in order to find out what I believe, you might have to sit through an hour long YouTube video in which I get into the nitty-gritty details of an issue. Not ideal.
 
