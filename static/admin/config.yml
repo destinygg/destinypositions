@@ -15,6 +15,6 @@ collections:
     fields:
       - {label: 'ID', name: 'id', widget: 'string'}
       - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Sidebar Label', name: 'sidebar_label', widget: 'string'}
-      - {label: 'Description', name: 'description', widget: 'string'}
+      - {label: 'Sidebar Label', name: 'sidebar_label', widget: 'string', required: false}
+      - {label: 'Description', name: 'description', widget: 'string', required: false}
       - {label: 'Body', name: 'body', widget: 'markdown'}
