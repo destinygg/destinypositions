@@ -118,5 +118,9 @@ module.exports = {
       src: 'https://kit.fontawesome.com/1932a73877.js',
       crossorigin: 'anonymous',
     },
+    {
+      src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
+      crossorigin: 'anonymous',
+    },
   ],
 };

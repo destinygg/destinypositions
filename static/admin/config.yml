@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow
+
+media_folder: 'static/img/uploads'
+public_folder: '/img/uploads'
+
+collections:
+  - name: 'post'
+    label: 'Post'
+    folder: 'docs'
+    create: true
+    fields:
+      - {label: 'ID', name: 'id', widget: 'string'}
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Sidebar Label', name: 'sidebar_label', widget: 'string'}
+      - {label: 'Description', name: 'description', widget: 'string'}
