@@ -66,13 +66,14 @@ function Home() {
   const {siteConfig = {}} = useDocusaurusContext();
 
   useEffect(() => {
-    function handleInitializeNetflifyUser() {
+    function handleInitializeNetlifyUser() {
       if (!user) {
         window.netlifyIdentity.on('login', () => {
           document.location.href = '/admin'
         });
       }
     }
+    window.netflifyIdentity.on('init', handleInitializeNetlifyUser);
 
     return () => {
       window.netlifyIdentity.off('init', handleInitializeNetlifyUser);
