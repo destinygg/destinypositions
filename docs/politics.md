@@ -102,7 +102,7 @@ At the same time, though, there is a big difference between a group of 10 men ve
 
 A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms and testing them out, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, that they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped the team to catch this problem early on, resulting in a higher-quality and more well-rounded product.
 
-Anecdotes aside, what does the data say? Research tends to show that [diversity does tend to have benefits](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), but [it isn't completely one-sided](https://hbr.org/2016/07/why-diversity-programs-fail).
+Anecdotes aside, what does the data say? Research tends to show that [diversity does tend to have benefits](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), but [it isn't completely one-sided](https://hbr.org/2016/07/why-diversity-programs-fail). SOY SOY SOY SOY SOY SOY SOY SOY SOY SOYS OSY SOY SOYS OYS OSY SOY SOY SOYS OSY SOY SOYS OS YSOY SOY
 
 Also see the section on [affirmative action](#affirmative-action).
 
