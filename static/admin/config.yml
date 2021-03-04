@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: headless_cms
 
 publish_mode: editorial_workflow
 
