@@ -5,7 +5,7 @@ title: Current Events
 
 ## Kyle Rittenhouse ("mowing down protestors")
 
-First, see my position on [protesting & rioting](/docs/politics#protesting--rioting).
+First, see my position on [protesting & rioting](./docs/politics#protesting--rioting).
 
 In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home. I also think there are steps he could have taken to minimize the risk of him needing to discharge a firearm.
 
