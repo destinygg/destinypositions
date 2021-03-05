@@ -63,12 +63,10 @@ function Feature({num, title, iconName, description}) {
 }
 
 function Home() {
-  const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const {siteConfig = {}} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description={siteConfig.customFields.metaDescription}>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <img src={useBaseUrl('img/dgg-logo.svg')} height="100px" />

@@ -1,6 +1,6 @@
 # Website
 
-This is the GitHub repository for the [Destiny Positions website](https://destinypositions.github.io).
+This is the GitHub repository for the [Destiny Positions website](https://positions.destiny.gg).
 
 It is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
