@@ -56,9 +56,14 @@ However, there are different kinds of capitalism, ranging from *[laissez-faire](
 
 In order to learn more about socialism, I have had discussions with many people who self-identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and more (Search YouTube for "destiny socialism").
 
-When we get into the nitty-gritty of how socialism actually would work on a day to day basis, there are things that socialists cannot explain or have murky explanations for, such as how new capital is allocated, and how workers can change their positions.
+My primary disappointment with most socialists is that they seem to lack a broad understanding of how their economic system would be applied in ways to address common criticisms I have of their ideas. A few of these questions, for instance, would be -
 
-My deep dive into socialism has resulted in a considerable degree of skepticism with many of its claims.
+- How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
+- Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
+- How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
+- How can we accurately calculate which goods/services a society needs if we do away with the commodity form? ie: calculation problem
+
+My deeper dives into socialism and the claims made by socialists have resulted in a considerable degree of skepticism with many of their claims.
 
 ### Online Socialist Activism
 
@@ -68,11 +73,9 @@ While there are plenty of highly intelligent people who identify as socialists, 
 
 ### Co-ops
 
-Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are business owned by the workers. Many advocates of socialism argue that co-ops have many benefits, and co-ops would certainly be a primary part of most forms of socialism.
+Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are business owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transition step away from a fully capitalist society, or one where businesses have private ownership.
 
-I don't see anything inherently wrong with co-ops. I agree that they could, theoretically, be a superior way of organizing a business. If you want to experiment with making a co-op, you should do so.
-
-With that said, if co-ops were really a vehicle for increased happiness, productivity, quality, or efficiency, then it seems likely that they would already have caught on and would already be widespread throughout society.
+I don't believe anything is inherently wrong with co-ops, and I support them in the cases where they lead to greater economic productivity.
 
 ### Political Ineffectiveness
 
