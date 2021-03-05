@@ -1,6 +1,6 @@
 ---
-id: other
-title: Other
+id: philosophy
+title: Philosophy
 ---
 
 ## Public vs Private Language / The N-Word
