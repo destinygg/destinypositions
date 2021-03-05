@@ -5,7 +5,7 @@ title: Current Events
 
 ## Kyle Rittenhouse ("mowing down protestors")
 
-First, see my position on [protesting & rioting](./docs/politics#protesting--rioting).
+First, see my position on [protesting & rioting](./politics#protesting--rioting).
 
 In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home. I also think there are steps he could have taken to minimize the risk of him needing to discharge a firearm.
 
@@ -21,4 +21,4 @@ My specific issue in this debate was that I didn't believe it was morally accept
 
 It's incredibly frustrating that people have intentionally and maliciously misconstrued a 16 second cut from a larger conversation to make it sound as though I don't support the BLM protests or somehow approve of racist white people indiscriminately killing protesters when this is an issue that I have been ruthlessly consistent on throughout the years. I unequivocally support BLM's right to both protest and riot against the public institutions that they view as oppressive. I have not changed or wavered on this stance in years.
 
-Also see the section on [defense of property](./docs/politics#defense-of-property).
+Also see the section on [defense of property](./politics#defense-of-property).
