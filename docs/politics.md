@@ -155,7 +155,7 @@ I don't support any particular policies relating to global warming, although I w
 
 I do not support the [Green New Deal](https://en.wikipedia.org/wiki/Green_New_Deal), a policy championed by the [Justice Democrats](https://en.wikipedia.org/wiki/Justice_Democrats).
 
-While I would like to see policies that bring America closer to being carbon-neutral, the Green New Deal includes a federal jobs guarantee, which is absurd. Even if I did agree with a federal jobs guarantee, it wouldn't be politically viable: every single Republican is against it, and some Democrats besides.
+While I support harsh action being taken to curb the effects of climate change, I don't necessarily think it's appropriate to pair these changes with other, non-environmental policies, e.g. a federal jobs guarantee. I think that climate change is a serious issue that needs to be addressed both through policies that have been demonstrated to work (e.g. [cap and trade](https://mitsloan.mit.edu/shared/ods/documents/?DocumentID=4110#:~:text=Well%2Ddesigned%20cap%2Dand%2D,environmentally%20effective%20and%20cost%2Deffective.&text=Successful%20cap%2Dand%2Dtrade%20systems,violation%20penalties%2C%20and%20high%20compliance.) and through innovative policies and technologies.
 
 ## International Trade Agreements
 
