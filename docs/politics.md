@@ -75,7 +75,7 @@ While there are plenty of highly intelligent people who identify as socialists, 
 
 Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are business owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transition step away from a fully capitalist society, or one where businesses have private ownership.
 
-I don't believe anything is inherently wrong with co-ops, and I support them in the cases where they lead to greater economic productivity.
+I don't believe anything is inherently wrong with co-ops, and I support them in the cases where they lead to greater economic productivity. Despite the slight increase in productivity, however, it seems hard to understand how co-ops can effectively raise capital, and I still question whether co-ops would retain their benefits if everyone in society were to join one, rather than just the select few that have the necessary capital and/or skills to join one of the few co-ops that exist today.
 
 ### Political Ineffectiveness
 
