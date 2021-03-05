@@ -21,9 +21,15 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/about',
           activeBasePath: 'docs',
           label: 'About',
+          position: 'left',
+        },
+        {
+          to: 'docs/current_events',
+          activeBasePath: 'docs',
+          label: 'Current Events',
           position: 'left',
         },
         {
@@ -33,15 +39,15 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs/personal',
+          to: 'docs/philosophy',
           activeBasePath: 'docs',
-          label: 'Personal',
+          label: 'Philosophy',
           position: 'left',
         },
         {
-          to: 'docs/other',
+          to: 'docs/personal',
           activeBasePath: 'docs',
-          label: 'Other',
+          label: 'Personal',
           position: 'left',
         },
       ],
