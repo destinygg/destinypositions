@@ -3,6 +3,9 @@ id: politics
 title: Politics
 ---
 
+#Meme Kings
+look at my memes
+
 ## Political Discourse in General
 
 The reason that I got into politics in the first place was because I noticed a lot of bad arguments and faulty reasoning throughout online discourse. I support fact-based discussion, trying to be [charitable](https://en.wikipedia.org/wiki/Principle_of_charity) to the other side, doing at least a bare minimum of research on a topic before speaking about it, and not sensationalizing the news for a political narrative.
