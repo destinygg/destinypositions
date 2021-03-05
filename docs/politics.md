@@ -40,7 +40,7 @@ My most recent [debate with Erik Striker & James Allsup](https://www.youtube.com
 
 I do not support [populism](https://en.wikipedia.org/wiki/Populism).
 
-Populism is usually defined as "the people" versus "the elites". This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based in facts.
+Populism is usually defined as "the people" versus "the elites." This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based in facts.
 
 ## Capitalism
 
@@ -54,17 +54,17 @@ However, there are different kinds of capitalism, ranging from *[laissez-faire](
 
 ### The Academic Arguments
 
-In order to learn more about socialism, I have had discussions with many people who self-identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and more. (Search YouTube for "destiny socialism").
+In order to learn more about socialism, I have had discussions with many people who self-identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and more (Search YouTube for "destiny socialism").
 
-When we actually get into the nitty-gritty of how socialism would work on a day to day basis, there are things that socialists cannot explain or have murky explanations for, such as how new capital is allocated, and how workers can change their positions.
+When we get into the nitty-gritty of how socialism actually would work on a day to day basis, there are things that socialists cannot explain or have murky explanations for, such as how new capital is allocated, and how workers can change their positions.
 
-My deep-dive into socialism has resulted in a high amount of skepticism with many of its claims.
+My deep dive into socialism has resulted in a considerable degree of skepticism with many of its claims.
 
 ### Online Socialist Activism
 
 A lot of the discourse around socialism (e.g. on Twitch, YouTube, and Twitter) are from people who are widely ignorant of economics and how capital markets actually work. Plenty of socialist-leaning content creators have a fundamental misunderstanding of basic facts, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM).
 
-While there are plenty of highly intelligent people who identify as a socialist, my general interactions with "online socialists" or "online lefties" from 2018 to 2020 have left me with a very low impression of the community at large.
+While there are plenty of highly intelligent people who identify as socialists, my interactions with "online socialists" or "online lefties" from 2018 to 2020 have generally left me with a very low impression of the community at large.
 
 ### Co-ops
 
@@ -88,7 +88,7 @@ Also see [the section on voting](#voting).
 
 I think that social justice is a real thing. We have made a ton of progress so far (in e.g. ending slavery, ending redlining, legalizing gay marriage) but we are not at the finish line yet. In general, the government should work to protect the rights of minority groups, including trans people.
 
-Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism", Twitch banning the "blind playthrough" tag, completely made up pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
+Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," Twitch banning the "blind playthrough" tag, completely made up pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
 
 The right place is somewhere in the middle. I advocate that you should try to have respect for other people, especially if doing so won't inconvenience you that much. In general, this means that if someone wants you to call them she/her, then you should probably be polite and do so.
 
@@ -130,19 +130,19 @@ Also see the section on [reparations](#reparations).
 
 After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems pretty unfair.
 
-There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of (finally) fulfilling a debt that was promised.
+There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of (finally) repaying a debt that was promised.
 
-Logistically, implementing reparations would be difficult. (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?) I acknowledge that reparations are probably not politically feasible.
+Logistically, implementing reparations would be difficult (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?). I acknowledge that reparations are probably not politically feasible.
 
 ## Voting
 
 Voting is important.
 
-People in America (and around the world) have problems <strong>right now</strong> that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidate (at both a local and a national level).
+People in America (and around the world) have problems <strong>right now</strong> that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidates (at both a local and a national level).
 
 ## Global Warming
 
-I think that global warming is a real thing and is anthropogenic (i.e. caused by humans).
+I think that global warming is a real thing and is anthropogenic (caused by humans).
 
 Unfortunately, I have low hopes that the world will be able to agree to reduce carbon emissions to prevent significant warming (<4°C).
 
@@ -152,7 +152,7 @@ I don't support any particular policies relating to global warming, although I w
 
 I do not support the [Green New Deal](https://en.wikipedia.org/wiki/Green_New_Deal), a policy championed by the [Justice Democrats](https://en.wikipedia.org/wiki/Justice_Democrats).
 
-While I would like to see policies that bring America closer to being carbon-neutral, the Green New Deal includes a federal-jobs-guarantee, which is absurd. Even if I did agree with a federal-jobs-guarantee, it wouldn't be politically viable: every single Republican is against it, and some Democrats besides.
+While I would like to see policies that bring America closer to being carbon-neutral, the Green New Deal includes a federal jobs guarantee, which is absurd. Even if I did agree with a federal jobs guarantee, it wouldn't be politically viable: every single Republican is against it, and some Democrats besides.
 
 ## International Trade Agreements
 
@@ -163,11 +163,11 @@ I am highly in favor of international trade agreements, especially large binding
 
 ## Violence
 
-In general, I am against violence. However, I think it is morally defensible to engage in physical self-defense in response to some forms of political violence (e.g. wrongful deportation, oppressive police injustice, etc...).
+In general, I am against violence. However, I believe it is morally defensible to engage in physical self-defense in response to some forms of political violence (e.g. wrongful deportation, oppressive police injustice, etc...).
 
 ## Protesting & Rioting
 
-I am in favor of all forms of peaceful protest. I am also in favor of some forms of rioting (property damage) when it is done against **public property** absent causing injury/death. Protesting is a legitimate form of political activism and has a long history of being a "very-American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)). I also believe that rioting can be a way to legitimately air grievances against an unresponsive state, when the rioting is focused on public institutions and not private property (e.g. private businesses).
+I am in favor of all forms of peaceful protest. I am also in favor of some forms of rioting (property damage) when it is done against **public property** absent causing injury or death. Rioting is a legitimate form of political activism and has a long history of being a very "American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)). I also believe that rioting can be a way to air legitimate grievances against an unresponsive state, so long as the rioting is focused on public institutions and not private property (e.g. private businesses).
 
 ## Kyle Rittenhouse ("mowing down protestors")
 
@@ -175,9 +175,9 @@ First, see my position on [protesting & rioting](#protesting--rioting).
 
 In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home. I also think there are steps he could have taken to minimize the risk of him needing to discharge a firearm.
 
-Out of a larger 20+ minute debate with someone, a short 16 second clip was cut to make it sound as though I support violence against Black Lives Matter protesters when this couldn't be farther from the truth. I am incredibly heated in this clip, but I am clear when I state that my main frustration is with the few rioters burning down private businesses and the idea that Trump's only path to victory was with continued arson and destruction of privately owned businesses across the US ([full conversation in August of 2020 with context part clipped](https://www.youtube.com/watch?t=1183&v=vMLJoUZZV1k&feature=youtu.be)).
+Of a larger 20+ minute debate with someone, a short 16 second clip was cut to make it sound as though I support violence against Black Lives Matter protesters when this couldn't be further from the truth. I am incredibly heated in this clip, but I am clear when I state that my main frustration is with the few rioters burning down private businesses and the idea that Trump's only path to victory was with continued arson and destruction of privately owned businesses across the US ([full conversation in August of 2020 with context part clipped](https://www.youtube.com/watch?t=1183&v=vMLJoUZZV1k&feature=youtu.be)).
 
-I have always defended the existence of BLM and its purpose, sometimes in front of live audiences as the only liberal member on the panel. ([Jesse Lee Peterson panel in October of 2020](https://www.youtube.com/watch?t=5719&v=dtGovEfzG8U&feature=youtu.be) | [Conversation with call-in defending the existence and effectiveness of BLM's protests](https://www.youtube.com/watch?t=387&v=eTkMgMzYmQc&feature=youtu.be) | [Panel debate in August of 2020](https://www.youtube.com/watch?t=605&v=Fk99OaajDo8&feature=youtu.be) | [Support in November of 2018 of Kaepernick kneeling in the NFL](https://www.youtube.com/watch?t=6&v=LDNSV5AUX4k&feature=youtu.be) | [Attacking Dave Rubin's criticisms of Kaepernick's protests in September 2017](https://www.youtube.com/watch?v=lvd2AJ_oXM0))
+I have always defended the existence of BLM and its purpose, sometimes in front of live audiences as the only liberal member on a panel. ([Jesse Lee Peterson panel in October of 2020](https://www.youtube.com/watch?t=5719&v=dtGovEfzG8U&feature=youtu.be) | ([Conversation with call-in defending the existence and effectiveness of BLM's protests](https://www.youtube.com/watch?t=387&v=eTkMgMzYmQc&feature=youtu.be) | [Panel debate in August of 2020](https://www.youtube.com/watch?t=605&v=Fk99OaajDo8&feature=youtu.be) | [Support in November of 2018 of Kaepernick kneeling in the NFL](https://www.youtube.com/watch?t=6&v=LDNSV5AUX4k&feature=youtu.be) | [Attacking Dave Rubin's criticisms of Kaepernick's protests in September 2017](https://www.youtube.com/watch?v=lvd2AJ_oXM0))
 
 I've consistently pushed back against "white lives matter" and similar types of irresponsible (see: racist) rhetoric from the right. ([Jesse Lee Peterson panel in October of 2020](https://www.youtube.com/watch?v=XZbROikHd_Y))
 
@@ -191,11 +191,11 @@ Also see the section on [defense of property](#defense-of-property).
 
 ## Defense of Property
 
-Putting aside whether Kyle Rittenhouse was "in the right" or "in the wrong", I think that we can have a separate discussion on defending property. I think that, in general, people have a right to defend their property. 
+Putting aside the question of whether Kyle Rittenhouse was "in the right" or "in the wrong," I think that we can have a separate discussion on defending property. I believe that, in general, people have a right to defend their property. 
 
 For example, if someone wants to destroy your local business, then you have a right to defend your local business. It does not really make a difference whether or not the people who want to destroy your business are pro-black, pro-nazi, or pro-Jesus Christ.
 
-Furthermore, I think that people have a right to defend their property with lethal force, but only if the attacker has been given notice. In other words, if Alice says "I will shoot you if you try to burn down my business", and Bob hears this, and tries to burn down the business anyway, Alice should be in the moral clear to fatally shoot them.
+Furthermore, I think that people have a right to defend their property with lethal force, but only if the attacker has been given notice. In other words, if Alice says "I will shoot you if you try to burn down my business," and Bob hears this, and tries to burn down the business anyway, Alice should be in the moral clear to fatally shoot them.
 
 (I dutifully acknowledge that there can be degrees of escalation and de-escalation; the above example is simplified to get the point across.)
 
@@ -209,6 +209,6 @@ Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.w
 
 ## Robinhood
 
-On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independent media, this was reported as being a conspiracy of "the rich" against "the little guy", which was a gross misrepresentation of what actually happened and showcases a woeful misunderstanding of how finance works.
+On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independent media, this was reported as being a conspiracy of "the rich" against "the little guy," which was a gross misrepresentation of what actually happened and showcases a woeful misunderstanding of how finance works.
 
 For more information, see [my in-depth video on the subject](https://www.youtube.com/watch?v=DHM4gFiem7s&t=627s).
