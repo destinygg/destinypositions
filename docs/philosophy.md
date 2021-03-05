@@ -11,17 +11,14 @@ Rioting is a slightly more complicated matter. When I speak about rioting, I am 
 
 ### MLK & Riots
 
-MLK is commonly cited as opposition to my position on riots, however, I believe this is due to misunderstanding selective quotes from MLK, when a broader reading of his speeches reveal to us that he was most obviously opposed to riots throughout his life, though he did condemn the underlying conditions that brought them about.
+MLK is commonly cited as opposition to my position on riots, however, I believe this is due to misunderstanding selective quotes from MLK. I believe a a broader understanding of his speeches reveal to us that he was opposed to violent riots throughout his life, even as he condemned the conditions bringing them about.
 
-MLK has always been nonviolent
-MLK became more radicalized in his life, other leaders distanced themselves from him, but he was still advocating for nonviolence, but practically and morally.
+[September 1966 talk with Mike Wallace](https://www.cbsnews.com/news/mlk-a-riot-is-the-language-of-the-unheard/#:~:text=In%20one%20of%20the%20most%20stirring%20refrains%20of%20his%20speech%2C%20Dr.&text=Three%20years%20later%20in%201966,civil%20rights%20movement%20were%20widening)
+>KING (interview): I will never change in my basic idea that non-violence is the most potent weapon available to the Negro in his struggle for freedom and justice. I think for the Negro to turn to violence would be both impractical and immoral.
 
-Sept 1966
-KING (interview): I will never change in my basic idea that non-violence is the most potent weapon available to the Negro in his struggle for freedom and justice. I think for the Negro to turn to violence would be both impractical and immoral.
+>MIKE WALLACE: There's an increasingly vocal minority who disagree totally with your tactics, Dr. King.
 
-MIKE WALLACE: There's an increasingly vocal minority who disagree totally with your tactics, Dr. King.
-
-KING: There's no doubt about that. I will agree that there is a group in the Negro community advocating violence now. I happen to feel that this group represents a numerical minority. Surveys have revealed this. The vast majority of Negroes still feel that the best way to deal with the dilemma that we face in this country is through non-violent resistance, and I don't think this vocal group will be able to make a real dent in the Negro community in terms of swaying 22 million Negroes to this particular point of view. And I contend that the cry of "black power" is, at bottom, a reaction to the reluctance of white power to make the kind of changes necessary to make justice a reality for the Negro. I think that we've got to see that a riot is the language of the unheard. And, what is it that America has failed to hear? It has failed to hear that the economic plight of the Negro poor has worsened over the last few years.
+>KING: There's no doubt about that. I will agree that there is a group in the Negro community advocating violence now. I happen to feel that this group represents a numerical minority. Surveys have revealed this. The vast majority of Negroes still feel that the best way to deal with the dilemma that we face in this country is through non-violent resistance, and I don't think this vocal group will be able to make a real dent in the Negro community in terms of swaying 22 million Negroes to this particular point of view. And I contend that the cry of "black power" is, at bottom, a reaction to the reluctance of white power to make the kind of changes necessary to make justice a reality for the Negro. I think that we've got to see that a riot is the language of the unheard. And, what is it that America has failed to hear? It has failed to hear that the economic plight of the Negro poor has worsened over the last few years.
 
 April 1967
 However, as I've said, this phrase was something used by King throughout his career, generally in the context of what is known as his "The Other America" speech. So let's look at the earliest version of that speech, given on April 14th, 1967 to Stanford University. This is the paragraph immediately preceding the "riot is the language of the unheard" speech.
