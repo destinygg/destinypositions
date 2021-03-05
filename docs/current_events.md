@@ -1,6 +1,7 @@
 ---
 id: current_events
 title: Current Events
+description: My arguments about recent events and the prevailing narratives around them.
 ---
 
 ## Kyle Rittenhouse ("mowing down protestors")
