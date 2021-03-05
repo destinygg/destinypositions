@@ -56,9 +56,14 @@ However, there are different kinds of capitalism, ranging from *[laissez-faire](
 
 In order to learn more about socialism, I have had discussions with many people who self-identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and more (Search YouTube for "destiny socialism").
 
-When we get into the nitty-gritty of how socialism actually would work on a day to day basis, there are things that socialists cannot explain or have murky explanations for, such as how new capital is allocated, and how workers can change their positions.
+My primary disappointment with most socialists is that they seem to lack a broad understanding of how their economic system would be applied in ways to address common criticisms I have of their ideas. A few of these questions, for instance, would be -
 
-My deep dive into socialism has resulted in a considerable degree of skepticism with many of its claims.
+- How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
+- Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
+- How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
+- How can we accurately calculate which goods/services a society needs if we do away with the commodity form? ie: calculation problem
+
+My deeper dives into socialism and the claims made by socialists have resulted in a considerable degree of skepticism with many of their claims.
 
 ### Online Socialist Activism
 
@@ -68,11 +73,9 @@ While there are plenty of highly intelligent people who identify as socialists, 
 
 ### Co-ops
 
-Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are business owned by the workers. Many advocates of socialism argue that co-ops have many benefits, and co-ops would certainly be a primary part of most forms of socialism.
+Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are business owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transition step away from a fully capitalist society, or one where businesses have private ownership.
 
-I don't see anything inherently wrong with co-ops. I agree that they could, theoretically, be a superior way of organizing a business. If you want to experiment with making a co-op, you should do so.
-
-With that said, if co-ops were really a vehicle for increased happiness, productivity, quality, or efficiency, then it seems likely that they would already have caught on and would already be widespread throughout society.
+I don't believe anything is inherently wrong with co-ops, and I support them in the cases where they lead to greater economic productivity. Despite the slight increase in productivity, however, it seems hard to understand how co-ops can effectively raise capital, and I still question whether co-ops would retain their benefits if everyone in society were to join one, rather than just the select few that have the necessary capital and/or skills to join one of the few co-ops that exist today.
 
 ### Political Ineffectiveness
 
@@ -152,7 +155,7 @@ I don't support any particular policies relating to global warming, although I w
 
 I do not support the [Green New Deal](https://en.wikipedia.org/wiki/Green_New_Deal), a policy championed by the [Justice Democrats](https://en.wikipedia.org/wiki/Justice_Democrats).
 
-While I would like to see policies that bring America closer to being carbon-neutral, the Green New Deal includes a federal jobs guarantee, which is absurd. Even if I did agree with a federal jobs guarantee, it wouldn't be politically viable: every single Republican is against it, and some Democrats besides.
+While I support harsh action being taken to curb the effects of climate change, I don't necessarily think it's appropriate to pair these changes with other, non-environmental policies, e.g. a federal jobs guarantee. I think that climate change is a serious issue that needs to be addressed both through policies that have been demonstrated to work (e.g. [cap and trade](https://mitsloan.mit.edu/shared/ods/documents/?DocumentID=4110#:~:text=Well%2Ddesigned%20cap%2Dand%2D,environmentally%20effective%20and%20cost%2Deffective.&text=Successful%20cap%2Dand%2Dtrade%20systems,violation%20penalties%2C%20and%20high%20compliance.)) and through innovative policies and technologies.
 
 ## International Trade Agreements
 
@@ -168,26 +171,6 @@ In general, I am against violence. However, I believe it is morally defensible t
 ## Protesting & Rioting
 
 I am in favor of all forms of peaceful protest. I am also in favor of some forms of rioting (property damage) when it is done against **public property** absent causing injury or death. Rioting is a legitimate form of political activism and has a long history of being a very "American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)). I also believe that rioting can be a way to air legitimate grievances against an unresponsive state, so long as the rioting is focused on public institutions and not private property (e.g. private businesses).
-
-## Kyle Rittenhouse ("mowing down protestors")
-
-First, see my position on [protesting & rioting](#protesting--rioting).
-
-In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home. I also think there are steps he could have taken to minimize the risk of him needing to discharge a firearm.
-
-Of a larger 20+ minute debate with someone, a short 16 second clip was cut to make it sound as though I support violence against Black Lives Matter protesters when this couldn't be further from the truth. I am incredibly heated in this clip, but I am clear when I state that my main frustration is with the few rioters burning down private businesses and the idea that Trump's only path to victory was with continued arson and destruction of privately owned businesses across the US ([full conversation in August of 2020 with context part clipped](https://www.youtube.com/watch?t=1183&v=vMLJoUZZV1k&feature=youtu.be)).
-
-I have always defended the existence of BLM and its purpose, sometimes in front of live audiences as the only liberal member on a panel. ([Jesse Lee Peterson panel in October of 2020](https://www.youtube.com/watch?t=5719&v=dtGovEfzG8U&feature=youtu.be) | ([Conversation with call-in defending the existence and effectiveness of BLM's protests](https://www.youtube.com/watch?t=387&v=eTkMgMzYmQc&feature=youtu.be) | [Panel debate in August of 2020](https://www.youtube.com/watch?t=605&v=Fk99OaajDo8&feature=youtu.be) | [Support in November of 2018 of Kaepernick kneeling in the NFL](https://www.youtube.com/watch?t=6&v=LDNSV5AUX4k&feature=youtu.be) | [Attacking Dave Rubin's criticisms of Kaepernick's protests in September 2017](https://www.youtube.com/watch?v=lvd2AJ_oXM0))
-
-I've consistently pushed back against "white lives matter" and similar types of irresponsible (see: racist) rhetoric from the right. ([Jesse Lee Peterson panel in October of 2020](https://www.youtube.com/watch?v=XZbROikHd_Y))
-
-I have continually defended protesting, and even rioting against public institutions while pushing back against supporting the rioting/looting of private businesses, as I believe these are Republican tactics to draw attention away from the overwhelmingly positive protests. ([Discussion about Minneapolis protesting/looting in May of 2020](https://www.youtube.com/watch?t=639&v=oAQJfK9FKR8&feature=youtu.be) | [Debate with conservative/NeoNazi(?) Ethan Ralph in June 2020](https://www.youtube.com/watch?t=417&v=brlvVrI3dKE&feature=youtu.be) | [Discussion on my stream in September of 2020](https://www.youtube.com/watch?t=887&v=-FuT_caZCx8&feature=youtu.be))
-
-My specific issue in this debate was that I didn't believe it was morally acceptable to defend rioters destroying private businesses, regardless of their legitimate grievances with the local police. When I think of rioters attacking and destroying private property, I generally support citizens' rights to defend that property. I think back to the [Korean-Americans that were defending their property](https://www.youtube.com/watch?v=OCYT9Hew9ZU) in the '92 LA Riots, the Black Panthers in California [defending their communities](https://www.youtube.com/watch?v=uZlnZCpXfpQ), or the tragedy of the ["Black Wall Street" Tulsa massacre in 1921](https://www.youtube.com/watch?v=x-ItsPBTFO0). I was especially moved by the frustrated, black local business owner who was [screaming out](https://www.youtube.com/watch?v=wxK8VzylOrQ) in frustration about looters and rioters destroying his business in the '92 LA Riots.
-
-It's incredibly frustrating that people have intentionally and maliciously misconstrued a 16 second cut from a larger conversation to make it sound as though I don't support the BLM protests or somehow approve of racist white people indiscriminately killing protesters when this is an issue that I have been ruthlessly consistent on throughout the years. I unequivocally support BLM's right to both protest and riot against the public institutions that they view as oppressive. I have not changed or wavered on this stance in years.
-
-Also see the section on [defense of property](#defense-of-property).
 
 ## Defense of Property
 
