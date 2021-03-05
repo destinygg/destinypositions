@@ -17,7 +17,7 @@ I do not regularly use the N-word in my private interactions. With that said, I 
 
 ## Incest
 
-There are some who claim that I "advocate for incest." This is not the case.
+There are some who claim that I "advocate for incest." This is not the case. Or is it?
 
 In general, I do not support incest. This is mostly because there often exist large power imbalances between the two parties involved (e.g. mother and son, older brother and younger sister), and such power inbalances are not healthy. There are many arguments against incest, but this is the best one.
 
