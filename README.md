@@ -1,4 +1,4 @@
-# Website
+# positions.destiny.gg
 
 This is the GitHub repository for the [Destiny Positions website](https://positions.destiny.gg).
 
@@ -18,18 +18,13 @@ yarn start
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
 
-## Build
+## Contributing
 
-```console
-yarn build
-```
+* Content on this site reflects the views and positions of streamer Steven "Destiny" Bonnell. 
+* Contributions should be limited to these views and subject to approval.
+* This project is hosting agnostic and meant to run on any [JAMStack](https://jamstack.wtf/#what-is-jamstack) provider.
+* Questions or comments outside of PRs can be submitted via E-Mail to `contact@destiny.gg`. This GitHub repository is not for political discourse.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Building  / Deployment
 
-## Deployment
-
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Site is deployed to production via [Cloudflare Pages](https://developers.cloudflare.com/pages/) with changes focused on the `main` branch.
