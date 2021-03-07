@@ -99,7 +99,7 @@ Also see the section on [systemic racism](#systemic-racism).
 
 ## Diversity
 
-In general, I believe diversity is a good thing, thought there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races - the best person should get the job, regardless of what gender or race they are.
+In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races - the best person should get the job, regardless of what gender or race they are.
 
 At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group a lot more to hire the women - the group would gain a different perspective and it would be more well-rounded.
 
