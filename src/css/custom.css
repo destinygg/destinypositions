@@ -17,6 +17,10 @@
   --ifm-code-font-size: 95%;
 }
 
+html[data-theme='dark'] {
+  --ifm-blockquote-color: #c1c1c1;
+}
+
 .docusaurus-highlight-code-line {
   background-color: rgb(72, 77, 91);
   display: block;
@@ -34,7 +38,4 @@
 
 .accent3 {
   color: #7fcdb8;
-}
-blockquote {
-  color: #c1c1c1 !important;
 }
