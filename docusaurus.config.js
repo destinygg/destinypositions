@@ -44,6 +44,12 @@ module.exports = {
           label: 'Philosophy',
           position: 'left',
         },
+       {
+          to: 'docs/insane_people',
+          activeBasePath: 'docs/insane_people',
+          label: 'Insane People',
+          position: 'left',
+        },
         {
           to: 'docs/personal',
           activeBasePath: 'docs/personal',
