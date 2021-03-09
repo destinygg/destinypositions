@@ -32,7 +32,7 @@ I am still pro liberty and pro freedom, but my political views have evolved. Lib
 
 ## The Alt-Right
 
-I do not support the alt-right, but I will acknowledge that there is a real problem with many Americans feeling like they have been left-behind.
+I do not support the alt-right, but I will acknowledge that there is a real problem with many Americans feeling like they have been left behind.
 
 My most recent [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I have had with alt-right figures. When confronted with challenges to their ideas, many retreat to anecdotes. Most concerningly, they have no real policy positions and no plan to actually effect political change.
 
