@@ -22,31 +22,31 @@ module.exports = {
       items: [
         {
           to: 'docs/',
-          activeBasePath: 'docs',
+          activeBaseRegex: 'docs/$',
           label: 'About',
           position: 'left',
         },
         {
           to: 'docs/current_events',
-          activeBasePath: 'docs',
+          activeBasePath: 'docs/current_events',
           label: 'Current Events',
           position: 'left',
         },
         {
           to: 'docs/politics',
-          activeBasePath: 'docs',
+          activeBasePath: 'docs/politics',
           label: 'Politics',
           position: 'left',
         },
         {
           to: 'docs/philosophy',
-          activeBasePath: 'docs',
+          activeBasePath: 'docs/philosophy',
           label: 'Philosophy',
           position: 'left',
         },
         {
           to: 'docs/personal',
-          activeBasePath: 'docs',
+          activeBasePath: 'docs/personal',
           label: 'Personal',
           position: 'left',
         },
