@@ -168,13 +168,13 @@ I am highly in favor of international trade agreements, especially large binding
 
 In general, I am against violence. However, I believe it is morally defensible to engage in physical self-defense in response to some forms of political violence (e.g. wrongful deportation, oppressive police injustice, etc...).
 
-## Protesting & Rioting
+### Protesting & Rioting
 
 I am in favor of all forms of peaceful protest. I am also in favor of some forms of rioting (property damage) when it is done against **public property** absent causing injury or death. Rioting is a legitimate form of political activism and has a long history of being a very "American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)). I also believe that rioting can be a way to air legitimate grievances against an unresponsive state, so long as the rioting is focused on public institutions and not private property (e.g. private businesses).
 
-## Defense of Property
+### Defense of Property
 
-Putting aside the question of whether Kyle Rittenhouse was "in the right" or "in the wrong," I think that we can have a separate discussion on defending property. I believe that, in general, people have a right to defend their property. 
+Putting aside the question of whether Kyle Rittenhouse was "in the right" or "in the wrong," I think that we can have a separate discussion on defending property. I believe that, in general, people have a right to defend their property.
 
 For example, if someone wants to destroy your local business, then you have a right to defend your local business. It does not really make a difference whether or not the people who want to destroy your business are pro-black, pro-nazi, or pro-Jesus Christ.
 
