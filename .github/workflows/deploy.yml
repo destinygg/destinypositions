@@ -4,15 +4,10 @@ on: [push, pull_request]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
-    
-      - name: Node Init
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
           
       - name: Install Node Packages
         run: npm ci
