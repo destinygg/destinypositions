@@ -32,9 +32,9 @@ I am still pro liberty and pro freedom, but my political views have evolved. Lib
 
 ## The Alt-Right
 
-I do not support the alt-right, but I will acknowledge that there is a real problem with many Americans feeling like they have been left behind.
+I do not support the alt-right, nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that lead people to becoming radicalized, e.g. feeling disconnected from society, having no sense of purpose, feeling economically left behind. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for said phenomenon are often mired in anecdote.
 
-My most recent [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I have had with alt-right figures. When confronted with challenges to their ideas, many retreat to anecdotes. Most concerningly, they have no real policy positions and no plan to actually effect political change.
+My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I've had with alt-right figures: when confronted with challenges to their ideas, they retreat to anecdotes and offer no solutions. Most concerningly, the policy positions they offer for political change generally require some extreme amount of state-sponsored violence and are highly unrealistic in achieving any positive end.
 
 ## Populism
 
@@ -44,30 +44,28 @@ Populism is usually defined as "the people" versus "the elites." This happens on
 
 ## Capitalism
 
-I would consider myself to be a capitalist, with some caveats.
+I consider myself to be a capitalist.
 
-At a high-level, capitalism is the best-known mechanism to generate wealth and make everyone better off. This is completely non-controversial and is what most actual economists and political scientists believe, and has been demonstrated over and over throughout history.
+At a high-level, capitalism seems to be the best-known economic system to generate wealth. I believe the responsibility of any economic system should, first and foremost, be to allocate resources in an economy as efficiently as possible in order to create the largest possible base from which to draw taxes from to redistribute to those who need it most. I recognize that in many western countries, especially the USA, we seem to have a big problem with the "redistribution" part.
 
-However, there are different kinds of capitalism, ranging from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). We know that completely free-market systems have serious downsides, such as monopolies, and not properly accounting for externalities (e.g. pollution, global warming). Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems. (Not surprisingly, this is the exact state of affairs in nearly all advanced economies in the world.)
+There are different kinds of capitalism ranging all the way from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without some government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the exact state of affairs in nearly all advanced economies in the West.
 
 ## Socialism / Communism
 
 ### The Academic Arguments
 
-In order to learn more about socialism, I have had discussions with many people who self-identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and more (Search YouTube for "destiny socialism").
+While exploring more socialist ideas I've come across a number of people attempting to defend their ideologies. I've had discussions with many people who identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and many, many more (Search YouTube for "destiny socialism").
 
-My primary disappointment with most socialists is that they seem to lack a broad understanding of how their economic system would be applied in ways to address common criticisms I have of their ideas. A few of these questions, for instance, would be -
+My primary disappointment with most socialists is the broader lack of understanding concerning the general functions of their economic systems. A few issues without satisfactory answers are -
 
 - How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
 - Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
 - How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
 - How can we accurately calculate which goods/services a society needs if we do away with the commodity form? ie: calculation problem
 
-My deeper dives into socialism and the claims made by socialists have resulted in a considerable degree of skepticism with many of their claims.
-
 ### Online Socialist Activism
 
-A lot of the discourse around socialism (e.g. on Twitch, YouTube, and Twitter) are from people who are widely ignorant of economics and how capital markets actually work. Plenty of socialist-leaning content creators have a fundamental misunderstanding of basic facts, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM).
+A lot of the discourse around socialism (e.g. on Twitch, YouTube, and Twitter) comes from people who are widely ignorant of economics and how capital markets actually work. A number of prominent, socialist content creators seem to display fundamental misunderstandings of basic fact, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM), and they tend to [respond negatively](https://twitter.com/UnlearnEcon/status/1340289575311331328) to even the [slightest bit of push back](https://www.youtube.com/watch?v=-vfx1kQlmOk) against them.
 
 While there are plenty of highly intelligent people who identify as socialists, my interactions with "online socialists" or "online lefties" from 2018 to 2020 have generally left me with a very low impression of the community at large.
 
@@ -91,7 +89,7 @@ Also see [the section on voting](#voting).
 
 I think that social justice is a real thing. We have made a ton of progress so far (in e.g. ending slavery, ending redlining, legalizing gay marriage) but we are not at the finish line yet. In general, the government should work to protect the rights of minority groups, including trans people.
 
-Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," Twitch banning the "blind playthrough" tag, completely made up pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
+Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," Twitch banning the "blind playthrough" tag, pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
 
 The right place is somewhere in the middle. I advocate that you should try to have respect for other people, especially if doing so won't inconvenience you that much. In general, this means that if someone wants you to call them she/her, then you should probably be polite and do so.
 
@@ -103,7 +101,7 @@ In general, I believe diversity is a good thing, though there are times when it 
 
 At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group a lot more to hire the women - the group would gain a different perspective and it would be more well-rounded.
 
-A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms and testing them out, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, that they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped the team to catch this problem early on, resulting in a higher-quality and more well-rounded product.
+A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, that they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped them catch this problem early on, resulting in a better product.
 
 Anecdotes aside, what does the data say? Research tends to show that [diversity does tend to have benefits](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), but [it isn't completely one-sided](https://hbr.org/2016/07/why-diversity-programs-fail).
 
@@ -119,7 +117,7 @@ Also see the section on [diversity](#diversity).
 
 ## Systemic Racism
 
-[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The interesting thing about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist - it had a computer system that was programmed to assign more police drive-bys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single policeman and policewomen** in the entire force is a black-loving certified anti-racist. But the police force would still be racist.
+[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist - it had a computer system programmed to assign more police drive-bys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist instutition.
 
 We have pretty strong evidence that in the United States, there are some lingering forms of systemic racism. For example, by [looking at graphs of where redlining existed](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
 
