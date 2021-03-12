@@ -33,15 +33,11 @@ MLK is commonly cited as opposition to my position on riots, however, I believe 
 
 ## Public vs Private Humor
 
-In general, I am for free speech. However, I also think that public figures (including Twitch streamers and YouTubers) have a responsibility to use language that won't be misinterpreted by their most-toxic fans.
+I enjoy all types of comedy, even if it's dark or offensive. Regardless of how I feel, personally, there is a wide chasm between the types of humor that I enjoy privately and the types of humor I believe are responsibly enjoyed publicly. I believe that public figures have to be more careful when engaging with potentially problematic types of humor because one cannot control the audience that may engage with particular types of humor; as public figures, we should avoid empowering groups of people who have ideologies rooted in values contradicting our own.
 
-For example, imagine that I made a joke on-stream that included the N-word. If thousands of people happen to be watching the stream, it could be the case that one of them harbors resentment for black people. In hearing me say the joke, it might signal to them that not liking black people is acceptable, that using the N word is okay in all contexts, and so forth. Even though it seems likely that most normal people wouldn't ever jump to those conclusions, I have avoided making jokes like that in public, and will continue to.
+An example of a type of "edgy joke" might be the way I engage with a close friend relating to gender/sexuality/race. It might be an "inside joke" in private where my friend and I have cleared with each other that it's okay to joke about certain topics (e.g., my friend joking about me being Cuban, me joking about them being black, etc...). If we were to engage in these types of humor publicly without a large number of disclaimers, it's entirely possible that people could take these jokes the wrong way and engage with them problematically, e.g. "I heard Destiny make fun of xyz for being gay, now I'm going to make fun of other gay people because it was funny!"
 
-With that said, this public responsibility does not extend to speech that I use in private. For example, imagine that I tell the same N-word joke to a small group of friends in a private context. If no-one in my friend group is racist, and everyone in my friend group knows that I am not a racist, then it would be impossible for the same type of hate-propagation to occur.
-
-(I acknowledge that there can be degrees of racism; the above example is simplified to get the point across.)
-
-I do not regularly use the N-word in my private interactions. With that said, I do not think that it is inherently wrong to tell a racist joke in private, and I will likely continue to do so in the future.
+Because of people obsessively trying to get "optics victories" over me, this entire argument for some reason becomes reframed as "saying the n-word in private." I don't regularly use any hateful language in private because I honestly just don't know many jokes involving hateful language, not say that that there aren't [any examples](https://www.youtube.com/watch?v=jdY89tENgmM) of such jokes.
 
 ## Incest
 
