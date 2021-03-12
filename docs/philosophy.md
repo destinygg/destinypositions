@@ -37,7 +37,7 @@ I enjoy all types of comedy, even if it's dark or offensive. Regardless of how I
 
 An example of a type of "edgy joke" might be the way I engage with a close friend relating to gender/sexuality/race. It might be an "inside joke" in private where my friend and I have cleared with each other that it's okay to joke about certain topics (e.g., my friend joking about me being Cuban, me joking about them being black, etc...). If we were to engage in these types of humor publicly without a large number of disclaimers, it's entirely possible that people could take these jokes the wrong way and engage with them problematically, e.g. "I heard Destiny make fun of xyz for being gay, now I'm going to make fun of other gay people because it was funny!"
 
-Because of people obsessively trying to get "optics victories" over me, this entire argument for some reason becomes reframed as "saying the n-word in private." I don't regularly use any hateful language in private because I honestly just don't know many jokes involving hateful language, not say that that there aren't [any examples](https://www.youtube.com/watch?v=jdY89tENgmM) of such jokes.
+Because of people obsessively trying to get "optics victories" over me, this entire argument becomes reframed as "saying the n-word in private." I don't regularly use any hateful language in private because I honestly just don't know many jokes involving hateful language, not say that that there aren't [any examples](https://www.youtube.com/watch?v=jdY89tENgmM) of such jokes.
 
 ## Incest
 
