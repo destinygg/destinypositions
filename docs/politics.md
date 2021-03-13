@@ -117,7 +117,7 @@ Also see the section on [diversity](#diversity).
 
 ## Systemic Racism
 
-[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist - it had a computer system programmed to assign more police drive-bys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist instutition.
+[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist - it had a computer system programmed to assign more police drive-bys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist institution.
 
 We have pretty strong evidence that in the United States, there are some lingering forms of systemic racism. For example, by [looking at graphs of where redlining existed](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
 
