@@ -4,6 +4,16 @@ title: Current Events
 description: My arguments about recent events and the prevailing narratives around them.
 ---
 
+## The GameStop shortsqueeze
+
+I've written extensively on my view of the wallstreetbets "fight" with Melvin Capital over the GameStop stock. The summary of my position is essentially the following:
+- There was never any reason to believe a massive short squeeze was coming.
+- The big winners were not "little retail traders."
+- Robinhood did not halt trading to "protect hedge funds."
+- Almost every single alternative media figure reporting on this story got almost every fact wrong, except for the 50,000,000 explanations of "what is a short sale?"
+
+For a longer and more formal write-up of my view on the GME situation, see my write-up here: **[BrainStop](https://docs.google.com/document/d/1nFKt9Vd7bYsVSCIDwbXxrtUFTuJEFJbiOpEAgc2uw5k)**.
+
 ## Kyle Rittenhouse ("mowing down protestors")
 
 *Also see: [protesting & rioting](./politics#protesting--rioting), [defense of property](./politics#defense-of-property)*
