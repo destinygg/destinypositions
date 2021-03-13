@@ -6,8 +6,8 @@ description: Positions of Steven "Destiny" Bonnell
 slug: /
 ---
 
-As a content creator, I am often misrepresented. Sometimes, this is by people who disagree with me and want to attack a [straw man](https://en.wikipedia.org/wiki/Straw_man). But at the same time, part of the problem is that in order to find out what I believe, you might have to sit through an hour long YouTube video in which I get into the nitty-gritty details of an issue. Not ideal.
+Many things are said about who I am or what I believe in. Many make absurd claims about my politics, claiming that I advocate for the indiscriminate killing of BLM protestors, that I'm a nazi, that I'm a communist, etc...etc...Part of this is somewhat on me as I tend to be quite hyperbolic when I speak and I tend to engage with people who aren't really interested in good faith conversations. Part of this is also the difficulty in the format; I don't agree that it's fair that I demand someone watch through hundreds of hours of my content in order to figure out what my actual view is on any given topic.
 
-This problem has only gotten worse over time. I have been streaming for over 10 years, and a good chunk of people out there may have unfavorable opinions of me based on positions that I don't actually hold. It is exhausting to have to repeatedly clarify myself and stop the spread of misinformation.
+As I've evolved, both in my political and social views, and as I've continued to produce more and more hours of content, it seems possible that you could cherry pick almost any 30 seconds of my content to claim I represent any given political or social viewpoint. In 2021 I committed myself to a strategy of being more rhetorically engaged with how people view me.
 
-Let's fix that. My actual positions are laid out on this website. If you see someone online misrepresenting me (e.g. "Destiny believes in X"), feel free to link them to the specific subsection of this website that clarifies my real position. (You can click on the "#" symbol next to a header in order to generate a link.)
+This is my effort to "set the record straight" insofar as what I actually believe. I'll include within these pages a record of most of my policy and philosophical positions, as well as any positions I have relating to current events.
