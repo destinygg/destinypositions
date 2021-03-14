@@ -187,9 +187,3 @@ Many disagreements over whether or not defense of personal property is justified
 Stock buybacks are sometimes characterized as being greedy, benefitting stockholders over employees, or as choosing to avoid investment into research & development. This is largely a fiction spun by the financially illiterate. [TBC]
 
 Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)) seem to be ignorant on these points.
-
-## Robinhood
-
-On January 28, 2021, [Robinhood restricted the trading of certain stocks](https://en.wikipedia.org/wiki/Robinhood_(company)#2021_short_squeeze). In some media outlets and throughout independent media, this was reported as being a conspiracy of "the rich" against "the little guy," which was a gross misrepresentation of what actually happened and showcases a woeful misunderstanding of how finance works.
-
-For more information, see [my in-depth video on the subject](https://www.youtube.com/watch?v=DHM4gFiem7s&t=627s).
