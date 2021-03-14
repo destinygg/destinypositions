@@ -12,7 +12,7 @@ I've written extensively on my view of the wallstreetbets "fight" with Melvin Ca
 - Robinhood did not halt trading to "protect hedge funds."
 - Almost every single alternative media figure reporting on this story got almost every fact wrong, except for the 50,000,000 explanations of "what is a short sale?"
 
-For a longer and more formal write-up of my view on the GME situation, see my write-up here: **[BrainStop](https://docs.google.com/document/d/1nFKt9Vd7bYsVSCIDwbXxrtUFTuJEFJbiOpEAgc2uw5k)**.
+For a longer and more formal write-up of my view on the GME situation, see my write-up here: **[BrainStop](https://docs.google.com/document/d/1nFKt9Vd7bYsVSCIDwbXxrtUFTuJEFJbiOpEAgc2uw5k)**. I've also done a [video review](https://www.youtube.com/watch?v=DHM4gFiem7s) of said document on my YouTube channel.
 
 ## Kyle Rittenhouse ("mowing down protestors")
 
