@@ -45,9 +45,9 @@ module.exports = {
           position: 'left',
         },
        {
-          to: 'docs/insane_people',
-          activeBasePath: 'docs/insane_people',
-          label: 'Insane People',
+          to: 'docs/notable_critics',
+          activeBasePath: 'docs/notable_critics',
+          label: 'Notable Critics',
           position: 'left',
         },
         {

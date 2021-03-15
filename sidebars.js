@@ -4,7 +4,7 @@ module.exports = {
     'current_events',
     'politics',
     'philosophy',
-    'insane_people',
+    'notable_critics',
     'personal',
   ],
 };

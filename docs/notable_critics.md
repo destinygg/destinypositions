@@ -1,7 +1,7 @@
 ---
-id: insane_people
-title: Insane People
-description: A record of the internet crazies..
+id: notable_critics
+title: Notable Critics
+description: A record of my various personal critics.
 ---
 
 ## Jack Allison
