@@ -13,7 +13,7 @@ I believe that this endeavor is futile for several reasons:
 - I reject the notion that there is a consistent and coherent definition of "American values."
     - e.g. City dwellers from San Francisco aren't going to have very many "shared values" with rural inhabitants of midwestern states.
 - I don't believe there is any way for an individual community to control who is allowed to immigrate there without it violating the rights and interests of other states.
-    - Immigration policy is set for the benefit of the nation at the federal level, states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
+    - Immigration policy is set for the benefit of the nation at the federal level; states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
 - I don't believe a group of people have a right to indefinitely maintain their representation irrespective of immigrants (from other states, or countries).
     - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
 
