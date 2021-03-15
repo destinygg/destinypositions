@@ -139,7 +139,7 @@ Logistically, implementing reparations would be difficult (Who exactly gets the 
 
 Voting is important.
 
-People in America (and around the world) have problems <strong>right now</strong> that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidates (at both a local and a national level).
+People in America (and around the world) have problems **right now** that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidates (at both a local and a national level).
 
 ## Global Warming
 

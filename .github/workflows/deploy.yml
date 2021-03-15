@@ -17,3 +17,9 @@ jobs:
         
       - name: Build Local
         run: npm run build
+
+      - name: Run Markdown linting
+        uses: docker://avtodev/markdown-lint:v1
+        with:
+          args: docs/**/*.md
+          config: .markdownlint.yaml
