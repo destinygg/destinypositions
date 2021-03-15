@@ -111,6 +111,10 @@ module.exports = {
     metadatas: [
       {name: 'twitter:card', content: 'summary'},
     ],
+    googleAnalytics: {
+      trackingID: 'UA-37443504-1',
+      anonymizeIP: true
+    },
   },
   presets: [
     [
