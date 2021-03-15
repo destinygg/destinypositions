@@ -7,7 +7,7 @@ title: Philosophy
 
 ### Protecting our Demographics
 
-Many on the far right express a great concern over protecting the demographic make-up of whatever community they reside in. They might allude to "western values," "white values," "euro-centric values" or some other type of "values" that they are trying to protect. Generally they state the desire to protect these values stems from both an ernest desire to preserve their culture as well as protecting their voting interests.
+Many on the far right express a great concern over protecting the demographic make-up of whatever community they reside in. They might allude to "western values," "white values," "euro-centric values" or some other type of "values" that they are trying to protect. Generally they state the reason to protect these values stems from both an ernest desire to preserve their culture as well as protecting their voting interests.
 
 I believe that this endeavor is futile for several reasons:
 - I reject the notion that there is a consistent and coherent definition of "American values."
