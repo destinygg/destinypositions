@@ -4,7 +4,7 @@ title: Current Events
 description: My arguments about recent events and the prevailing narratives around them.
 ---
 
-## The GameStop shortsqueeze
+## The GameStop short squeeze
 
 I've written extensively on my view of the wallstreetbets "fight" with Melvin Capital over the GameStop stock. The summary of my position is essentially the following:
 - There was never any reason to believe a massive short squeeze was coming.
