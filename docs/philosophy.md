@@ -3,6 +3,20 @@ id: philosophy
 title: Philosophy
 ---
 
+## Alt-right Talking Points
+
+### Protecting our Demographics
+
+Many on the far right express a great concern over protecting the demographic make-up of whatever community they reside in. They might allude to "western values," "white values," "euro-centric values" or some other type of "values" that they are trying to protect. Generally they state the desire to protect these values stems from both an ernest desire to preserve their culture as well as protecting their voting interests.
+
+I believe that this endeavor is futile for several reasons:
+- I reject the notion that there is a consistent and coherent definition of "American values."
+    - e.g. City dwellers from San Francisco aren't going to have very many "shared values" with rural inhabitants of midwestern states.
+- I don't believe there is any way for an individual community to control who is allowed to immigrate there without it violating the rights and interests of other states.
+    - Immigration policy is set for the benefit of the nation at the federal level, states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
+- I don't believe a group of people have a right to indefinitely maintain their representation irrespective of immigrants (from other states, or countries).
+    - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
+
 ## Protesting & Rioting
 
 I ardently believe in a people's right to protest and I will always support the right to protest, even if I don't necessarily agree with positions being advocated for by any particular protest. For example, I would support the right of a pro-life group protesting the right to an abortion, but I wouldn't agree with the message of the pro-life group: that abortion is immoral, or should be outlawed.
