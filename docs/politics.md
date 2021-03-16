@@ -5,7 +5,7 @@ title: Politics
 
 ## Political Discourse in General
 
-In 2016, as Donald Trump was rising as a contender in the Republican primary, I noticed the political discourse was so far removed from reality that people weren't even having conversations in the same universe. My main goal in entering politics was to bring some reasonableness into some of the conversations, or to at least ground the disagreements in fact so the conversations could be more productive. Unfortunately, most of my conversations are horrible as far and hardly qualify for "intellectual discourse."
+In 2016, as Donald Trump was rising as a contender in the Republican primary, I noticed the political discourse was so far removed from reality that people weren't even having conversations in the same universe. My main goal in entering politics was to bring some reasonableness into some of the conversations, or to at least ground the disagreements in fact so the conversations could be more productive. Unfortunately, most of my conversations so far have been horrible and hardly qualify for "intellectual discourse."
 
 I believe most content creators suffer from the following problems:
 - They tend to be uninformed about the ideas they are discussing. (e.g.: most lefties don't know the LVT, many online Republicans don't know anything about sociology)
