@@ -19,7 +19,7 @@ I believe that this endeavor is futile for several reasons:
 
 ## Violence
 
-I am generally opposed to violence as I don't believe it as an effective way to accomplish political change, at least not at this point in time in the United States. That being said, I believe there are plenty of groups of people who could, at points, justify the use of violence in self-defense, even if I don't believe it would be a pragmatic or politically effective thing to do.
+I am generally opposed to violence as I don't believe it is an effective way to accomplish political change, at least not at this point in time in the United States. That being said, I believe there are plenty of groups of people who could, at points, justify the use of violence in self-defense, even if I don't believe it would be a pragmatic or politically effective thing to do.
 
 ### Defense of Property
 
