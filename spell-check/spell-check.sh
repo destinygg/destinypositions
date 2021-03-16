@@ -10,4 +10,4 @@ source "$DIR/get-files.sh"
 
 # Spell check every file using cspell
 cd "$PARENT_DIR"
-npx cspell lint --no-progress --no-summary $FILES
+npm cspell lint --no-progress --no-summary $FILES
