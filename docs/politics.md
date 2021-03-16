@@ -44,7 +44,7 @@ I am still pro-liberty and pro-freedom, but my political views have evolved. Lib
 
 ## The Alt-Right
 
-I do not support the alt-right, nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that cause people to become radicalized, e.g. feeling disconnected from society, having no sense of purpose, feeling economically left behind. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for a phenomenon are often mired in anecdote.
+I do not support the alt-right, nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that cause people to become radicalized, e.g. feeling disconnected from society, having no sense of purpose, feeling economically left behind. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for said phenomenon are often mired in anecdote.
 
 My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I've had with alt-right figures: when confronted with challenges to their ideas, they retreat to anecdotes and offer no solutions. Most concerningly, the policy positions they offer for political change generally require some extreme amount of state-sponsored violence and are highly unrealistic in achieving any positive end.
 
