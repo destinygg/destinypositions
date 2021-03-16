@@ -23,7 +23,7 @@ I am generally opposed to violence as I don't believe it as an effective way to 
 
 ### Defense of Property
 
-I believe that people have a right to defend their property insofar as two important criteria are met:
+I believe that people have a right to defend their property insofar as three important criteria are met:
 1. You legally possess the property in a way that your state and community recognizes your possession.
 2. You have reasonably exhausted non-violent options to protect your property.
 3. The other person is effectively "on notice" and understands they exist in an environment where another person will protect their property.
