@@ -17,13 +17,28 @@ I believe that this endeavor is futile for several reasons:
 - I don't believe a group of people have a right to indefinitely maintain their representation irrespective of immigrants (from other states, or countries).
     - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
 
-## Protesting & Rioting
+## Violence
+
+I am generally opposed to violence as I don't believe it is an effective way to accomplish political change, at least not at this point in time in the United States. That being said, I believe there are plenty of groups of people who could, at points, justify the use of violence in self-defense, even if I don't believe it would be a pragmatic or politically effective thing to do.
+
+### Defense of Property
+
+I believe that people have a right to defend their property insofar as three important criteria are met:
+1. You legally possess the property in a way that your state and community recognizes your possession.
+2. You have reasonably exhausted non-violent options to protect your property.
+3. The other person is effectively "on notice" and understands they exist in an environment where another person will protect their property.
+
+For example, if someone wants to destroy your local business or your house, then you have a right to defend your property by all means necessary.
+
+Many disagreements over whether or not defense of personal property is justified sometimes appear to boil down to a difference of underlying values. Middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system or a school instrument.
+
+### Protesting & Rioting
 
 I ardently believe in a people's right to protest and I will always support the right to protest, even if I don't necessarily agree with positions being advocated for by any particular protest. For example, I would support the right of a pro-life group protesting the right to an abortion, but I wouldn't agree with the message of the pro-life group: that abortion is immoral, or should be outlawed.
 
 Rioting is a slightly more complicated matter. When I speak about rioting, I am more precisely talking about protest that have some level of violence involved, namely that of property destruction. I do not support riots which seek to harm individuals in the United States at this point in time. I only support rioting against institutions that represent some oppressive force in society, so I *generally* only support rioting against public institutions, e.g. a police department, city hall, etc... It's not inconceivable that I would support a riot against a private institution, but only if that private institution was acting in an illegal manner.
 
-### MLK & Riots
+#### MLK & Riots
 
 MLK is commonly cited as opposition to my position on riots, however, I believe this is due to misunderstanding selective quotes from MLK. I believe a a broader understanding of his speeches reveal to us that he was opposed to violent riots throughout his life, even as he condemned the conditions bringing them about.
 

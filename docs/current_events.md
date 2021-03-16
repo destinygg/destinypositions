@@ -16,7 +16,7 @@ For a longer and more formal write-up of my view on the GME situation, see my wr
 
 ## Kyle Rittenhouse ("mowing down protestors")
 
-*Also see: [protesting & rioting](./politics#protesting--rioting), [defense of property](./politics#defense-of-property)*
+*Also see: [protesting & rioting](./philosophy#protesting--rioting), [defense of property](./philosophy#defense-of-property)*
 
 In general, I do not support vigilantism. I think Kyle Rittenhouse was clearly misguided in his attempts to cross state borders and should have stayed home. I also think there are steps he could have taken to minimize the risk of him needing to discharge a firearm.
 

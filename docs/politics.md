@@ -5,24 +5,36 @@ title: Politics
 
 ## Political Discourse in General
 
-The reason that I got into politics in the first place was because I noticed a lot of bad arguments and faulty reasoning throughout online discourse. I support fact-based discussion, trying to be [charitable](https://en.wikipedia.org/wiki/Principle_of_charity) to the other side, doing at least a bare minimum of research on a topic before speaking about it, and not sensationalizing the news for a political narrative.
+In 2016, as Donald Trump was rising as a contender in the Republican primary, I noticed the political discourse was so far removed from reality that people weren't even having conversations in the same universe. My main goal in entering politics was to bring some reasonableness into some of the conversations, or to at least ground the disagreements in fact so the conversations could be more productive. Unfortunately, most of my conversations so far have been horrible and hardly qualify for "intellectual discourse."
 
-To be fair, I have been streaming for over 10 years. You will be able to find plenty of times where I have used bad arguments, wasn't charitable, or didn't do a proper amount of research on a topic. But I do strive to live up to these ideals, and feel like I do a pretty good job most of the time.
+I believe most content creators suffer from the following problems:
+- They tend to be uninformed about the ideas they are discussing. (e.g.: most lefties don't know the LVT, many online Republicans don't know anything about sociology)
+- They don't read any of the material they are covering. (e.g.: many people only read headlines, or just take a Twitter thread and repeat the information from it without reading any of the linked articles or sources)
+- They are more concerned with monetary gain and advancing their careers than they are with advancing any ideologies. (e.g. they will [eschew politically effective or more righteous actions](https://streamable.com/d69bog) in favor of things that further their own career, such as collaborating with only the most famous politicians they can or promoting causes which will also grow their own popularity)
+- They are often blatantly hypocritical when comparing their lifestyles to the ideas they advocate for. (e.g.: they will oftentimes talk about the importance of transparency in public figures or make fun of celebrities for donating very little money to social causes while they themselves will hide their income and make excuses for it)
 
-## Omni-Liberalism
+My general goal with online politics is:
+- Give a relatively informed opinion about, or at least bring in experts or expert material concerning, current events and interesting topics.
+- To have an informed discussion that involves actually reading through the articles or sources being discussed on stream.
+- To attempt to move people into more politically effective action.
+- To try to exemplify my political and ethical values in the way I live my life.
+
+## "Omni-Liberalism"
 
 In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
 
 1. Having the core values of liberalism (e.g. freedom and equality).
 2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
 
+I don't feel dogmatically attached to any particular form of government or economic system. If it can be demonstrated that some economic system (socialism, capitalism, etc...) can consistently produce better economic and social outcomes for a given society, that would be the economic system I would advocate for. As of right now, I believe that free markets with strong social safety nets (see: Scandanavia) are the most effective way of achieving these ends.
+
 ## Philosophical Axioms and Consistency
 
-I think that political positions should be the result of a consistent system - namely, an underlying philosophical or moral framework. My personal system starts with the axiom of wanting to maximize my own internal happiness. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) provides a full explanation.
+I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. My personal system starts with the axiom of wanting to maximize my own well-being, and then from there I build out an altruistic mindset to maximize the well-being of others around me. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) is the beginning of an attempt to explain how I try to build my political positions from my more fundamental values.
 
-My political positions generally follow from my moral system. I think that this is a much better state of affairs than having my political positions be inherited from my parents, or inherited from a particular political party.
+My applied political positions always follow from my moral system. I think that this is a much better state of affairs than having my political positions be inherited from my parents, or inherited from a particular political party. I think the world would be a better place if people reflected more on their internal, fundamental values and used those as guiding principles to establish their political values, rather than blindly following an ideologue, or using inherited positions from their parents, religion, or country.
 
-A lot of political debate actually just boils down to having a different moral system. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down and try to figure out what the other person actually believes at a fundamental level. This is why hypotheticals are an extremely useful tool - they can help pinpoint exactly where you disagree with someone else.
+A lot of political debate actually just boils down to having some differing, fundamental position. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down to try and figure out what the other person actually believes at a fundamental level. A great example of this is abortion — people will often debate back and forth about the legality of abortion while ignoring that they fundamentally disagree on whether or not a fetus should carry the same (or similar) moral consideration as an infant child.
 
 ## Libertarianism
 
@@ -97,9 +109,9 @@ Also see the section on [systemic racism](#systemic-racism).
 
 ## Diversity
 
-In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races - the best person should get the job, regardless of what gender or race they are.
+In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races — the best person should get the job, regardless of what gender or race they are.
 
-At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group a lot more to hire the women - the group would gain a different perspective and it would be more well-rounded.
+At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group a lot more to hire the women — the group would gain a different perspective and it would be more well-rounded.
 
 A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, that they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped them catch this problem early on, resulting in a better product.
 
@@ -109,7 +121,7 @@ Also see the section on [affirmative action](#affirmative-action).
 
 ## Affirmative Action
 
-I am neither for nor against affirmative action - it depends on how it is implemented.
+I am neither for nor against affirmative action — it depends on how it is implemented.
 
 For example, I am against [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/), because it seems like it is going too far.
 
@@ -117,11 +129,11 @@ Also see the section on [diversity](#diversity).
 
 ## Systemic Racism
 
-[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist - it had a computer system programmed to assign more police drive-bys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist institution.
+[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist — it had a computer system programmed to assign more police drive-bys to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist institution.
 
 We have pretty strong evidence that in the United States, there are some lingering forms of systemic racism. For example, by [looking at graphs of where redlining existed](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
 
-Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning - but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
+Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning — but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
 
 I think that systemic racism clearly exists (in some forms). I don't have a strong opinion on the best policies to address it.
 
@@ -159,28 +171,8 @@ While I support harsh action being taken to curb the effects of climate change, 
 
 I am highly in favor of international trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
 
-1. International cooperation - International trade agreements lay the groundwork for even more international trade agreements. Ever-increasing cooperation is one of the only hopes we have at solving global warming.
-2. American soft power - In forfeiting the TPP, America cedes ground to China and their [Belt and Road Initiative](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative). Soft power is more important than you might think. Without it, we lose the ability to exert pressure on other countries to respect the values of democracy, personal freedom, political freedom, and basic human rights.
-
-## Violence
-
-In general, I am against violence. However, I believe it is morally defensible to engage in physical self-defense in response to some forms of political violence (e.g. wrongful deportation, oppressive police injustice, etc...).
-
-### Protesting & Rioting
-
-I am in favor of all forms of peaceful protest. I am also in favor of some forms of rioting (property damage) when it is done against **public property** absent causing injury or death. Rioting is a legitimate form of political activism and has a long history of being a very "American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)). I also believe that rioting can be a way to air legitimate grievances against an unresponsive state, so long as the rioting is focused on public institutions and not private property (e.g. private businesses).
-
-### Defense of Property
-
-Putting aside the question of whether Kyle Rittenhouse was "in the right" or "in the wrong," I think that we can have a separate discussion on defending property. I believe that, in general, people have a right to defend their property.
-
-For example, if someone wants to destroy your local business, then you have a right to defend your local business. It does not really make a difference whether or not the people who want to destroy your business are pro-black, pro-nazi, or pro-Jesus Christ.
-
-Furthermore, I think that people have a right to defend their property with lethal force, but only if the attacker has been given notice. In other words, if Alice says "I will shoot you if you try to burn down my business," and Bob hears this, and tries to burn down the business anyway, Alice should be in the moral clear to fatally shoot them.
-
-(I dutifully acknowledge that there can be degrees of escalation and de-escalation; the above example is simplified to get the point across.)
-
-Many disagreements over whether or not defense of personal property is justified boil down to a difference of underlying values. Middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system.
+1. International cooperation — International trade agreements lay the groundwork for even more international trade agreements. Ever-increasing cooperation is one of the only hopes we have at solving global warming.
+2. American soft power — In forfeiting the TPP, America cedes ground to China and their [Belt and Road Initiative](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative). Soft power is more important than you might think. Without it, we lose the ability to exert pressure on other countries to respect the values of democracy, personal freedom, political freedom, and basic human rights.
 
 ## Stock Buybacks
 
