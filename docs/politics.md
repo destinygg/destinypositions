@@ -5,24 +5,36 @@ title: Politics
 
 ## Political Discourse in General
 
-The reason that I got into politics in the first place was because I noticed a lot of bad arguments and faulty reasoning throughout online discourse. I support fact-based discussion, trying to be [charitable](https://en.wikipedia.org/wiki/Principle_of_charity) to the other side, doing at least a bare minimum of research on a topic before speaking about it, and not sensationalizing the news for a political narrative.
+In 2016, as Donald Trump was rising as a contender in the Republican primary, I noticed the political discourse was so far removed from reality that people weren't even having conversations in the same universe. My main goal in entering politics was to bring some reasonableness into some of the conversations, or to at least ground the disagreements in fact so the conversations could be more productive. Unfortunately, most of my conversations are horrible as far and hardly qualify for "intellectual discourse."
 
-To be fair, I have been streaming for over 10 years. You will be able to find plenty of times where I have used bad arguments, wasn't charitable, or didn't do a proper amount of research on a topic. But I do strive to live up to these ideals, and feel like I do a pretty good job most of the time.
+I believe most content creators suffer from the following problems:
+- They tend to be uninformed about the ideas they are discussing. (e.g.: most lefties don't know the LVT, many online Republicans don't know anything about sociology)
+- They don't read any of the material they are covering. (e.g.: many people only read headlines, or just take a Twitter thread and repeat the information from it without reading any of the linked articles or sources)
+- They are more concerned with monetary gain and advancing their careers than they are with advancing any ideologies. (e.g. they will [eschew politically effective or more righteous actions](https://streamable.com/d69bog) in favor of things that further their own career, such as collaborating with only the most famous politicians they can or promoting causes which will also grow their own popularity)
+- They are often blatantly hypocritical when comparing their lifestyles to the ideas they advocate for. (e.g.: they will oftentimes talk about the importance of transparency in public figures or make fun of celebrities for donating very little money to social causes while they themselves will hide their income and make excuses for it)
 
-## Omni-Liberalism
+My general goal with online politics is:
+- Give a relatively informed opinion about, or at least bring in experts or expert material concerning, current events and interesting topics.
+- To have an informed discussion that involves actually reading through the articles or sources being discussed on stream.
+- To attempt to move people into more politically effective action.
+- To try to exemplify my political and ethical values in the way I live my life.
+
+## "Omni-Liberalism"
 
 In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
 
 1. Having the core values of liberalism (e.g. freedom and equality).
 2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
 
+I don't feel dogmatically attached to any particular form of government or economic system. If it can be demonstrated that some economic system (socialism, capitalism, etc...) can consistently produce better economic and social outcomes for a given society, that would be the economic system I would advocate for. As of right now, I believe that free markets with strong social safety nets (see: Scandanavia) are the most effective way of achieving these ends.
+
 ## Philosophical Axioms and Consistency
 
-I think that political positions should be the result of a consistent system — namely, an underlying philosophical or moral framework. My personal system starts with the axiom of wanting to maximize my own internal happiness. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) provides a full explanation.
+I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. My personal system starts with the axiom of wanting to maximize my own well-being, and then from there I build out an altruistic mindset to maximize the well-being of others around me. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) is the beginning of an attempt to explain how I try to build my political positions from my more fundamental values.
 
-My political positions generally follow from my moral system. I think that this is a much better state of affairs than having my political positions be inherited from my parents, or inherited from a particular political party.
+My applied political positions always follow from my moral system. I think that this is a much better state of affairs than having my political positions be inherited from my parents, or inherited from a particular political party. I think the world would be a better place if people reflected more on their internal, fundamental values and used those are guiding principles to establish their political values, rather than blindly following an ideologue, or using inherited positions from their parents, religion, or country.
 
-A lot of political debate actually just boils down to having a different moral system. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down and try to figure out what the other person actually believes at a fundamental level. This is why hypotheticals are an extremely useful tool — they can help pinpoint exactly where you disagree with someone else.
+A lot of political debate actually just boils down to having some differing, fundamental position. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down to try and figure out what the other person actually believes at a fundamental level. A great example of this is abortion — people will often debate back and forth about the legality of abortion while ignoring that they fundamentally disagree on whether or not a fetus should be carry the same (or similar) moral consideration as an infant child.
 
 ## Libertarianism
 
@@ -161,26 +173,6 @@ I am highly in favor of international trade agreements, especially large binding
 
 1. International cooperation — International trade agreements lay the groundwork for even more international trade agreements. Ever-increasing cooperation is one of the only hopes we have at solving global warming.
 2. American soft power — In forfeiting the TPP, America cedes ground to China and their [Belt and Road Initiative](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative). Soft power is more important than you might think. Without it, we lose the ability to exert pressure on other countries to respect the values of democracy, personal freedom, political freedom, and basic human rights.
-
-## Violence
-
-In general, I am against violence. However, I believe it is morally defensible to engage in physical self-defense in response to some forms of political violence (e.g. wrongful deportation, oppressive police injustice, etc...).
-
-### Protesting & Rioting
-
-I am in favor of all forms of peaceful protest. I am also in favor of some forms of rioting (property damage) when it is done against **public property** absent causing injury or death. Rioting is a legitimate form of political activism and has a long history of being a very "American" thing to do (e.g. the original [Boston Tea Party](https://en.wikipedia.org/wiki/Boston_Tea_Party)). I also believe that rioting can be a way to air legitimate grievances against an unresponsive state, so long as the rioting is focused on public institutions and not private property (e.g. private businesses).
-
-### Defense of Property
-
-Putting aside the question of whether Kyle Rittenhouse was "in the right" or "in the wrong," I think that we can have a separate discussion on defending property. I believe that, in general, people have a right to defend their property.
-
-For example, if someone wants to destroy your local business, then you have a right to defend your local business. It does not really make a difference whether or not the people who want to destroy your business are pro-black, pro-nazi, or pro-Jesus Christ.
-
-Furthermore, I think that people have a right to defend their property with lethal force, but only if the attacker has been given notice. In other words, if Alice says "I will shoot you if you try to burn down my business," and Bob hears this, and tries to burn down the business anyway, Alice should be in the moral clear to fatally shoot them.
-
-(I dutifully acknowledge that there can be degrees of escalation and de-escalation; the above example is simplified to get the point across.)
-
-Many disagreements over whether or not defense of personal property is justified boil down to a difference of underlying values. Middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system.
 
 ## Stock Buybacks
 
