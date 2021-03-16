@@ -13,11 +13,11 @@ I believe most content creators suffer from the following problems:
 - They are more concerned with monetary gain and advancing their careers than they are with advancing any ideologies. (e.g. they will [eschew politically effective or more righteous actions](https://streamable.com/d69bog) in favor of things that further their own career, such as collaborating with only the most famous politicians they can or promoting causes which will also grow their own popularity)
 - They are often blatantly hypocritical when comparing their lifestyles to the ideas they advocate for. (e.g.: they will oftentimes talk about the importance of transparency in public figures or make fun of celebrities for donating very little money to social causes while they themselves will hide their income and make excuses for it)
 
-My general goal with online politics is:
-- Give a relatively informed opinion about, or at least bring in experts or expert material concerning, current events and interesting topics.
-- To have an informed discussion that involves actually reading through the articles or sources being discussed on stream.
-- To attempt to move people into more politically effective action.
-- To try to exemplify my political and ethical values in the way I live my life.
+My general goal with online politics is to:
+- Give an informed opinion about, or bring in experts, or expert material concerning, current events and interesting topics.
+- Have an informed discussion that involves reading through the articles or sources being discussed on stream.
+- Move people to take politically effective action.
+- Exemplify my political and ethical values in the way I live my life.
 
 ## "Omni-Liberalism"
 
