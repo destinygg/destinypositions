@@ -34,7 +34,7 @@ I think that political positions should be the result of a consistent system —
 
 My applied political positions always follow from my moral system. I think that this is a much better state of affairs than having my political positions be inherited from my parents, or inherited from a particular political party. I think the world would be a better place if people reflected more on their internal, fundamental values and used those are guiding principles to establish their political values, rather than blindly following an ideologue, or using inherited positions from their parents, religion, or country.
 
-A lot of political debate actually just boils down to having some differing, fundamental position. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down to try and figure out what the other person actually believes at a fundamental level. A great example of this is abortion — people will often debate back and forth about the legality of abortion while ignoring that they fundamentally disagree on whether or not a fetus should be carry the same (or similar) moral consideration as an infant child.
+A lot of political debate actually just boils down to having some differing, fundamental position. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down to try and figure out what the other person actually believes at a fundamental level. A great example of this is abortion — people will often debate back and forth about the legality of abortion while ignoring that they fundamentally disagree on whether or not a fetus should carry the same (or similar) moral consideration as an infant child.
 
 ## Libertarianism
 
