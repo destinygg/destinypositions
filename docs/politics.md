@@ -111,7 +111,7 @@ Also, see the section on [systemic racism](#systemic-racism).
 
 In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races — the best person should get the job, regardless of what gender or race they are.
 
-At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 woman. When hiring the 10th person for this group, if a man and women have similar credentials, it might benefit the group a lot more to hire the women — the group would gain a different perspective and it would be more well-rounded.
+At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 woman. When hiring the 10th person for this group, if a man and woman have similar credentials, it might benefit the group a lot more to hire the woman — the group would gain a different perspective and it would be more well-rounded.
 
 A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, that they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped them catch this problem early on, resulting in a better product.
 
