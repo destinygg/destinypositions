@@ -14,7 +14,7 @@ I believe most content creators suffer from the following problems:
 - They are often blatantly hypocritical when comparing their lifestyles to the ideas they advocate for. (e.g.: they will oftentimes talk about the importance of transparency in public figures or make fun of celebrities for donating very little money to social causes while they themselves will hide their income and make excuses for it)
 
 My general goal with online politics is to:
-- Give an informed opinion about or bring in experts, or expert material concerning, current events and interesting topics.
+- Give an informed opinion about, or bring in experts or expert material concerning, current events and interesting topics.
 - Have an informed discussion that involves reading through the articles or sources being discussed on stream.
 - Move people to take politically effective action.
 - Exemplify my political and ethical values in the way I live my life.
