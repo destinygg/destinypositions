@@ -39,9 +39,9 @@ Also, see the section on [systemic racism](#systemic-racism).
 
 ## Diversity
 
-In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races — the best person should get the job, regardless of what gender or race they are.
+In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races — the most qualified person should get the job, regardless of their gender or race.
 
-At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 woman. When hiring the 10th person for this group, if a man and woman have similar credentials, it might benefit the group a lot more to hire the woman — the group would gain a different perspective and it would be more well-rounded.
+At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 woman. When hiring the 10th person for this group, if a man and woman have similar credentials, it might benefit the group a lot more to hire the woman — the group would gain a different perspective, and it would be more well-rounded.
 
 A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped them catch this problem early on, resulting in a better product.
 
@@ -61,11 +61,11 @@ Also, see the section on [diversity](#diversity).
 
 [Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist — it had a computer system programmed to assign more police patrols to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist institution.
 
-We have strong evidence that in the United States, there are some lingering forms of systemic racism. For example, by [looking at graphs of where redlining existed](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
+We have strong evidence that there are some lingering forms of systemic racism in the United States. For example, by [looking at maps of where redlining was practiced](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
 
 Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning — but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
 
-I believe that systemic racism clearly exists (in some forms). I don't have a strong opinion on the best policies to address it.
+I believe that systemic racism clearly exists in some forms. I don't have a strong opinion on the best policies to address it.
 
 Also, see the section on [reparations](#reparations).
 
@@ -114,7 +114,7 @@ Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.w
 
 ## The Alt-Right
 
-I do not support the [alt-right](https://en.wikipedia.org/wiki/Alt-right), nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that lead people to becoming radicalized, e.g. feeling disconnected from society, having no sense of purpose, feeling economically left behind, and how these beliefs translate into political action. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for said phenomenon are often mired in anecdote.
+I do not support the [alt-right](https://en.wikipedia.org/wiki/Alt-right), nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that lead people to becoming radicalized, e.g. feeling disconnected from society, having no sense of purpose, feeling economically left behind, and how these beliefs translate into political action. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for said phenomena are often mired in anecdotes.
 
 My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I've had with alt-right figures: when confronted with challenges to their ideas, they retreat to anecdotes and offer no solutions. Most concerningly, the policy positions they offer for political change generally require some extreme amount of state-sponsored violence and are highly unrealistic in achieving any positive end.
 
