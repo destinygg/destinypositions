@@ -16,7 +16,7 @@ I believe that people have a right to defend their property insofar as three imp
 
 For example, if someone wants to destroy your local business or your house, then you have a right to defend your property by all means necessary.
 
-Many disagreements over whether or not defense of personal property is justified sometimes appear to boil down to a difference of underlying values. The value in question is whether "property can be valued over human life", or some statement to that effect. In my experience, middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system or a school instrument. As such, they will argue that no matter the value and sacrifice assoicated with some property, even in the case of people living in poverty, the life of the thief always outweighs said value. This is a conclusion I take issue with.
+Many disagreements over whether or not defense of personal property is justified sometimes appear to boil down to a difference of underlying values. The value in question is whether "property can be valued over human life", or some statement to that effect. In my experience, middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system or a school instrument. As such, they will argue that no matter the value and sacrifice associated with some property, even in the case of people living in poverty, the life of the thief always outweighs said value. This is a conclusion I take issue with.
 
 ### Protesting & Rioting
 
