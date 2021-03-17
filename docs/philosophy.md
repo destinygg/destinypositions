@@ -72,7 +72,7 @@ Because of people obsessively trying to get "optics victories" over me, this ent
 
 "Incest" as a topic has been explored quite extensively on my stream as a way to illustrate the concept of ["moral dumbfounding"](https://en.wikipedia.org/wiki/Social_intuitionism), i.e. you have a feeling that something is immoral or "wrong," but find you're unable to explain exactly why you feel that way. It seems hard, when pressed, to explain exactly why an incestuous relationship is wrong without appealing to other arguments that aren't intrinsic to these kinds of relationships, e.g. parent/child (these are wrong due to power differences or underage parties), or situations where children are involved (these may be "wrong" due to the potential for offspring with increased risk of birth defects being created, though this gets into a strange sort of eugenics argument).
 
-I've used this topic several times on stream to see if someone is capable of actually engaging with the topic, though it generally devolves into people screaming at me while claiming I want "fathers fucking daughters" or something similarly absurd.
+I've used this topic several times on stream to see if someone is capable of actually engaging with the topic, though it generally devolves into people screaming at me while claiming I want ["fathers fucking daughters"](https://youtu.be/jRPb1t_dBlI?t=9611) or something [similarly absurd](https://youtu.be/-KfdsuYUKW8?t=2149).
 
 ## Child Pornography
 
