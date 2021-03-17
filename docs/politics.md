@@ -5,13 +5,13 @@ title: Politics
 
 ## Political Discourse in General
 
-In 2016, as Donald Trump was rising as a contender in the Republican primary, I noticed the political discourse was so far removed from reality that people weren't even having conversations in the same universe. My main goal in entering politics was to bring some reasonableness into some of the conversations, or to at least ground the disagreements in fact so the conversations could be more productive. Unfortunately, most of my conversations so far have been horrible and hardly qualify for "intellectual discourse."
+In 2016, as Donald Trump was rising as a contender in the Republican primary, I noticed the political discourse online was so far removed from reality, people weren't having conversations in the same universe. My main goal in entering politics was to bring reasonableness into online political conversations, or to at least ground the disagreements in fact so the conversations could be more productive. Unfortunately, most of my conversations have been unproductive and hardly qualify as "intellectual discourse."
 
 I believe most content creators suffer from the following problems:
-- They tend to be uninformed about the ideas they are discussing. (e.g.: most lefties don't know the LVT, many online Republicans don't know anything about sociology)
-- They don't read any of the material they are covering. (e.g.: many people only read headlines, or just take a Twitter thread and repeat the information from it without reading any of the linked articles or sources)
-- They are more concerned with monetary gain and advancing their careers than they are with advancing any ideologies. (e.g. they will [eschew politically effective or more righteous actions](https://streamable.com/d69bog) in favor of things that further their own career, such as collaborating with only the most famous politicians they can or promoting causes which will also grow their own popularity)
-- They are often blatantly hypocritical when comparing their lifestyles to the ideas they advocate for. (e.g.: they will oftentimes talk about the importance of transparency in public figures or make fun of celebrities for donating very little money to social causes while they themselves will hide their income and make excuses for it)
+- They tend to be uninformed about the ideas they are discussing (e.g.: many lefties don't know Labor Value Theory; many online Republicans don't know anything about immigration).
+- They don't read any of the material they are covering (e.g.: many people only read headlines, or just take a Twitter thread and repeat the information from it without reading the linked articles or sources).
+- They are more concerned with monetary gain, optics, and advancing their careers than they are with advancing their expressed ideologies (e.g. they will [eschew politically effective or more righteous actions](https://streamable.com/d69bog) in favor of things that further their own career, such as collaborating with only the most popular politicians they can or promoting causes which will also grow their own popularity).
+- They are often blatantly hypocritical when comparing their lifestyles to the ideas they advocate for (e.g.: they will oftentimes talk about the importance of transparency in public figures or make fun of celebrities for donating very little money to social causes while they will hide their income and commit little to no resources to causes they support).
 
 My general goal with online politics is to:
 - Give an informed opinion about, or bring in experts or expert material concerning, current events and interesting topics.
