@@ -66,9 +66,9 @@ There are different kinds of capitalism ranging all the way from *[laissez-faire
 
 ### The Academic Arguments
 
-While exploring more socialist ideas I've come across a number of people attempting to defend their ideologies. I've had discussions with many people who identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and many, many more (Search YouTube for "destiny socialism").
+While exploring more socialist ideas I've come across a number of people attempting to defend their ideologies. I've had discussions with many people who identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and many, many more (Search YouTube for "[destiny socialism](https://www.youtube.com/results?search_query=destiny+socialism)").
 
-My primary disappointment with most socialists is the broader lack of understanding concerning the general functions of their economic systems. A few issues without satisfactory answers are -
+My primary disappointment with most socialists is the broader lack of understanding concerning the general functions of their economic systems. A few issues without satisfactory answers are:
 
 - How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
 - Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
