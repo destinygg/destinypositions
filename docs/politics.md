@@ -77,9 +77,9 @@ My primary disappointment with most socialists is the broader lack of understand
 
 ### Online Socialist Activism
 
-A lot of the discourse around socialism (e.g. on Twitch, YouTube, and Twitter) comes from people who are widely ignorant of economics and how capital markets actually work. A number of prominent, socialist content creators seem to display fundamental misunderstandings of basic fact, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM), and they tend to [respond negatively](https://twitter.com/UnlearnEcon/status/1340289575311331328) to even the [slightest bit of push back](https://www.youtube.com/watch?v=-vfx1kQlmOk) against them.
+A lot of the discourse around socialism (e.g. on Twitch, YouTube, and Twitter) comes from people who are willfully ignorant or misinformed on economics and how capital markets work. A number of prominent, socialist content creators seem to display fundamental misunderstandings of fact, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM), and tend to [respond negatively](https://twitter.com/UnlearnEcon/status/1340289575311331328) to even the [slightest bit of push back](https://www.youtube.com/watch?v=-vfx1kQlmOk) against their beliefs.
 
-While there are plenty of highly intelligent people who identify as socialists, my interactions with "online socialists" or "online lefties" from 2018 to 2020 have generally left me with a very low impression of the community at large.
+While there are plenty of highly intelligent people who identify as socialists, my interactions with "online socialists" or "online lefties" from 2018 to 2020 have generally left me with a very low opinion of the community at large.
 
 ### Co-ops
 
