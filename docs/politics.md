@@ -3,7 +3,7 @@ id: politics
 title: Politics
 ---
 
-## Political Discourse in General
+## The State of Political Discourse
 
 In 2016, as Donald Trump was rising as a contender in the Republican primary, I noticed the political discourse online was so far removed from reality, people weren't having conversations in the same universe. My main goal in entering politics was to bring reasonableness into online political conversations, or to at least ground the disagreements in fact so the conversations could be more productive. Unfortunately, most of my conversations have been unproductive and hardly qualify as "intellectual discourse."
 
@@ -19,15 +19,6 @@ My general goal with online politics is to:
 - Move people to take politically effective action.
 - Exemplify my political and ethical values in the way I live my life.
 
-## "Omni-Liberalism"
-
-In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
-
-1. Having the core values of liberalism (e.g. freedom and equality).
-2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
-
-I don't feel dogmatically attached to any particular form of government or economic system. If it can be demonstrated that some economic system (socialism, capitalism, etc...) can consistently produce better economic and social outcomes for a given society, that would be the economic system I would advocate for. As of right now, I believe that free markets with strong social safety nets (see: [Scandinavia](https://en.wikipedia.org/wiki/Nordic_model)) are the most effective way of achieving these ends.
-
 ## Philosophical Axioms and Consistency
 
 I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. My personal system starts with the axiom of wanting to maximize my own well-being, and then from there, I build out an altruistic mindset to maximize the well-being of others around me. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) is the beginning of an attempt to explain how I try to build my political positions from my more fundamental values.
@@ -35,67 +26,6 @@ I think that political positions should be the result of a consistent system —
 My applied political positions always follow from my moral system. I think the world would be a better place if people reflected more on their internal, fundamental values and used those as guiding principles to establish their political values, rather than blindly following an ideologue, or using inherited positions from their parents, religion, country, or party.
 
 A lot of political debate boils down to having some differing, fundamental position. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down to try and figure out what the other person actually believes at a fundamental level. A great example of this is abortion — people will often debate back and forth about the legality of abortion while ignoring that they fundamentally disagree on whether or not a fetus should carry the same (or similar) moral consideration as an infant child.
-
-## Libertarianism
-
-[Libertarianism](https://en.wikipedia.org/wiki/Libertarianism) is concerned with maximizing liberty and personal freedom. I viewed myself as a libertarian when I was a teenager and have read books by [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand).
-
-I am still pro liberty and pro freedom, but my political views have evolved. Libertarianism does not seem to do a very good job at solving some major problems, like social inequality and global warming. The latter, in particular, seems likely only to be solved by regulation and governmental cooperation at a global level.
-
-## The Alt-Right
-
-I do not support the [alt-right](https://en.wikipedia.org/wiki/Alt-right), nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that lead people to becoming radicalized, e.g. feeling disconnected from society, having no sense of purpose, feeling economically left behind, and how these beliefs translate into political action. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for said phenomenon are often mired in anecdote.
-
-My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I've had with alt-right figures: when confronted with challenges to their ideas, they retreat to anecdotes and offer no solutions. Most concerningly, the policy positions they offer for political change generally require some extreme amount of state-sponsored violence and are highly unrealistic in achieving any positive end.
-
-## Populism
-
-I do not support [populism](https://en.wikipedia.org/wiki/Populism).
-
-Populism is usually defined as "the people" versus "the elites." This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based on facts.
-
-## Capitalism
-
-I consider myself to be a [capitalist](https://en.wikipedia.org/wiki/Capitalism).
-
-At a high-level, capitalism seems to be the best-known economic system to generate wealth. I believe the responsibility of any economic system should, first and foremost, be to allocate resources in an economy as efficiently as possible to create the largest possible base from which to draw taxes to redistribute to those who need it most. I recognize in many western countries, especially the United States, we seem to have a big problem with the "redistribution" part.
-
-There are different kinds of capitalism, ranging all the way from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the economic model of nearly all advanced economies in the West.
-
-## Socialism / Communism
-
-### The Academic Arguments
-
-While exploring more socialist ideas I've come across a number of people attempting to defend their ideologies. I've had discussions with many people who identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and many, many more (Search YouTube for "[destiny socialism](https://www.youtube.com/results?search_query=destiny+socialism)").
-
-My primary disappointment with most socialists is the broader lack of understanding concerning the general functions of their economic systems. A few issues without satisfactory answers are:
-
-- How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
-- Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
-- How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
-- How can we accurately calculate which goods/services a nation needs if we do away with the commodity form? ie: calculation problem
-
-### Online Socialist Activism
-
-A lot of the discourse around socialism (e.g. on Twitch, YouTube, and Twitter) comes from people who are willfully ignorant or misinformed on economics and how capital markets work. A number of prominent, socialist content creators seem to display fundamental misunderstandings of fact, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM), and tend to [respond negatively](https://twitter.com/UnlearnEcon/status/1340289575311331328) to even the [slightest bit of push back](https://www.youtube.com/watch?v=-vfx1kQlmOk) against their beliefs.
-
-While there are plenty of highly intelligent people who identify as socialists, my interactions with "online socialists" or "online lefties" from 2018 to 2020 have generally left me with a very low opinion of the community at large.
-
-### Co-ops
-
-Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are businesses owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transition step away from a fully capitalist society, or one where businesses have private ownership
-
-I don't believe anything is inherently wrong with co-ops, and I support them in the cases where they lead to greater economic productivity. Despite the slight increase in productivity, however, there seems to good way for co-ops to effectively raise capital. Also, I still question whether co-ops would retain their benefits if everyone in society were to join one, rather than the select few people that have the necessary capital and/or skills to join one of the few co-ops that exist today.
-
-### Political Ineffectiveness
-
-A major gripe that I have with "online socialism" is that it is politically impotent.
-
-All policies instituted by the government are going to have pros and cons. Let's debate these policies and try to find out which ones will be the best. Once we know that, we can then put pressure on our local politicians and state representatives to try and implement the ones that are politically feasible.
-
-Inversely, most socialists that I talk to have no actual policy positions. They live in a land of fantasy where all capital is abolished, without a plan for how to get there and without a plan for solving the real world problems that we are facing right now.
-
-Also, see [the section on voting](#voting).
 
 ## Social Justice
 
@@ -179,3 +109,87 @@ I am highly in favor of international trade agreements, especially large binding
 Stock buybacks are sometimes characterized as being greedy, benefitting stockholders over employees, or as choosing to avoid investment into research & development. This is largely a fiction spun by the financially illiterate. [TBC]
 
 Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)) seem to be ignorant of these points.
+
+# Ideologies
+
+## The Alt-Right
+
+I do not support the [alt-right](https://en.wikipedia.org/wiki/Alt-right), nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that lead people to becoming radicalized, e.g. feeling disconnected from society, having no sense of purpose, feeling economically left behind, and how these beliefs translate into political action. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for said phenomenon are often mired in anecdote.
+
+My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I've had with alt-right figures: when confronted with challenges to their ideas, they retreat to anecdotes and offer no solutions. Most concerningly, the policy positions they offer for political change generally require some extreme amount of state-sponsored violence and are highly unrealistic in achieving any positive end.
+
+### Protecting our Demographics
+
+Many on the far right express a great concern over protecting the demographic make-up of whatever community they reside in. They might allude to "western values," "white values," "euro-centric values" or some other type of "values" that they are trying to protect. Generally they state the reason to protect these values stems from both an earnest desire to preserve their culture as well as protecting their voting interests.
+
+I believe that this endeavor is futile for several reasons:
+- I reject the notion that there is a consistent and coherent definition of "American values."
+    - e.g. City dwellers from San Francisco aren't going to have very many "shared values" with rural inhabitants of midwestern states.
+- I don't believe there is any way for an individual community to control who is allowed to immigrate there without it violating the rights and interests of other states.
+    - Immigration policy is set for the benefit of the nation at the federal level; states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
+- I don't believe a group of people have a right to indefinitely maintain their representation irrespective of immigrants (from other states, or countries).
+    - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
+
+## Capitalism
+
+I consider myself to be a [capitalist](https://en.wikipedia.org/wiki/Capitalism).
+
+At a high-level, capitalism seems to be the best-known economic system to generate wealth. I believe the responsibility of any economic system should, first and foremost, be to allocate resources in an economy as efficiently as possible to create the largest possible base from which to draw taxes to redistribute to those who need it most. I recognize in many western countries, especially the United States, we seem to have a big problem with the "redistribution" part.
+
+There are different kinds of capitalism, ranging all the way from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the economic model of nearly all advanced economies in the West.
+
+## Libertarianism
+
+[Libertarianism](https://en.wikipedia.org/wiki/Libertarianism) is concerned with maximizing liberty and personal freedom. I viewed myself as a libertarian when I was a teenager and have read books by [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand).
+
+I am still pro liberty and pro freedom, but my political views have evolved. Libertarianism does not seem to do a very good job at solving some major problems, like social inequality and global warming. The latter, in particular, seems likely only to be solved by regulation and governmental cooperation at a global level.
+
+## "Omniliberalism"
+
+In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
+
+1. Having the core values of liberalism (e.g. freedom and equality).
+2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
+
+I don't feel dogmatically attached to any particular form of government or economic system. If it can be demonstrated that some economic system (socialism, capitalism, etc...) can consistently produce better economic and social outcomes for a given society, that would be the economic system I would advocate for. As of right now, I believe that free markets with strong social safety nets (see: [Scandinavia](https://en.wikipedia.org/wiki/Nordic_model)) are the most effective way of achieving these ends.
+
+## Populism
+
+I do not support [populism](https://en.wikipedia.org/wiki/Populism).
+
+Populism is usually defined as "the people" versus "the elites." This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based on facts.
+
+## Socialism / Communism
+
+### The Academic Arguments
+
+While exploring more socialist ideas I've come across a number of people attempting to defend their ideologies. I've had discussions with many people who identify as [socialists](https://en.wikipedia.org/wiki/Socialism), including [Michael Albert](https://en.wikipedia.org/wiki/Michael_Albert) (an economist, see [this video](https://www.youtube.com/watch?v=B7tfIxcQYPU)), [Ben Burgis](https://twitter.com/BenBurgis) (Jacobin columnist, see [this video](https://www.youtube.com/watch?v=iaKBp9x3CpE&t=163s)), and many, many more (Search YouTube for "[destiny socialism](https://www.youtube.com/results?search_query=destiny+socialism)").
+
+My primary disappointment with most socialists is the broader lack of understanding concerning the general functions of their economic systems. A few issues without satisfactory answers are:
+
+- How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
+- Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
+- How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
+- How can we accurately calculate which goods/services a nation needs if we do away with the commodity form? ie: calculation problem
+
+### Online Socialist Activism
+
+A lot of the discourse around socialism (e.g. on Twitch, YouTube, and Twitter) comes from people who are willfully ignorant or misinformed on economics and how capital markets work. A number of prominent, socialist content creators seem to display fundamental misunderstandings of fact, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM), and tend to [respond negatively](https://twitter.com/UnlearnEcon/status/1340289575311331328) to even the [slightest bit of push back](https://www.youtube.com/watch?v=-vfx1kQlmOk) against their beliefs.
+
+While there are plenty of highly intelligent people who identify as socialists, my interactions with "online socialists" or "online lefties" from 2018 to 2020 have generally left me with a very low opinion of the community at large.
+
+### Co-ops
+
+Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are businesses owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transition step away from a fully capitalist society, or one where businesses have private ownership
+
+I don't believe anything is inherently wrong with co-ops, and I support them in the cases where they lead to greater economic productivity. Despite the slight increase in productivity, however, there seems to good way for co-ops to effectively raise capital. Also, I still question whether co-ops would retain their benefits if everyone in society were to join one, rather than the select few people that have the necessary capital and/or skills to join one of the few co-ops that exist today.
+
+### Political Ineffectiveness
+
+A major gripe that I have with "online socialism" is that it is politically impotent.
+
+All policies instituted by the government are going to have pros and cons. Let's debate these policies and try to find out which ones will be the best. Once we know that, we can then put pressure on our local politicians and state representatives to try and implement the ones that are politically feasible.
+
+Inversely, most socialists that I talk to have no actual policy positions. They live in a land of fantasy where all capital is abolished, without a plan for how to get there and without a plan for solving the real world problems that we are facing right now.
+
+Also, see [the section on voting](#voting).
