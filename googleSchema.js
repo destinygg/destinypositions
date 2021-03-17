@@ -33,8 +33,8 @@ string += iterateString;
 string += `]}`;
 
 // inject string into markdown
-if (!!window) {
-	console.log("EXIST");
+
+if (typeof window !== 'undefined') {
   window.onload = function(){
 		const elementExists = document.getElementById("philosophy-faq");
 		if (elementExists) {
@@ -42,9 +42,6 @@ if (!!window) {
 		}
 	};
 }
-
-
-
 
 //TODO add recurring interval when switching location href, find a better way than calling an interval every 500 ms
 var currentPage = location.href;
