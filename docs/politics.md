@@ -56,11 +56,11 @@ Populism is usually defined as "the people" versus "the elites." This happens on
 
 ## Capitalism
 
-I consider myself to be a capitalist.
+I consider myself to be a [capitalist](https://en.wikipedia.org/wiki/Capitalism).
 
-At a high-level, capitalism seems to be the best-known economic system to generate wealth. I believe the responsibility of any economic system should, first and foremost, be to allocate resources in an economy as efficiently as possible in order to create the largest possible base from which to draw taxes from to redistribute to those who need it most. I recognize that in many western countries, especially the USA, we seem to have a big problem with the "redistribution" part.
+At a high-level, capitalism seems to be the best-known economic system to generate wealth. I believe the responsibility of any economic system should, first and foremost, be to allocate resources in an economy as efficiently as possible to create the largest possible base from which to draw taxes to redistribute to those who need it most. I recognize in many western countries, especially the United States, we seem to have a big problem with the "redistribution" part.
 
-There are different kinds of capitalism ranging all the way from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without some government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the exact state of affairs in nearly all advanced economies in the West.
+There are different kinds of capitalism, ranging all the way from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the economic model of nearly all advanced economies in the West.
 
 ## Socialism / Communism
 
