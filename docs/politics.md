@@ -188,8 +188,11 @@ I don't believe anything is inherently wrong with co-ops, and I support them in 
 
 A major gripe that I have with "online socialism" is that it is politically impotent.
 
-All policies instituted by the government are going to have pros and cons. Let's debate these policies and try to find out which ones will be the best. Once we know that, we can then put pressure on our local politicians and state representatives to try and implement the ones that are politically feasible.
+All government policies have pros and cons. As citizens, our best course of action is to debate these policies to determine which will be the most effective and to pressure our representatives to push those that are politically feasible.
 
-Inversely, most socialists that I talk to have no actual policy positions. They live in a land of fantasy where all capital is abolished, without a plan for how to get there and without a plan for solving the real world problems that we are facing right now.
+Inversely, most socialists that I talk to have no actual policy positions. They:
+- live in a land of fantasy where all capital is abolished
+- lack meaningful plans to achieve that end
+- have no plans for solving real world problems that we face right now
 
 Also, see [the section on voting](#voting).
