@@ -33,7 +33,6 @@ string += iterateString;
 string += `]}`;
 
 // inject string into markdown
-
 if (typeof window !== 'undefined') {
   window.onload = function(){
 		const elementExists = document.getElementById("philosophy-faq");
@@ -41,17 +40,16 @@ if (typeof window !== 'undefined') {
 			document.querySelector("#philosophy-faq").innerHTML = string;
 		}
 	};
-}
-
-//TODO add recurring interval when switching location href, find a better way than calling an interval every 500 ms
-var currentPage = location.href;
-setInterval(function()
-{
-	if (currentPage != location.href)
+	//TODO add recurring interval when switching location href, find a better way than calling an interval every 500 ms
+	var currentPage = location.href;
+	setInterval(function()
 	{
-		const elementExists = document.getElementById("philosophy-faq");
-		if (elementExists) {
-			document.querySelector("#philosophy-faq").innerHTML = string;
+		if (currentPage != location.href)
+		{
+			const elementExists = document.getElementById("philosophy-faq");
+			if (elementExists) {
+				document.querySelector("#philosophy-faq").innerHTML = string;
+			}
 		}
-	}
-}, 500);
+	}, 500);
+}
