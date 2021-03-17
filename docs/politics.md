@@ -40,7 +40,7 @@ A lot of political debate actually just boils down to having some differing, fun
 
 [Libertarianism](https://en.wikipedia.org/wiki/Libertarianism) is concerned with maximizing liberty and personal freedom. I viewed myself as a libertarian when I was a teenager and have read books by [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand).
 
-I am still pro liberty and pro freedom, but my political views have evolved. Libertarianism does not seem to do a very good job at solving some major problems, like social inequality and global warming. The latter, in particular, seems likely only to be solved by international cooperation at a global level.
+I am still pro liberty and pro freedom, but my political views have evolved. Libertarianism does not seem to do a very good job at solving some major problems, like social inequality and global warming. The latter, in particular, seems likely only to be solved by regulation and governmental cooperation at a global level.
 
 ## The Alt-Right
 
