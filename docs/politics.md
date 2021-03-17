@@ -26,11 +26,11 @@ In politics, it can be useful to know which particular ideology someone subscrib
 1. Having the core values of liberalism (e.g. freedom and equality).
 2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
 
-I don't feel dogmatically attached to any particular form of government or economic system. If it can be demonstrated that some economic system (socialism, capitalism, etc...) can consistently produce better economic and social outcomes for a given society, that would be the economic system I would advocate for. As of right now, I believe that free markets with strong social safety nets (see: Scandinavia) are the most effective way of achieving these ends.
+I don't feel dogmatically attached to any particular form of government or economic system. If it can be demonstrated that some economic system (socialism, capitalism, etc...) can consistently produce better economic and social outcomes for a given society, that would be the economic system I would advocate for. As of right now, I believe that free markets with strong social safety nets (see: [Scandinavia](https://en.wikipedia.org/wiki/Nordic_model)) are the most effective way of achieving these ends.
 
 ## Philosophical Axioms and Consistency
 
-I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. My personal system starts with the axiom of wanting to maximize my own well-being, and then from there I build out an altruistic mindset to maximize the well-being of others around me. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) is the beginning of an attempt to explain how I try to build my political positions from my more fundamental values.
+I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. My personal system starts with the axiom of wanting to maximize my own well-being, and then from there, I build out an altruistic mindset to maximize the well-being of others around me. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) is the beginning of an attempt to explain how I try to build my political positions from my more fundamental values.
 
 My applied political positions always follow from my moral system. I think the world would be a better place if people reflected more on their internal, fundamental values and used those as guiding principles to establish their political values, rather than blindly following an ideologue, or using inherited positions from their parents, religion, country, or party.
 
@@ -52,7 +52,7 @@ My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48
 
 I do not support [populism](https://en.wikipedia.org/wiki/Populism).
 
-Populism is usually defined as "the people" versus "the elites." This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based in facts.
+Populism is usually defined as "the people" versus "the elites." This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based on facts.
 
 ## Capitalism
 
@@ -73,7 +73,7 @@ My primary disappointment with most socialists is the broader lack of understand
 - How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
 - Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
 - How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
-- How can we accurately calculate which goods/services a society needs if we do away with the commodity form? ie: calculation problem
+- How can we accurately calculate which goods/services a nation needs if we do away with the commodity form? ie: calculation problem
 
 ### Online Socialist Activism
 
@@ -83,7 +83,7 @@ While there are plenty of highly intelligent people who identify as socialists, 
 
 ### Co-ops
 
-Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are businesses owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transition step away from a fully capitalist society, or one where businesses have private ownership.
+Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are businesses owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transition step away from a fully capitalist society, or one where businesses have private ownership
 
 I don't believe anything is inherently wrong with co-ops, and I support them in the cases where they lead to greater economic productivity. Despite the slight increase in productivity, however, there seems to good way for co-ops to effectively raise capital. Also, I still question whether co-ops would retain their benefits if everyone in society were to join one, rather than the select few people that have the necessary capital and/or skills to join one of the few co-ops that exist today.
 
@@ -95,29 +95,29 @@ All policies instituted by the government are going to have pros and cons. Let's
 
 Inversely, most socialists that I talk to have no actual policy positions. They live in a land of fantasy where all capital is abolished, without a plan for how to get there and without a plan for solving the real world problems that we are facing right now.
 
-Also see [the section on voting](#voting).
+Also, see [the section on voting](#voting).
 
 ## Social Justice
 
-I think that social justice is a real thing. We have made a ton of progress so far (e.g. ending slavery, ending redlining, legalizing gay marriage) but we are not at the finish line yet. In general, the government should work to protect the rights of minority groups, including trans people.
+I believe that social justice is a real thing. We have made a ton of progress so far (e.g. ending slavery, ending redlining, legalizing gay marriage) but we are not at the finish line yet. In general, the government should work to protect the rights of minority groups, including trans people.
 
-Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," [Twitch banning the "blind playthrough" tag](https://twitter.com/aureylian/status/1334964758932549632), pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (from e.g. watching "SJW owns" videos on YouTube).
+Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," Twitch banning the "blind playthrough" tag, pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (e.g. from watching "SJW owns" videos on YouTube).
 
 The right place is somewhere in the middle. I advocate that you should try to have respect for other people, especially if doing so won't inconvenience you much. In general, this means if someone wants you to call them she/her, you should be polite and respect their request to do so.
 
-Also see the section on [systemic racism](#systemic-racism).
+Also, see the section on [systemic racism](#systemic-racism).
 
 ## Diversity
 
 In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races — the best person should get the job, regardless of what gender or race they are.
 
-At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group more to hire the women — the group would gain a different perspective and would be more well-rounded.
+At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 woman. When hiring the 10th person for this group, if a man and woman have similar credentials, it might benefit the group a lot more to hire the woman — the group would gain a different perspective and it would be more well-rounded.
 
 A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped them catch this problem early on, resulting in a better product.
 
 Anecdotes aside, what does the data say? Research tends to show that [diversity does tend to have benefits](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), but [it isn't completely one-sided](https://hbr.org/2016/07/why-diversity-programs-fail).
 
-Also see the section on [affirmative action](#affirmative-action).
+Also, see the section on [affirmative action](#affirmative-action).
 
 ## Affirmative Action
 
@@ -125,7 +125,7 @@ I am neither for nor against affirmative action — it depends on how it is impl
 
 For example, I am against [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/), because it seems like it is going too far.
 
-Also see the section on [diversity](#diversity).
+Also, see the section on [diversity](#diversity).
 
 ## Systemic Racism
 
@@ -135,15 +135,15 @@ We have strong evidence that in the United States, there are some lingering form
 
 Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning — but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
 
-I think that systemic racism clearly exists (in some forms). I don't have a strong opinion on the best policies to address it.
+I believe that systemic racism clearly exists (in some forms). I don't have a strong opinion on the best policies to address it.
 
-Also see the section on [reparations](#reparations).
+Also, see the section on [reparations](#reparations).
 
 ## Reparations
 
 After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems pretty unfair.
 
-There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of (finally) repaying a debt that was promised.
+There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of *finally* repaying a debt that was promised.
 
 Logistically, implementing reparations would be difficult (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?). I acknowledge that reparations are probably not politically feasible.
 
@@ -178,4 +178,4 @@ I am highly in favor of international trade agreements, especially large binding
 
 Stock buybacks are sometimes characterized as being greedy, benefitting stockholders over employees, or as choosing to avoid investment into research & development. This is largely a fiction spun by the financially illiterate. [TBC]
 
-Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)) seem to be ignorant on these points.
+Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)) seem to be ignorant of these points.
