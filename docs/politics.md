@@ -26,7 +26,7 @@ In politics, it can be useful to know which particular ideology someone subscrib
 1. Having the core values of liberalism (e.g. freedom and equality).
 2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
 
-I don't feel dogmatically attached to any particular form of government or economic system. If it can be demonstrated that some economic system (socialismwwpitalism, etc...) can consistently produce better economic and social outcomes for a given society, that would be the economsystem I would advocate for. As of right now, I believe that free markets with strong social safety nets (see: Scandanavia) are the most effective way of achieving these ends.
+I don't feel dogmatically attached to any particular form of government or economic system. If it can be demonstrated that some economic system (socialismwwpitalism, etc...) can consistently produce better economic and social outcomes for a given society, that would be the econome I would advocate for. As of right now, I believe that free markets with strong social safety nets (see: Scandanavia) are the most effective way of achieving these ends.
 
 ## Philosophical Axioms and Consistency
 
