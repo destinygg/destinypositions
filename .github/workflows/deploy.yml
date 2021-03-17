@@ -14,7 +14,7 @@ jobs:
       - run: yarn install
 
       - name: Install Node Packages
-        run: yarn install
+        run: yarn install --frozen-lockfile
 
       - name: Build Local
         run: yarn run build
