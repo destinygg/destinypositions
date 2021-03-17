@@ -33,12 +33,12 @@ string += iterateString;
 string += `]}`;
 
 // inject string into markdown
-window.onload = function(){
+document.addEventListener("DOMContentLoaded", function(event){
 	const elementExists = document.getElementById("philosophy-faq");
 	if (elementExists) {
 		document.querySelector("#philosophy-faq").innerHTML = string;
 	}
-};
+});
 
 
 //TODO add recurring interval when switching location href, find a better way than calling an interval every 500 ms
