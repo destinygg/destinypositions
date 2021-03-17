@@ -31,7 +31,7 @@ A lot of political debate boils down to having some differing, fundamental posit
 
 I believe that social justice is a real thing. We have made a ton of progress so far (e.g. ending slavery, ending redlining, legalizing gay marriage) but we are not at the finish line yet. In general, the government should work to protect the rights of minority groups, including trans people.
 
-Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," Twitch banning the "blind playthrough" tag, pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (e.g. from watching "SJW owns" videos on YouTube).
+Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," [Twitch banning the "blind playthrough" tag](https://www.eurogamer.net/articles/2020-12-06-twitch-removes-blind-playthrough-tag-following-criticism-from-gamers-with-disabilities), pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (e.g. from watching "SJW owns" videos on YouTube).
 
 The right place is somewhere in the middle. I advocate that you should try to have respect for other people, especially if doing so won't inconvenience you much. In general, this means if someone wants you to call them she/her, you should be polite and respect their request to do so.
 
