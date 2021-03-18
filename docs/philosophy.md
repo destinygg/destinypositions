@@ -3,20 +3,6 @@ id: philosophy
 title: Philosophy
 ---
 
-## Alt-right Talking Points
-
-### Protecting our Demographics
-
-Many on the far right express a great concern over protecting the demographic make-up of whatever community they reside in. They might allude to "western values," "white values," "euro-centric values" or some other type of "values" that they are trying to protect. Generally they state the reason to protect these values stems from both an earnest desire to preserve their culture as well as protecting their voting interests.
-
-I believe that this endeavor is futile for several reasons:
-- I reject the notion that there is a consistent and coherent definition of "American values."
-    - e.g. City dwellers from San Francisco aren't going to have very many "shared values" with rural inhabitants of midwestern states.
-- I don't believe there is any way for an individual community to control who is allowed to immigrate there without it violating the rights and interests of other states.
-    - Immigration policy is set for the benefit of the nation at the federal level; states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
-- I don't believe a group of people have a right to indefinitely maintain their representation irrespective of immigrants (from other states, or countries).
-    - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
-
 ## Violence
 
 I am generally opposed to violence as I don't believe it is an effective way to accomplish political change, at least not at this point in time in the United States. That being said, I believe there are plenty of groups of people who could, at points, justify the use of violence in self-defense, even if I don't believe it would be a pragmatic or politically effective thing to do.
@@ -30,13 +16,13 @@ I believe that people have a right to defend their property insofar as three imp
 
 For example, if someone wants to destroy your local business or your house, then you have a right to defend your property by all means necessary.
 
-Many disagreements over whether or not defense of personal property is justified sometimes appear to boil down to a difference of underlying values. Middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system or a school instrument.
+Many disagreements over whether or not defense of personal property is justified sometimes appear to boil down to a difference of underlying values. The value in question is whether "property can be valued over human life", or some statement to that effect. In my experience, middle-class and well-off people may underestimate the personal sacrifice and the years of time invested into obtaining a business, a car, or even something as simple as a stereo system or a school instrument. As such, they will argue that no matter the value and sacrifice associated with some property, even in the case of people living in poverty, the life of the thief always outweighs said value. This is a conclusion I take issue with.
 
 ### Protesting & Rioting
 
 I ardently believe in a people's right to protest and I will always support the right to protest, even if I don't necessarily agree with positions being advocated for by any particular protest. For example, I would support the right of a pro-life group protesting the right to an abortion, but I wouldn't agree with the message of the pro-life group: that abortion is immoral, or should be outlawed.
 
-Rioting is a slightly more complicated matter. When I speak about rioting, I am more precisely talking about protest that have some level of violence involved, namely that of property destruction. I do not support riots which seek to harm individuals in the United States at this point in time. I only support rioting against institutions that represent some oppressive force in society, so I *generally* only support rioting against public institutions, e.g. a police department, city hall, etc... It's not inconceivable that I would support a riot against a private institution, but only if that private institution was acting in [an illegal manner](https://youtu.be/Ikk9PxOn1F8?t=2244).
+Rioting is a slightly more complicated matter. When I speak about rioting, I am more precisely talking about protest that have some level of violence involved, namely that of property destruction. I do not support riots which seek to harm individuals in the United States at this point in time. I only support rioting against institutions that represent some oppressive force in society, so I *generally* only support rioting against public institutions, e.g. a police department, city hall, etc... It's not inconceivable that I would support a riot against a private institution, but only if that private institution was acting in an illegal manner.
 
 #### MLK & Riots
 
@@ -62,17 +48,17 @@ MLK is commonly cited as opposition to my position on riots, however, I believe 
 
 ## Public vs Private Humor
 
-I enjoy all types of comedy, even if it's dark or offensive. Regardless of how I feel, personally, there is a wide chasm between the types of humor that I enjoy privately and the types of humor I believe are responsibly enjoyed publicly. I believe that public figures have to be more careful when engaging with potentially problematic types of humor because one cannot control the audience that may engage with particular types of humor; as public figures, we should avoid empowering groups of people who have ideologies rooted in values contradicting our own.
+I enjoy all types of comedy, even if it's dark or offensive. Regardless of how I feel, there is a wide chasm between the types of humor that I enjoy privately and the types of humor I believe are responsibly enjoyed publicly. I believe that public figures have to be more careful when engaging with potentially problematic types of humor because one cannot control the audience that may engage with particular types of humor. As public figures, we should avoid empowering groups of people who have ideologies rooted in values contradicting our own, even in speech/actions where we do not intend to do so but it still has that effect.
 
 An example of a type of "edgy joke" might be the way I engage with a close friend relating to gender/sexuality/race. It might be an "inside joke" in private where my friend and I have cleared with each other that it's okay to joke about certain topics (e.g., my friend joking about me being Cuban, me joking about them being black, etc...). If we were to engage in these types of humor publicly without a large number of disclaimers, it's entirely possible that people could take these jokes the wrong way and engage with them problematically, e.g. "I heard Destiny make fun of xyz for being gay, now I'm going to make fun of other gay people because it was funny!"
 
-Because of people obsessively trying to get "optics victories" over me, this entire argument becomes reframed as "saying the n-word in private." I don't regularly use any hateful language in private because I honestly just don't know many jokes involving hateful language, not to say that that there aren't [any examples](https://www.youtube.com/watch?v=jdY89tENgmM) of such jokes.
+Because of certain people obsessively trying to get "optics victories" over me, this entire argument becomes reframed by them as "Destiny wants to say the n-word in private." I don't regularly use any hateful language in private, especially because I just don't know many jokes involving hateful language. However, that's not to say that that there aren't [any examples](https://www.youtube.com/watch?v=jdY89tENgmM) of such jokes.
 
 ## Incest
 
-"Incest" as a topic has been explored quite extensively on my stream as a way to illustrate the concept of ["moral dumbfounding"](https://en.wikipedia.org/wiki/Social_intuitionism), i.e. you have a feeling that something is immoral or "wrong," but find you're unable to explain exactly why you feel that way. It seems hard, when pressed, to explain exactly why an incestuous relationship is wrong without appealing to other arguments that aren't intrinsic to these kinds of relationships, e.g. parent/child (these are wrong due to power differences or underage parties), or situations where children are involved (these may be "wrong" due to the potential for offspring with increased risk of birth defects being created, though this gets into a strange sort of eugenics argument).
+"Incest" as a topic has been explored quite extensively on my stream as a way to illustrate the concept of ["moral dumbfounding"](https://en.wikipedia.org/wiki/Social_intuitionism), i.e. you have a feeling that something is immoral or "wrong," but find you're unable to explain exactly why you feel that way. It seems hard, when pressed, to explain exactly why an incestuous relationship is wrong without appealing to other arguments that aren't intrinsic to these kinds of relationships. For example: parent/child (these are wrong due to power differences or underage parties, not necessarily the fact that they are incestuous), or situations involving reproduction (these may be "wrong" due to the potential for offspring with increased risk of birth defects being created, though this could have logical implications for other kinds of eugenics).
 
-I've used this topic several times on stream to see if someone is capable of actually engaging with the topic, though it generally devolves into people screaming at me while claiming I want ["fathers fucking daughters"](https://youtu.be/jRPb1t_dBlI?t=9628) or something [similarly absurd](https://youtu.be/-KfdsuYUKW8?t=2149).
+I've used this topic several times on stream to see if someone is capable of actually engaging with the topic, though it generally devolves into people screaming at me while claiming I want ["fathers fucking daughters"](https://youtu.be/jRPb1t_dBlI?t=9628) or something [similarly absurd](https://youtu.be/-KfdsuYUKW8?t=2149). It is a useful measure of someone's ability to engage with arguments in good faith, question their own worldview, and engage with the logic of ethical matters. While I usually frame the argument from a position of moral neutrality, I have previously made clear that I am not in favour of incestual relationships and provided what I believe to be logical arguments for this.
 
 ## Child Pornography
 
