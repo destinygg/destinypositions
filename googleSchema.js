@@ -1,6 +1,6 @@
 // Philosophy FAQ
 // to add more philosophy questions just add them in this json as the first 2 and the script will do the rest
-var faqPhilosophy = {
+const faqPhilosophy = {
 	"faqs": {
 		"protectingOurDemographics": {
 			"question": "What does Destiny think about protecting our demographics?",
@@ -13,43 +13,43 @@ var faqPhilosophy = {
 	}
 };
 
-// Initialize JSON array and data
-var faqsPhilosophy = faqPhilosophy.faqs;
-faqsPhilosophy = JSON.stringify(faqsPhilosophy);
-faqsPhilosophy = JSON.parse(faqsPhilosophy);
+function createSchema() {
+	// Initialize JSON array and data
+	let faqsPhilosophy = faqPhilosophy.faqs;
+	faqsPhilosophy = JSON.stringify(faqsPhilosophy);
+	faqsPhilosophy = JSON.parse(faqsPhilosophy);
+	let schemaString = `{"@context": "https://schema.org","@type": "FAQPage","mainEntity":[`;
+		let iterateSchemaString = '';
+		// iterates over the questions
+		Object.values(faqsPhilosophy).filter(faqsPhilosophy =>
+			iterateSchemaString += `{"@type": "Question","name": "` + faqsPhilosophy.question + `","acceptedAnswer": {"@type": "Answer","text": "` + faqsPhilosophy.answer + `"}},`
+		);
+		//slices last ','
+		iterateSchemaString = iterateSchemaString.slice(0, -1);
+		string += iterateSchemaString;
+		string += `]}`;
+	}
 
-var string = `{"@context": "https://schema.org","@type": "FAQPage","mainEntity":[`;
+	createSchema();
 
-var iterateString = '';
-// iterates over the questions
-Object.values(faqsPhilosophy).filter(faqsPhilosophy =>
-	iterateString += `{"@type": "Question","name": "` + faqsPhilosophy.question + `","acceptedAnswer": {"@type": "Answer","text": "` + faqsPhilosophy.answer + `"}},`
-);
-
-//slices last ','
-iterateString = iterateString.slice(0, -1);
-
-string += iterateString;
-string += `]}`;
-
-// inject string into markdown
-if (typeof window !== 'undefined') {
-  window.onload = function(){
-		const elementExists = document.getElementById("philosophy-faq");
-		if (elementExists) {
-			document.querySelector("#philosophy-faq").innerHTML = string;
-		}
-	};
-	//TODO add recurring interval when switching location href, find a better way than calling an interval every 500 ms
-	var currentPage = location.href;
-	setInterval(function()
-	{
-		if (currentPage != location.href)
-		{
+	// inject string into markdown
+	if (typeof window !== 'undefined') {
+		window.onload = function(){
 			const elementExists = document.getElementById("philosophy-faq");
 			if (elementExists) {
 				document.querySelector("#philosophy-faq").innerHTML = string;
 			}
-		}
-	}, 500);
-}
+		};
+		//TODO add recurring interval when switching location href, find a better way than calling an interval every 500 ms
+		var currentPage = location.href;
+		setInterval(function()
+		{
+			if (currentPage != location.href)
+			{
+				const elementExists = document.getElementById("philosophy-faq");
+				if (elementExists) {
+					document.querySelector("#philosophy-faq").innerHTML = string;
+				}
+			}
+		}, 500);
+	}
