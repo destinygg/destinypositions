@@ -18,6 +18,15 @@ yarn start
 
 This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
 
+## Running the spellchecker
+
+You can run the spellcheck locally using the following command:
+```console
+yarn run spell-check
+```
+
+This will generate a summary report of the words that are not recognized and that should either be fixed or added to the file `.cspell.json`
+
 ## Contributing
 
 * Content on this site reflects the views and positions of streamer Steven "Destiny" Bonnell. 

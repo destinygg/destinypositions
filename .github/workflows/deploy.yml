@@ -8,9 +8,22 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
-          
-      - name: Install Node Packages
-        run: npm ci
-        
+
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn cache dir)"
+
+      - name: Use Yarn Cache
+        uses: actions/cache@v2
+        id: yarn-cache
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      - name: Yarn Install
+        run: yarn install --prefer-offline --frozen-lockfile
+
       - name: Build Local
-        run: npm run build
+        run: yarn run build
