@@ -10,4 +10,4 @@ Many things are said about who I am or what I believe in. Many make absurd claim
 
 As I've evolved, both in my political and social views, and as I've continued to produce more and more hours of content, it seems possible that you could cherry pick almost any 30 seconds of my content to claim I represent any given political or social viewpoint. In 2021 I committed myself to a strategy of being more rhetorically engaged with how people view me.
 
-This is my effort to "set the record straight" insofar as what I actually believe. I'll include within these pages a record of most of my policy and philosophical positions, as well as any positions I have relating to current events.
+This is my effort to "set the record straight" insofar as to what I believe. I'll include within these pages a record of most of my policy and philosophical positions, as well as any positions I have relating to current events.
