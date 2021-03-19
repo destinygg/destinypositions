@@ -8,7 +8,7 @@ slug: /
 
 ## Who I am
 
-I (Steven Kenneth "Destiny" Bonnell II) am most well known for my political content online, but I started my career as a [Starcraft 2](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) livestreamer. Today I livestream most aspects of my life; including gaming, online debates, and canvassing for political change. Throughout my life I have always tried to ensure what I believe is consistent and to test that I would argue my ideas against others. I am sincere about what I say and do so if anyone has a disagreement with me they can always join [my discord's](https://discordapp.com/invite/destiny) voice chat to have a talk while I am streaming or can email me (contact@destiny.gg).
+I (Steven Kenneth "Destiny" Bonnell II) am most well known for my political content online, but I started my career as a [Starcraft 2](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) livestreamer. Today I livestream most aspects of my life; including gaming, online debates, and canvassing for political change. Throughout my life I have always tried to ensure what I believe is consistent and to test my ideas I would argue with others. I am sincere about what I say and do so if anyone has a disagreement with me they can always join [my discord's](https://discordapp.com/invite/destiny) voice chat to have a talk while I am streaming or can email me (contact@destiny.gg).
 
 ## Political advocacy
 
