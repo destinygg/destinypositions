@@ -19,7 +19,7 @@ My general goal with online politics is to:
 - Move people to take politically effective action.
 - Exemplify my political and ethical values in the way I live my life.
 
-I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. For a more in-depth explanation of this, please see the page on [Philosophy](#philosphy)
+I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. For a more in-depth explanation of this, please see the page on [Philosophy](./philosophy#why-philosophy-is-important)
 
 ## Social Justice
 
