@@ -3,10 +3,11 @@ id: philosophy
 title: Philosophy
 ---
 
-## Why Philosophy is Important and My Foundational Beliefs
+## Why Philosophy is Important
 
 When doing online debate about politics, it is extremely important to have a philosophical foundation from which to draw practical conclusions. Politics is downstream from philosophy, and you could argue that it is simply the practice of applied philosophy on a societal level. While I have no formal eduation in philosophy, through the use of reasources such as the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html) and Wikipedia articles, I have taken pains to construct some sort of philosophical heuristic to solve policy issues. This has allowed me to more effectively understand my own and others' arguments through the underlying philosophical values and processes at play, as well as create a consistent set of rules to abide by when evaluating various political issues.
 
+### My Foundational Beliefs
 My philosophical foundations can be summarised as the following:
 - [There is no such thing as morality](https://plato.stanford.edu/entries/moral-anti-realism/), however I think that ethical conversations provide us with utility insofar as they allow us to have discussions on how to solve problems in society. (This has similarities to a philosophical school of thought called [Fictionalism](https://plato.stanford.edu/entries/fictionalism/#ViaEliAnt).)
 - I and every human wishes to maximise their own experience. This is purposely vague, as what this means varies from person to person, but in simple terms it refers to having a maximal quality of life.
