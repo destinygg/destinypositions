@@ -12,7 +12,9 @@ My applied political positions always follow from my moral system. I think the w
 A lot of political debate boils down to having some differing, fundamental position. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down to try and figure out what the other person actually believes at a fundamental level. A great example of this is abortion — people will often debate back and forth about the legality of abortion while ignoring that they fundamentally disagree on whether or not a fetus should carry the same (or similar) moral consideration as an infant child.
 
 ### My Foundational Beliefs
-My philosophical foundations can be summarised as the following:
+
+I have a [video](https://www.youtube.com/watch?v=N-eTcjGsK08) where I break down how I contruct my philosophical worldview, which I highly recommend watching for a fleshed-out understanding of my position. However, if you don't have the time to watch now, here is a short summary of my philosophical foundations:
+
 - [There is no such thing as morality](https://plato.stanford.edu/entries/moral-anti-realism/), however I think that ethical conversations provide us with utility insofar as they allow us to have discussions on how to solve problems in society. (This has similarities to a philosophical school of thought called [Fictionalism](https://plato.stanford.edu/entries/fictionalism/#ViaEliAnt).)
 - I and every human wishes to maximise their own experience. This is purposely vague, as what this means varies from person to person, but in simple terms it refers to having a maximal quality of life.
 - The best way to maximise my own experience is to help maximise others' experience as well as my own. I believe that humans have a unique capability for reciprocity, and that given this universal goal, pooling the efforts of a community of people will exponentially increase progress towards it. I (and most other people) also lose quality of life when those around me do (e.g. seeing people homeless, having friends with poor mental health, having ill family members, etc).
