@@ -13,7 +13,7 @@ A lot of political debate boils down to having some differing, fundamental posit
 
 ### My Foundational Beliefs
 
-I have a [video](https://www.youtube.com/watch?v=N-eTcjGsK08) where I break down how I contruct my philosophical worldview, which I highly recommend watching for a fleshed-out understanding of my position. However, if you don't have the time to watch now, here is a short summary of my philosophical foundations:
+I have a [video](https://www.youtube.com/watch?v=N-eTcjGsK08) where I break down how I construct my philosophical worldview, which I highly recommend watching for a fleshed-out understanding of my position. However, if you don't have the time to watch now, here is a short summary of my philosophical foundations:
 
 - [There is no such thing as morality](https://plato.stanford.edu/entries/moral-anti-realism/), however I think that ethical conversations provide us with utility insofar as they allow us to have discussions on how to solve problems in society. (This has similarities to a philosophical school of thought called [Fictionalism](https://plato.stanford.edu/entries/fictionalism/#ViaEliAnt).)
 - I and every human wishes to maximise their own experience. This is purposely vague, as what this means varies from person to person, but in simple terms it refers to having a maximal quality of life.
