@@ -23,11 +23,7 @@ I think that political positions should be the result of a consistent system —
 
 ## Social Justice
 
-I believe that social justice is a real thing. We have made a ton of progress so far (e.g. ending slavery, ending redlining, legalizing gay marriage) but we are not at the finish line yet. In general, the government should work to protect the rights of minority groups, including trans people.
-
-Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," [Twitch banning the "blind playthrough" tag](https://www.eurogamer.net/articles/2020-12-06-twitch-removes-blind-playthrough-tag-following-criticism-from-gamers-with-disabilities), pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (e.g. from watching "SJW owns" videos on YouTube).
-
-The reasonable position is somewhere in the middle. I advocate that you should try to respect other people, especially if doing so won't inconvenience you much. In general, this means if someone wants you to call them she/her, you should be polite and respect their request to do so.
+It is incredibly important to incorporate notions of equity into our view of the world when it comes to enacting policy or new laws. I think it is vital to recognize that many people have had disadvantages throughout US history and that the outcomes of those disadvantages are still noticeable today. Any policy we design should take these differences into account.
 
 Also, see the section on [systemic racism](#systemic-racism).
 
@@ -79,11 +75,9 @@ People in America (and around the world) have problems **right now** that need t
 
 ## Global Warming
 
-I think that global warming is a real thing and is anthropogenic (caused by humans).
+Global warming is real and anthropogenic (i.e.: caused by humans).
 
-Unfortunately, I have low hopes that the world will be able to agree to reduce carbon emissions to prevent significant warming (<4°C).
-
-I don't support any particular policies relating to global warming, although I would like to see America (and the rest of the world) become carbon neutral as fast as reasonably possible.
+It seems that the best approach to dealing with climate change is with the aggressive incentivization of greener energies and the implementation of carbon pricing policies. The former polls incredibly well with Americans and the latter is almost universally agreed upon by economists to be effective in moving markets to aggressively seek out more carbon-neutral ways of operating. ( [1](https://www.rff.org/publications/reports/climateinsights2020-policies-and-politics/) 
 
 ## The Green New Deal
 
@@ -112,7 +106,7 @@ I do not support the [alt-right](https://en.wikipedia.org/wiki/Alt-right), nor a
 
 My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I've had with alt-right figures: when confronted with challenges to their ideas, they retreat to anecdotes and offer no solutions. Most concerningly, the policy positions they offer for political change generally require some extreme amount of state-sponsored violence and are highly unrealistic in achieving any positive end.
 
-### Protecting our Demographics
+### "Protecting our Demographics"
 
 Many on the far right express a great concern over protecting the demographic make-up of whatever community they reside in. They might allude to "western values," "white values," "euro-centric values" or some other type of "values" that they are trying to protect. Generally they state the reason to protect these values stems from both an earnest desire to preserve their culture as well as protecting their voting interests.
 
