@@ -8,12 +8,12 @@ description: My arguments about recent events and the prevailing narratives arou
 
 It is stated that Breonna Taylor was killed in her bed or while asleep almost ubiquitously across social media ( [1](https://twitter.com/repkarenbass/status/1282485401144291328?lang=en) | [2](https://twitter.com/aclu/status/1370741199804456963) | [3](https://twitter.com/mireikaedwards/status/1269733187149639680?lang=en) | [4](https://twitter.com/astrotoya/status/1269965102104686594?lang=en) | [5](https://twitter.com/sensherrodbrown/status/1308877544012341256?lang=en) | [6](https://twitter.com/ColorOfChange/status/1370729137552375808) | [7](https://twitter.com/whitney_hu/status/1372027994303307784) | [8](https://twitter.com/edmarkey/status/1308833811476684804?lang=en) | [9](https://twitter.com/jduffyrice/status/1266844052332388352?lang=en) ) despite this not being the truth. What happened to Breonna Taylor was wrong, and the police conduct that day deserves to be called into question. However, starting that discussion with an incorrect description of what happened weakens our arguments against those on the right that disagree with us. This is because we now have to begin by making concessions about lies or misrepresentations from people who purport to agree with us. Furthermore, it casts doubt about the truth of the rest of the argument for those in the middle who are unsure of where the fault lies.
 
-A user in my community, "DaSkrubKing", provides a detailed breakdown of what happened the night of Breonna Taylor's death. The key takeaways for what happened are: 
+A user in my community, "DaSkrubKing," provides a detailed breakdown of what happened the night of Breonna Taylor's death. The key takeaways for what happened are: 
 
 1. Louisville police were serving a "knock and announce" warrant at Breonna Taylor's apartment thinking she would be the only one present.
 2. Police officers knocked on Breonna's door, awakening her and causing her to answer through the door asking who was there, though the police deny hearing anything.
 3. Breonna returns to her bedroom and wakes up her boyfriend, Kenneth Walker, and they both get dressed. Walker and Taylor believe that the ex-boyfriend, Jamarcus Glover (a suspected drug trafficker), is at the door.
-4. Walker and Taylor exit the bedroom, police knock on the door, then Walker fires a single shot hitting one officer in the leg.
+4. Walker and Taylor exit the bedroom, police knock the door in, then Walker fires a single shot hitting one officer in the leg.
 5. Walker drops his gun and crawls into a bedroom, Taylor is struck multiple times by police returning fire, and the injured officer is rushed off to the hospital.
 
 Breonna Taylor was not "asleep", nor was she "in bed" when she was killed by police officers. This does not excuse their actions or make her death any less tragic, but stating that she was killed while she was asleep in her bed is simply incorrect.
