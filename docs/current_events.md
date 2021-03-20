@@ -16,7 +16,7 @@ A user in my community, "DaSkrubKing," provides a detailed breakdown of what hap
 4. Walker and Taylor exit the bedroom, police knock the door in, then Walker fires a single shot hitting one officer in the leg.
 5. Walker drops his gun and crawls into a bedroom, Taylor is struck multiple times by police returning fire, and the injured officer is rushed off to the hospital.
 
-Breonna Taylor was not "asleep", nor was she "in bed" when she was killed by police officers. This does not excuse their actions or make her death any less tragic, but stating that she was killed while she was asleep in her bed is simply incorrect.
+Breonna Taylor was neither asleep nor was she in bed when she was killed by police officers. This does not excuse their actions or make her death any less tragic, but stating that she was killed while she was asleep in her bed is simply incorrect.
 
 The claims we should be making about Breonna Taylor's death, which are grounded in the reality of the situation, are as follows: 
 
