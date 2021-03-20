@@ -19,13 +19,7 @@ My general goal with online politics is to:
 - Move people to take politically effective action.
 - Exemplify my political and ethical values in the way I live my life.
 
-## Philosophical Axioms and Consistency
-
-I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. My personal system starts with the axiom of wanting to maximize my own well-being, and then from there, I build out an altruistic mindset to maximize the well-being of others around me. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) is the beginning of an attempt to explain how I try to build my political positions from my more fundamental values.
-
-My applied political positions always follow from my moral system. I think the world would be a better place if people reflected more on their internal, fundamental values and used those as guiding principles to establish their political values, rather than blindly following an ideologue, or using inherited positions from their parents, religion, country, or party.
-
-A lot of political debate boils down to having some differing, fundamental position. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down to try and figure out what the other person actually believes at a fundamental level. A great example of this is abortion — people will often debate back and forth about the legality of abortion while ignoring that they fundamentally disagree on whether or not a fetus should carry the same (or similar) moral consideration as an infant child.
+I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. For a more in-depth explanation of this, please see the page on [why philosophy is important](./philosophy#why-philosophy-is-important).
 
 ## Social Justice
 
