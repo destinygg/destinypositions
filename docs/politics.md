@@ -21,7 +21,7 @@ My general goal with online politics is to:
 
 ## "Omni-Liberalism"
 
-In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
+In politics, it can be useful to know which ideology someone subscribes to. However, like most, I do not fall perfectly in-line with any ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
 
 1. Having the core values of liberalism (e.g. freedom and equality).
 2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
@@ -38,9 +38,9 @@ A lot of political debate boils down to having some differing, fundamental posit
 
 ## Libertarianism
 
-[Libertarianism](https://en.wikipedia.org/wiki/Libertarianism) is concerned with maximizing liberty and personal freedom. I viewed myself as a libertarian when I was a teenager and have read books by [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand).
+[Libertarianism](https://en.wikipedia.org/wiki/Libertarianism) is concerned with maximizing liberty and personal freedom. As a teenager I read books by [Ayn Rand](https://en.wikipedia.org/wiki/Ayn_Rand) and viewed myself as a libertarian.
 
-I am still pro liberty and pro freedom, but my political views have evolved. Libertarianism does not seem to do a very good job at solving some major problems, like social inequality and global warming. The latter, in particular, seems likely only to be solved by regulation and governmental cooperation at a global level.
+I am still pro liberty and pro freedom, but my political views have evolved. Libertarianism does not seem to do a very good job at solving some major problems, like social inequality and global warming. In particular, the latter seems likely only to be solved by regulation and governmental cooperation at a global level.
 
 ## The Alt-Right
 
@@ -52,7 +52,7 @@ My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48
 
 I do not support [populism](https://en.wikipedia.org/wiki/Populism).
 
-Populism is usually defined as "the people" versus "the elites." This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off negative emotions, but is often not based in facts.
+Populism is usually defined as "the people" versus "the elites." This happens on both the right (e.g. the alt-right & Donald Trump) and the left (e.g. Bernie-or-Busters). Populism is powerful because it feeds off of the negative emotions of people who feel like they are getting shafted, but more often than not it is just a smoke screen to distract people from reality.
 
 ## Capitalism
 
@@ -70,10 +70,10 @@ While exploring more socialist ideas I've come across a number of people attempt
 
 My primary disappointment with most socialists is the broader lack of understanding concerning the general functions of their economic systems. A few issues without satisfactory answers are:
 
-- How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
+- How do we decide which businesses get funded without allowing capital investment from private parties?
 - Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
 - How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
-- How can we accurately calculate which goods/services a society needs if we do away with the commodity form? ie: calculation problem
+- How can we [accurately calculate](https://en.wikipedia.org/wiki/Economic_calculation_problem) which goods/services a society needs if we do away with the commodity form?
 
 ### Online Socialist Activism
 
@@ -93,7 +93,7 @@ A major gripe that I have with "online socialism" is that it is politically impo
 
 All policies instituted by the government are going to have pros and cons. Let's debate these policies and try to find out which ones will be the best. Once we know that, we can then put pressure on our local politicians and state representatives to try and implement the ones that are politically feasible.
 
-Inversely, most socialists that I talk to have no actual policy positions. They live in a land of fantasy where all capital is abolished, without a plan for how to get there and without a plan for solving the real world problems that we are facing right now.
+Inversely, most socialists that I talk to have no actual policy positions. They live in a land of fantasy where all capital is abolished, without a plan for how to get there and without a plan for solving the real-world problems that we are facing right now.
 
 Also see [the section on voting](#voting).
 
@@ -111,9 +111,9 @@ Also see the section on [systemic racism](#systemic-racism).
 
 In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races — the best person should get the job, regardless of what gender or race they are.
 
-At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 women. When hiring the 10th person for this group, if a man and a women have similar credentials, it might benefit the group more to hire the women — the group would gain a different perspective and would be more well-rounded.
+At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 women. When hiring the 10th person for this group, if a man and a woman have similar credentials, it might benefit the group more to hire the women — the group would gain a different perspective and would be more well-rounded.
 
-A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped them catch this problem early on, resulting in a better product.
+A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, they realized it had [problems categorizing Black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped them catch this problem early on, resulting in a better product.
 
 Anecdotes aside, what does the data say? Research tends to show that [diversity does tend to have benefits](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), but [it isn't completely one-sided](https://hbr.org/2016/07/why-diversity-programs-fail).
 
@@ -129,8 +129,7 @@ Also see the section on [diversity](#diversity).
 
 ## Systemic Racism
 
-[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist — it had a computer system programmed to assign more police patrols to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist institution.
-
+[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist — it had a computer system programmed to assign more police patrols to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a Black-loving certified anti-racist, yet the police would still be functioning as a racist institution.
 We have strong evidence that in the United States, there are some lingering forms of systemic racism. For example, by [looking at graphs of where redlining existed](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
 
 Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning — but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
@@ -141,7 +140,7 @@ Also see the section on [reparations](#reparations).
 
 ## Reparations
 
-After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems pretty unfair.
+After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems unfair.
 
 There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of (finally) repaying a debt that was promised.
 
@@ -159,7 +158,7 @@ I think that global warming is a real thing and is anthropogenic (caused by huma
 
 Unfortunately, I have low hopes that the world will be able to agree to reduce carbon emissions to prevent significant warming (<4°C).
 
-I don't support any particular policies relating to global warming, although I would like to see America (and the rest of the world) become carbon neutral as fast as reasonably possible.
+I don't support any specific policies relating to global warming, although I would like to see America (and the rest of the world) become carbon neutral as fast as reasonably possible.
 
 ## The Green New Deal
 
