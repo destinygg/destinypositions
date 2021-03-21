@@ -8,7 +8,7 @@ slug: /
 
 ## Who I am
 
-My name is Steven Bonnell and my online handle across [Twitch](https://www.twitch.tv/destiny), [YouTube](https://www.youtube.com/destiny) and [Instagram](https://www.instagram.com/destiny/) is Destiny. I'm most well known for my political content online, but I started my career as a [Starcraft 2](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) livestreamer. Today I livestream most aspects of my life; including gaming, online debates, and canvassing for political change. Throughout my life I have always tried to ensure the consistency of my beliefs, and to test my ideas I would argue with others.
+My name is Steven Bonnell and my online handle across [Twitch](https://www.twitch.tv/destiny), [YouTube](https://www.youtube.com/destiny) and [Instagram](https://www.instagram.com/destiny/) is Destiny. I'm most well known for my political content online, but I started my career as a [Starcraft 2](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) livestreamer. Today I livestream most aspects of my life, including gaming, online debates, and canvassing for political change. Throughout my life I have always tried to ensure the consistency of my beliefs, and to test my ideas I would argue with others.
 
 ## Political advocacy
 
