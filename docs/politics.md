@@ -77,7 +77,7 @@ People in America (and around the world) have problems **right now** that need t
 
 Global warming is real and anthropogenic (i.e.: caused by humans).
 
-It seems that the best approach to dealing with climate change is with the aggressive incentivization of greener energies and the implementation of carbon pricing policies. The former polls incredibly well with Americans and the latter is almost universally agreed upon by economists to be effective in moving markets to aggressively seek out more carbon-neutral ways of operating. ( [1](https://www.rff.org/publications/reports/climateinsights2020-policies-and-politics/) 
+It seems that the best approach to dealing with climate change is with the aggressive incentivization of greener energies and the implementation of carbon pricing policies. The former polls incredibly well with Americans and the latter is almost universally agreed upon by economists to be effective in moving markets to aggressively seek out more carbon-neutral ways of operating. ( [1](https://www.rff.org/publications/reports/climateinsights2020-policies-and-politics/) )
 
 ## The Green New Deal
 
