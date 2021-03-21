@@ -44,7 +44,5 @@ if (typeof window !== 'undefined') {
 			return schemaString;
 		}
 
-		createSchema();
-
 		window.schemaStringFAQ = createSchema();
 	}
