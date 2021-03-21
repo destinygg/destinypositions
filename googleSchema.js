@@ -14,8 +14,8 @@ const faqPhilosophy = `{
 // inject string into markdown
 if (typeof window !== 'undefined') {
 	 function createSchema () {
-		// Initialize JSON data, replace removes the spaces from the string so it can be parsed by JSON.Parse
-		let faqsPhilosophy = JSON.parse(faqPhilosophy.replace(' ', ''));
+		// Initialize JSON data
+		let faqsPhilosophy = JSON.parse(faqPhilosophy);
 
 		// function to iterate over the JSON
 		const iterateSchemaFunction = (obj) => {
