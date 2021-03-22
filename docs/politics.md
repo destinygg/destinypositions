@@ -21,6 +21,20 @@ My general goal with online politics is to:
 
 I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. For a more in-depth explanation of this, please see the page on [why philosophy is important](./philosophy#why-philosophy-is-important).
 
+## Affirmative Action
+
+I don't have a strong position on affirmative again. It can be a powerful tool, but only when implemented properly; it is a political lightening rod which makes it very hard to reasonably discuss.
+
+Affirmative action tends to run into trouble in universities where [huge mismatch](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/) problems occur — minority students who are given *too much* preferential treatment in admissions will massively under-perform their peers, causing them to dropout at disproportionately high rates. Though some argue ( [1](https://fivethirtyeight.com/features/heres-what-happens-when-you-ban-affirmative-action-in-college-admissions/) | [2](https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action) ) in favor of aggressive affirmative action for higher education, they often only look at the enrollment rates as indicators of success, rather than actual college achievement.
+
+Outside of universities, one can go too far in forcing integration as well, for example: [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/).
+
+Affirmative action programs that incentivize students to take part in additional education opportunities to prepare them for a college environment would be more in-line with my view of effective policy rather than simply shoving them into classrooms with more qualified peers and expecting them to perform at competitive levels.
+
+Additional reading:
+- [50 Years of Affirmative Action: What Went Right, and What It Got Wrong](https://www.nytimes.com/2019/03/30/us/affirmative-action-50-years.html) — by Anemona Hartocollis, published on March 30, 2019
+   - The author tracks down many of the black students in Columbia's class of 1973, some of the first who were enrolled as "affirmative action" became a more important social issue for universities to focus on.
+
 ## Social Justice
 
 It is incredibly important to incorporate notions of equity into our view of the world when it comes to enacting policy or new laws. I think it is vital to recognize that many people have had disadvantages throughout US history and that the outcomes of those disadvantages are still noticeable today. Any policy we design should take these differences into account.
@@ -32,14 +46,6 @@ Also, see the section on [systemic racism](#systemic-racism).
 Diversity is a good thing, and has been shown time and time again to benefit both countries ( [1](https://www.hamiltonproject.org/charts/high_skilled_immigration_increases_innovation) | [2](https://www.independent.co.uk/news/business/analysis-and-features/immigration-migration-advisory-committee-productivity-skill-gdp-brexit-a8542841.html) ) and companies ( [1](https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/) | [2](https://www.webershandwick.com/news/paving-the-way-for-diversity-inclusion-success/) | [3](https://www.bcg.com/en-us/publications/2018/how-diverse-leadership-teams-boost-innovation) | [4](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-inclus-millennial-influence-120215.pdf) | [5](https://yello.co/blog/diversity-in-the-workplace-statistics/) | [6](https://www.kaporcenter.org/tech-leavers/) ). Countries and companies that engage in high levels of diversity seem to outperform their less diverse counterparts, and it seems to be the case that having a more diverse representation across your population and workforce can be an advantage in and of itself.
 
 Though it seems hard to imagine, just having a more diverse work-place can be predictive of your ability to outperform average returns in a given environment. ( [1](https://www2.deloitte.com/content/dam/Deloitte/au/Documents/human-capital/deloitte-au-hc-diversity-inclusion-soup-0513.pdf) | [2](https://www.insurance.ca.gov/diversity/41-ISDGBD/GBDExternal/upload/McKinseyDivmatters-201501.pdf) ) There are modern examples of avoidable problems that boil down to a company simply lacking a diverse team. One well-known example is [racial discrimination that occurs](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/) in face recognition technology. Another example is soap dispensers [not recognizing black hands](https://gizmodo.com/why-cant-this-soap-dispenser-identify-dark-skin-1797931773) over white hands.
-
-## Affirmative Action
-
-I am neither for nor against affirmative action — it depends on how it is implemented.
-
-For example, I am against [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/), because it seems like it is going too far.
-
-Also, see the section on [diversity](#diversity).
 
 ## Systemic Racism
 
