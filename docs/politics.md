@@ -23,7 +23,7 @@ I think that political positions should be the result of a consistent system —
 
 ## Affirmative Action
 
-I don't have a strong position on affirmative again. It can be a powerful tool, but only when implemented properly; it is a political lightening rod which makes it very hard to reasonably discuss.
+I don't have a strong position on affirmative action. It can be a powerful tool, but only when implemented properly; it is a political lightning rod which makes it very hard to reasonably discuss.
 
 Affirmative action tends to run into trouble in universities where [huge mismatch](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/) problems occur — minority students who are given *too much* preferential treatment in admissions will massively under-perform their peers, causing them to dropout at disproportionately high rates. Though some argue ( [1](https://fivethirtyeight.com/features/heres-what-happens-when-you-ban-affirmative-action-in-college-admissions/) | [2](https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action) ) in favor of aggressive affirmative action for higher education, they often only look at the enrollment rates as indicators of success, rather than actual college achievement.
 
