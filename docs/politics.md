@@ -35,43 +35,11 @@ Additional reading:
 - [50 Years of Affirmative Action: What Went Right, and What It Got Wrong](https://www.nytimes.com/2019/03/30/us/affirmative-action-50-years.html) — by Anemona Hartocollis, published on March 30, 2019
    - The author tracks down many of the black students in Columbia's class of 1973, some of the first who were enrolled as "affirmative action" became a more important social issue for universities to focus on.
 
-## Social Justice
-
-It is incredibly important to incorporate notions of equity into our view of the world when it comes to enacting policy or new laws. I think it is vital to recognize that many people have had disadvantages throughout US history and that the outcomes of those disadvantages are still noticeable today. Any policy we design should take these differences into account.
-
-Also, see the section on [systemic racism](#systemic-racism).
-
 ## Diversity
 
 Diversity is a good thing, and has been shown time and time again to benefit both countries ( [1](https://www.hamiltonproject.org/charts/high_skilled_immigration_increases_innovation) | [2](https://www.independent.co.uk/news/business/analysis-and-features/immigration-migration-advisory-committee-productivity-skill-gdp-brexit-a8542841.html) ) and companies ( [1](https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/) | [2](https://www.webershandwick.com/news/paving-the-way-for-diversity-inclusion-success/) | [3](https://www.bcg.com/en-us/publications/2018/how-diverse-leadership-teams-boost-innovation) | [4](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-inclus-millennial-influence-120215.pdf) | [5](https://yello.co/blog/diversity-in-the-workplace-statistics/) | [6](https://www.kaporcenter.org/tech-leavers/) ). Countries and companies that engage in high levels of diversity seem to outperform their less diverse counterparts, and it seems to be the case that having a more diverse representation across your population and workforce can be an advantage in and of itself.
 
 Though it seems hard to imagine, just having a more diverse work-place can be predictive of your ability to outperform average returns in a given environment. ( [1](https://www2.deloitte.com/content/dam/Deloitte/au/Documents/human-capital/deloitte-au-hc-diversity-inclusion-soup-0513.pdf) | [2](https://www.insurance.ca.gov/diversity/41-ISDGBD/GBDExternal/upload/McKinseyDivmatters-201501.pdf) ) There are modern examples of avoidable problems that boil down to a company simply lacking a diverse team. One well-known example is [racial discrimination that occurs](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/) in face recognition technology. Another example is soap dispensers [not recognizing black hands](https://gizmodo.com/why-cant-this-soap-dispenser-identify-dark-skin-1797931773) over white hands.
-
-## Systemic Racism
-
-[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist — it had a computer system programmed to assign more police patrols to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist institution.
-
-We have strong evidence that there are some lingering forms of systemic racism in the United States. For example, by [looking at maps of where redlining was practiced](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
-
-Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning — but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
-
-I believe that systemic racism clearly exists in some forms. I don't have a strong opinion on the best policies to address it.
-
-Also, see the section on [reparations](#reparations).
-
-## Reparations
-
-After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems pretty unfair.
-
-There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of *finally* repaying a debt that was promised.
-
-Logistically, implementing reparations would be difficult (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?). I acknowledge that reparations are probably not politically feasible.
-
-## Voting
-
-Voting is important.
-
-People in America (and around the world) have problems **right now** that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidates (at both a local and a national level).
 
 ## Global Warming
 
@@ -85,18 +53,54 @@ I do not support the [Green New Deal](https://en.wikipedia.org/wiki/Green_New_De
 
 While I support strong action being taken to curb the effects of climate change, I don't necessarily think it's appropriate to pair these changes with other, non-environmental policies, e.g. a federal jobs guarantee. I think that climate change is a serious issue that needs to be addressed both through policies that have been demonstrated to work (e.g. [cap and trade](https://mitsloan.mit.edu/shared/ods/documents/?DocumentID=4110#:~:text=Well%2Ddesigned%20cap%2Dand%2D,environmentally%20effective%20and%20cost%2Deffective.&text=Successful%20cap%2Dand%2Dtrade%20systems,violation%20penalties%2C%20and%20high%20compliance.)) and through innovative policies and technologies.
 
+## Immigration
+
+Coming soon!
+
+## Illegal Immigration
+
+It's incredibly hard to precisely measure the impact of illegal immigration, although it does appear that undocumented workers have a [negative impact on state and local budgets](https://www.cbo.gov/sites/default/files/110th-congress-2007-2008/reports/12-6-immigration.pdf) and can apply some downward pressure on native wages. ( [1](https://www.sciencedirect.com/science/article/abs/pii/S0165188910001600) | [2](https://link.springer.com/article/10.1007/s00712-010-0139-y) )
+
+The most effective way of dealing with illegal immigration would likely be some form of amnesty, similar to the Immigration Reform and Control Act (IRCA) signed into law by Ronald Reagan in 1986. The IRCA conferred benefits unto the workers who were able to adjust their status as well as to the state and local governments who were able to more effectively levy taxes, though it also had a small, negative impact on competing native workers and future immigrants and caused an increase in government transfer to the newly legalized population. ( [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2245015) ) Any well-designed amnesty program would do well to pay attention to these benefits and drawbacks to ensure that we can appropriately capture the benefits of any such amnesty in order to benefit the population as a whole, without causing targeted harm to more vulnerable sections of the labor force. 
+
 ## International Trade Agreements
 
-I am highly in favor of international trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
+I am highly in favor of internationalg trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
 
 1. International cooperation — International trade agreements lay the groundwork for even more international trade agreements. Ever-increasing cooperation is one of the only hopes we have at solving global warming.
 2. American soft power — In forfeiting the TPP, America cedes ground to China and their [Belt and Road Initiative](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative). Soft power is more important than you might think. Without it, we lose the ability to exert pressure on other countries to respect the values of democracy, personal freedom, political freedom, and basic human rights.
 
-## Stock Buybacks
+## Reparations
 
-Stock buybacks are sometimes characterized as being greedy, benefitting stockholders over employees, or as choosing to avoid investment into research & development. This is largely a fiction spun by the financially illiterate. [TBC]
+After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems pretty unfair.
 
-Unfortunately, some public figures (e.g. [Alexandria Ocasio-Cortez](https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez)) seem to be ignorant of these points.
+There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of *finally* repaying a debt that was promised.
+
+Logistically, implementing reparations would be difficult (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?). I acknowledge that reparations are probably not politically feasible.
+
+## Social Justice
+
+It is incredibly important to incorporate notions of equity into our view of the world when it comes to enacting policy or new laws. I think it is vital to recognize that many people have had disadvantages throughout US history and that the outcomes of those disadvantages are still noticeable today. Any policy we design should take these differences into account.
+
+Also, see the section on [systemic racism](#systemic-racism).
+
+## Systemic Racism
+
+[Systemic racism](https://en.wikipedia.org/wiki/Institutional_racism) is racism embedded into a system. The important thing to note about systemic racism is that no-one in the system is necessarily to blame. For example, say that the hypothetical police force of Oceania was systemically racist — it had a computer system programmed to assign more police patrols to black neighborhoods than white neighborhoods. In this system, it is possible that **every single police officer** in the force is a black-loving certified anti-racist, yet the police would still be functioning as a racist institution.
+
+We have strong evidence that there are some lingering forms of systemic racism in the United States. For example, by [looking at maps of where redlining was practiced](https://www.npr.org/sections/thetwo-way/2016/10/19/498536077/interactive-redlining-map-zooms-in-on-americas-history-of-discrimination), we can see that the effects of redlining still affect outcomes (in a statistical, on-average way).
+
+Just like in Oceania, this doesn't necessarily mean that ordinary people are to blame. Of course, there are probably racist people in the country somewhere still in charge of bank loans or city planning — but, for the most part, I think that we have that sorted out. We need to focus on the more complicated problems.
+
+I believe that systemic racism clearly exists in some forms. I don't have a strong opinion on the best policies to address it.
+
+Also, see the section on [reparations](#reparations).
+
+## Voting
+
+Voting is important.
+
+People in America (and around the world) have problems **right now** that need to be solved. And that's best done by working within the current system, building coalitions with like-minded people, and voting for the best candidates (at both a local and a national level).
 
 # Ideologies
 
