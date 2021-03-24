@@ -27,7 +27,7 @@ I think that political positions should be the result of a consistent system —
 
 I don't have a strong position on affirmative action. It can be a powerful tool, but only when implemented properly; it is a political lightning rod which makes it very hard to reasonably discuss.
 
-Affirmative action tends to run into trouble in universities where [huge mismatch](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/) problems occur — minority students who are given _too much_ preferential treatment in admissions will massively under-perform their peers, causing them to dropout at disproportionately high rates. Though some argue ( [1](https://fivethirtyeight.com/features/heres-what-happens-when-you-ban-affirmative-action-in-college-admissions/) | [2](https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action) ) in favor of aggressive affirmative action for higher education, they often only look at the enrollment rates as indicators of success, rather than actual college achievement.
+Affirmative action tends to run into trouble in universities where [huge mismatch](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/) problems occur — minority students who are given *too much* preferential treatment in admissions will massively under-perform their peers, causing them to dropout at disproportionately high rates. Though some argue ( [1](https://fivethirtyeight.com/features/heres-what-happens-when-you-ban-affirmative-action-in-college-admissions/) | [2](https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action) ) in favor of aggressive affirmative action for higher education, they often only look at the enrollment rates as indicators of success, rather than actual college achievement.
 
 Outside of universities, one can go too far in forcing integration as well, for example: [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/).
 
@@ -36,7 +36,7 @@ Affirmative action programs that incentivize students to take part in additional
 Additional reading:
 
 - [50 Years of Affirmative Action: What Went Right, and What It Got Wrong](https://www.nytimes.com/2019/03/30/us/affirmative-action-50-years.html) — by Anemona Hartocollis, published on March 30, 2019
-  - The author tracks down many of the black students in Columbia's class of 1973, some of the first who were enrolled as "affirmative action" became a more important social issue for universities to focus on.
+   - The author tracks down many of the black students in Columbia's class of 1973, some of the first who were enrolled as "affirmative action" became a more important social issue for universities to focus on.
 
 ## Diversity
 
@@ -77,7 +77,7 @@ I am highly in favor of international trade agreements, especially large binding
 
 After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems pretty unfair.
 
-There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of _finally_ repaying a debt that was promised.
+There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of *finally* repaying a debt that was promised.
 
 Logistically, implementing reparations would be difficult (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?). I acknowledge that reparations are probably not politically feasible.
 
@@ -120,11 +120,11 @@ Many on the far right express a great concern over protecting the demographic ma
 I believe that this endeavor is futile for several reasons:
 
 - I reject the notion that there is a consistent and coherent definition of "American values."
-  - e.g. City dwellers from San Francisco aren't going to have very many "shared values" with rural inhabitants of midwestern states.
+   - e.g. City dwellers from San Francisco aren't going to have very many "shared values" with rural inhabitants of midwestern states.
 - I don't believe there is any way for an individual community to control who is allowed to immigrate there without it violating the rights and interests of other states.
-  - Immigration policy is set for the benefit of the nation at the federal level; states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
+   - Immigration policy is set for the benefit of the nation at the federal level; states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
 - I don't believe a group of people have a right to indefinitely maintain their representation irrespective of immigrants (from other states, or countries).
-  - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
+   - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
 
 ## Capitalism
 
@@ -132,7 +132,7 @@ I consider myself to be a [capitalist](https://en.wikipedia.org/wiki/Capitalism)
 
 At a high-level, capitalism seems to be the best-known economic system to generate wealth. I believe the responsibility of any economic system should, first and foremost, be to allocate resources in an economy as efficiently as possible to create the largest possible base from which to draw taxes to redistribute to those who need it most. I recognize in many western countries, especially the United States, we seem to have a big problem with the "redistribution" part.
 
-There are different kinds of capitalism, ranging all the way from _[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)_ (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the economic model of nearly all advanced economies in the West.
+There are different kinds of capitalism, ranging all the way from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the economic model of nearly all advanced economies in the West.
 
 ## Libertarianism
 
@@ -142,7 +142,7 @@ I am still pro liberty and pro freedom, but my political views have evolved. Lib
 
 ## "Omniliberalism"
 
-In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an _Omni-Liberal_, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
+In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
 
 1. Having the core values of liberalism (e.g. freedom and equality).
 2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
