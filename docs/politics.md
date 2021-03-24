@@ -65,7 +65,7 @@ The most effective way of dealing with illegal immigration would likely be some 
 
 ## International Trade Agreements
 
-I am highly in favor of internationalg trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
+I am highly in favor of international trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
 
 1. International cooperation — International trade agreements lay the groundwork for even more international trade agreements. Ever-increasing cooperation is one of the only hopes we have at solving global warming.
 2. American soft power — In forfeiting the TPP, America cedes ground to China and their [Belt and Road Initiative](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative). Soft power is more important than you might think. Without it, we lose the ability to exert pressure on other countries to respect the values of democracy, personal freedom, political freedom, and basic human rights.
