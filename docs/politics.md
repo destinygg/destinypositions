@@ -106,7 +106,7 @@ People in America (and around the world) have problems **right now** that need t
 
 ### The Alt-Right
 
-I do not support the [alt-right](https://en.wikipedia.org/wiki/Alt-right), nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that lead people to becoming radicalized, e.g. feeling disconnected from society, having no sense of purpose, feeling economically left behind, and how these beliefs translate into political action. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for said phenomena are often mired in anecdotes.
+I do not support the [alt-right](https://en.wikipedia.org/wiki/Alt-right), nor any of the prescriptions they make for society. I do believe it is important, however, to acknowledge some of the conditions that lead people to becoming radicalized (feeling disconnected from society, having no sense of purpose, feeling economically left behind, etc.) and how these beliefs translate into political action. I believe some on the alt-right are effective at identifying frustrations that one might have with our current economic or social system, but they offer no realistic solutions to any of these problems, and their explanations for said phenomena are often mired in anecdotes.
 
 My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I've had with alt-right figures; when confronted with challenges to their ideas, they retreat to anecdotes and offer no solutions. Most concerningly, the policy positions they offer for political change generally require some extreme amount of state-sponsored violence and are highly unrealistic in achieving any positive end.
 
@@ -166,13 +166,13 @@ My primary disappointment with most socialists is the broader lack of understand
 
 #### Online Socialist Activism
 
-A lot of the discourse around socialism (e.g. on Twitch, YouTube, and Twitter) comes from people who are willfully ignorant or misinformed on economics and how capital markets work. A number of prominent, socialist content creators seem to display fundamental misunderstandings of fact, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM), and tend to [respond negatively](https://twitter.com/UnlearnEcon/status/1340289575311331328) to even the [slightest bit of push back](https://www.youtube.com/watch?v=-vfx1kQlmOk) against their beliefs.
+A lot of the online discourse (e.g. on Twitch, YouTube, and Twitter) around socialism comes from people who are willfully ignorant or misinformed on economics and how capital markets work. A number of prominent, socialist content creators seem to display fundamental misunderstandings of fact, such as [Philosophy Tube's video on housing](https://www.youtube.com/watch?v=rBbhZWZf0gM), and tend to [respond negatively](https://twitter.com/UnlearnEcon/status/1340289575311331328) to even the [slightest bit of push back](https://www.youtube.com/watch?v=-vfx1kQlmOk) against their beliefs.
 
 While there are plenty of highly intelligent people who identify as socialists, my interactions with "online socialists" or "online lefties" from 2018 to 2020 have generally left me with a very low opinion of the community at large.
 
 #### Co-ops
 
-Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are businesses owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transition step away from a fully capitalist society, or one where businesses have private ownership
+Co-ops, or [cooperatives](https://en.wikipedia.org/wiki/Cooperative), are businesses owned by the workers. Many socialists, especially market socialists, seem to point towards co-ops as being an effective transitional step away from a fully capitalist society, or one where businesses have private ownership
 
 I don't believe anything is inherently wrong with co-ops, and I support them in the cases where they lead to greater economic productivity. Despite the slight increase in productivity, however, there doesn't seem to be any good way for co-ops to effectively raise capital. Also, I still question whether co-ops would retain their benefits if everyone in society were to join one, rather than the select few people that have the necessary capital and/or skills to join one of the few co-ops that exist today.
 
