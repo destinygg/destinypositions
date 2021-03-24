@@ -8,12 +8,14 @@ title: Politics
 In 2016, as Donald Trump was rising as a contender in the Republican primary, I noticed the political discourse online was so far removed from reality, people weren't having conversations in the same universe. My main goal in entering politics was to bring reasonableness into online political conversations, or to at least ground the disagreements in fact so the conversations could be more productive. Unfortunately, most of my conversations have been unproductive and hardly qualify as "intellectual discourse."
 
 I believe most content creators suffer from the following problems:
+
 - They tend to be uninformed about the ideas they are discussing (e.g.: many lefties don't know Labor Value Theory; many online Republicans don't know anything about [immigration](https://streamable.com/35pxrs) or [sociology](https://streamable.com/pxmre0)).
 - They don't read any of the material they are covering (e.g.: many people only read headlines, or just take a Twitter thread and repeat the information from it without reading the linked articles or sources).
 - They are more concerned with monetary gain, optics, and advancing their careers than they are with advancing their expressed ideologies (e.g. they will [eschew politically effective or more righteous actions](https://streamable.com/d69bog) in favor of things that further their own career, such as collaborating with only the most popular politicians they can or promoting causes which will also grow their own popularity).
 - They are often blatantly hypocritical when comparing their lifestyles to the ideas they advocate for (e.g.: they will oftentimes talk about the importance of transparency in public figures or make fun of celebrities for donating very little money to social causes while they will hide their income and commit little to no resources to causes they support).
 
 My general goal with online politics is to:
+
 - Give an informed opinion about, or bring in experts or expert material concerning, current events and interesting topics.
 - Have an informed discussion that involves reading through the articles or sources being discussed on stream.
 - Move people to take politically effective action.
@@ -25,15 +27,16 @@ I think that political positions should be the result of a consistent system —
 
 I don't have a strong position on affirmative action. It can be a powerful tool, but only when implemented properly; it is a political lightning rod which makes it very hard to reasonably discuss.
 
-Affirmative action tends to run into trouble in universities where [huge mismatch](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/) problems occur — minority students who are given *too much* preferential treatment in admissions will massively under-perform their peers, causing them to dropout at disproportionately high rates. Though some argue ( [1](https://fivethirtyeight.com/features/heres-what-happens-when-you-ban-affirmative-action-in-college-admissions/) | [2](https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action) ) in favor of aggressive affirmative action for higher education, they often only look at the enrollment rates as indicators of success, rather than actual college achievement.
+Affirmative action tends to run into trouble in universities where [huge mismatch](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/) problems occur — minority students who are given _too much_ preferential treatment in admissions will massively under-perform their peers, causing them to dropout at disproportionately high rates. Though some argue ( [1](https://fivethirtyeight.com/features/heres-what-happens-when-you-ban-affirmative-action-in-college-admissions/) | [2](https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action) ) in favor of aggressive affirmative action for higher education, they often only look at the enrollment rates as indicators of success, rather than actual college achievement.
 
 Outside of universities, one can go too far in forcing integration as well, for example: [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/).
 
 Affirmative action programs that incentivize students to take part in additional education opportunities to prepare them for a college environment would be more in-line with my view of effective policy rather than simply shoving them into classrooms with more qualified peers and expecting them to perform at competitive levels.
 
 Additional reading:
+
 - [50 Years of Affirmative Action: What Went Right, and What It Got Wrong](https://www.nytimes.com/2019/03/30/us/affirmative-action-50-years.html) — by Anemona Hartocollis, published on March 30, 2019
-   - The author tracks down many of the black students in Columbia's class of 1973, some of the first who were enrolled as "affirmative action" became a more important social issue for universities to focus on.
+  - The author tracks down many of the black students in Columbia's class of 1973, some of the first who were enrolled as "affirmative action" became a more important social issue for universities to focus on.
 
 ## Diversity
 
@@ -61,11 +64,11 @@ Coming soon!
 
 It's incredibly hard to precisely measure the impact of illegal immigration, although it does appear that undocumented workers have a [negative impact on state and local budgets](https://www.cbo.gov/sites/default/files/110th-congress-2007-2008/reports/12-6-immigration.pdf) and can apply some downward pressure on native wages. ( [1](https://www.sciencedirect.com/science/article/abs/pii/S0165188910001600) | [2](https://link.springer.com/article/10.1007/s00712-010-0139-y) )
 
-The most effective way of dealing with illegal immigration would likely be some form of amnesty, similar to the Immigration Reform and Control Act (IRCA) signed into law by Ronald Reagan in 1986. The IRCA conferred benefits unto the workers who were able to adjust their status as well as to the state and local governments who were able to more effectively levy taxes, though it also had a small, negative impact on competing native workers and future immigrants and caused an increase in government transfer to the newly legalized population. ( [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2245015) ) Any well-designed amnesty program would do well to pay attention to these benefits and drawbacks to ensure that we can appropriately capture the benefits of any such amnesty in order to benefit the population as a whole, without causing targeted harm to more vulnerable sections of the labor force. 
+The most effective way of dealing with illegal immigration would likely be some form of amnesty, similar to the Immigration Reform and Control Act (IRCA) signed into law by Ronald Reagan in 1986. The IRCA conferred benefits unto the workers who were able to adjust their status as well as to the state and local governments who were able to more effectively levy taxes, though it also had a small, negative impact on competing native workers and future immigrants and caused an increase in government transfer to the newly legalized population. ( [1](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2245015) ) Any well-designed amnesty program would do well to pay attention to these benefits and drawbacks to ensure that we can appropriately capture the benefits of any such amnesty in order to benefit the population as a whole, without causing targeted harm to more vulnerable sections of the labor force.
 
 ## International Trade Agreements
 
-I am highly in favor of internationalg trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
+I am highly in favor of international trade agreements, especially large binding agreements like the now-dead [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) that Obama championed. This is mostly for two reasons:
 
 1. International cooperation — International trade agreements lay the groundwork for even more international trade agreements. Ever-increasing cooperation is one of the only hopes we have at solving global warming.
 2. American soft power — In forfeiting the TPP, America cedes ground to China and their [Belt and Road Initiative](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative). Soft power is more important than you might think. Without it, we lose the ability to exert pressure on other countries to respect the values of democracy, personal freedom, political freedom, and basic human rights.
@@ -74,7 +77,7 @@ I am highly in favor of internationalg trade agreements, especially large bindin
 
 After the civil war, [former slaves were promised 40 acres and a mule](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/the-truth-behind-40-acres-and-a-mule/) by William T. Sherman. This was approved by President Lincoln. Later, the federal government reneged on this promise, which seems pretty unfair.
 
-There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of *finally* repaying a debt that was promised.
+There are many different reasons for wanting reparations, but I think that the best one is purely for the purposes of _finally_ repaying a debt that was promised.
 
 Logistically, implementing reparations would be difficult (Who exactly gets the money? How much money is equivalent to 40 acres, adjusted for inflation?). I acknowledge that reparations are probably not politically feasible.
 
@@ -115,12 +118,13 @@ My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48
 Many on the far right express a great concern over protecting the demographic make-up of whatever community they reside in. They might allude to "western values," "white values," "euro-centric values" or some other type of "values" that they are trying to protect. Generally they state the reason to protect these values stems from both an earnest desire to preserve their culture as well as protecting their voting interests.
 
 I believe that this endeavor is futile for several reasons:
+
 - I reject the notion that there is a consistent and coherent definition of "American values."
-    - e.g. City dwellers from San Francisco aren't going to have very many "shared values" with rural inhabitants of midwestern states.
+  - e.g. City dwellers from San Francisco aren't going to have very many "shared values" with rural inhabitants of midwestern states.
 - I don't believe there is any way for an individual community to control who is allowed to immigrate there without it violating the rights and interests of other states.
-    - Immigration policy is set for the benefit of the nation at the federal level; states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
+  - Immigration policy is set for the benefit of the nation at the federal level; states exercising local immigration policy would run counter-intuitive to the rest of the state's rights to determine federal immigration policy.
 - I don't believe a group of people have a right to indefinitely maintain their representation irrespective of immigrants (from other states, or countries).
-    - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
+  - The idea that one group of people can live somewhere forever and reject foreign immigrants simply because they have a different voting preference is nonsensical.
 
 ## Capitalism
 
@@ -128,7 +132,7 @@ I consider myself to be a [capitalist](https://en.wikipedia.org/wiki/Capitalism)
 
 At a high-level, capitalism seems to be the best-known economic system to generate wealth. I believe the responsibility of any economic system should, first and foremost, be to allocate resources in an economy as efficiently as possible to create the largest possible base from which to draw taxes to redistribute to those who need it most. I recognize in many western countries, especially the United States, we seem to have a big problem with the "redistribution" part.
 
-There are different kinds of capitalism, ranging all the way from *[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)* (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the economic model of nearly all advanced economies in the West.
+There are different kinds of capitalism, ranging all the way from _[laissez-faire](https://en.wikipedia.org/wiki/Laissez-faire)_ (e.g. free market) to [state capitalism](https://en.wikipedia.org/wiki/State_capitalism) (e.g. China). Completely free-market systems have serious downsides (e.g. monopolies, unequal bargaining power) and don't properly account for negative externalities (e.g. pollution, global warming) without government intervention. Thus, I believe that capitalism should be tempered by a strong government that tries to correct for these problems, similar to how Nordic countries function. Not surprisingly, this is the economic model of nearly all advanced economies in the West.
 
 ## Libertarianism
 
@@ -138,7 +142,7 @@ I am still pro liberty and pro freedom, but my political views have evolved. Lib
 
 ## "Omniliberalism"
 
-In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an *Omni-Liberal*, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
+In politics, it can be useful to know which particular ideology someone subscribes to. However, I do not fall perfectly in-line with any particular ideology. I describe myself as an _Omni-Liberal_, which is a made-up, tongue-in-cheek term to encapsulate the general position of:
 
 1. Having the core values of liberalism (e.g. freedom and equality).
 2. Taking the best parts of all different kinds of political ideologies and using them together in a pragmatic way.
@@ -183,6 +187,7 @@ A major gripe that I have with "online socialism" is that it is politically impo
 All government policies have pros and cons. As citizens, our best course of action is to debate these policies to determine which will be the most effective and to pressure our representatives to push those that are politically feasible.
 
 Inversely, most socialists that I talk to have no actual policy positions. They:
+
 - live in a land of fantasy where all capital is abolished
 - lack meaningful plans to achieve that end
 - have no plans for solving real world problems that we face right now
