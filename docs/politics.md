@@ -162,7 +162,7 @@ My primary disappointment with most socialists is the broader lack of understand
 - How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
 - Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
 - How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
-- How can we accurately calculate which goods/services a nation needs if we do away with the commodity form? i.e., the [calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem)
+- How can we [calculate](https://en.wikipedia.org/wiki/Economic_calculation_problem) which goods/services a nation needs if we do away with the commodity form?
 
 #### Online Socialist Activism
 
