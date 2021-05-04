@@ -160,7 +160,7 @@ While exploring more socialist ideas I've come across a number of people attempt
 My primary disappointment with most socialists is the broader lack of understanding concerning the general functions of their economic systems. A few issues without satisfactory answers are:
 
 - What level of violence is acceptable to attain a socialist state?
-   - It is often stated that capitalists are to be expected to side with fascists in order to defend their capital interests, and it's stated that capitalists will use any means necessary to defend the status quo. If that is true, then does the advocation of a socialist state then necessarily advocate for violent revolution? If this is something we could simply achieve through voting, and if the people truly wanted such a state, why have we not realized it by now?
+   - It is often stated that capitalists are to be expected to side with fascists in order to defend their capital interests, and it's stated that capitalists will use any means necessary to defend the status quo. If that is true, then does the advocation of a socialist state necessarily advocate for violent revolution? If this is something we could simply achieve through voting, and if the people truly wanted such a state, why have we not realized it by now?
 - How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
    - Is this done via some government bureaucrat or citizen council? If one cannot get their idea approved, or find sufficient other workers to operate their business with them, is that new business simply not allowed to exist?
 - Is any form of investment whatsoever allowed in a socialist society? 
