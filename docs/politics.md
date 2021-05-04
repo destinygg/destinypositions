@@ -159,10 +159,16 @@ While exploring more socialist ideas I've come across a number of people attempt
 
 My primary disappointment with most socialists is the broader lack of understanding concerning the general functions of their economic systems. A few issues without satisfactory answers are:
 
+- What level of violence is acceptable to attain a socialist state?
+   - It is often stated that capitalists are to be expected to side with fascists in order to defend their capital interests, and it's stated that capitalists will use any means necessary to defend the status quo. If that is true, then does the advocation of a socialist state then necessarily advocate for violent revolution? If this is something we could simply achieve through voting, and if the people truly wanted such a state, why have we not realized it by now?
 - How do we decide which businesses are allowed to exist in a socialist society without allowing capital investment?
-- Is any form of investment whatsoever allowed in a socialist society? How do businesses raise additional capital for expansion?
+   - Is this done via some government bureaucrat or citizen council? If one cannot get their idea approved, or find sufficient other workers to operate their business with them, is that new business simply not allowed to exist?
+- Is any form of investment whatsoever allowed in a socialist society? 
+   - How do businesses raise additional capital for expansion? If one wants to expand their business and open new stores, is it contingent upon them finding other workers willing to buy in and own part of one's new expansion of business? If that new expansion grows, is one diluting the ownership of one's current work force? Does one need to dilute every employee's ownership every time a new worker is brought in? How does that affect one's democratic leverage in the business?
 - How are labor markets determined in a socialist society? What if everyone wants to become a teacher?
+   - What if everyone wants to become a teacher? If we remove profit incentives and wages from society and socially dictate where goods and services are allocated, what incentive would anyone have to pursue a socially necessary job that they do not wish to pursue?
 - How can we [calculate](https://en.wikipedia.org/wiki/Economic_calculation_problem) which goods/services a nation needs if we do away with the commodity form?
+   - The calculation problem has never been adequately addressed or solved for any country, and even in the case where it is brought up within businesses, your final inputs and outputs are still decided by market conditions, not votes or councils.
 
 #### Online Socialist Activism
 

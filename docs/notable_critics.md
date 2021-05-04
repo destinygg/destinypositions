@@ -3,6 +3,9 @@ id: notable_critics
 title: Notable Critics
 description: A record of my various personal critics.
 ---
+## Kaceytron
+
+Coming soon!
 
 ## Jack Allison
 
