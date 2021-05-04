@@ -25,10 +25,10 @@ I have a [video](https://www.youtube.com/watch?v=N-eTcjGsK08) where I break down
    3. Other humans want to maximize their experience.
 - Part III
    1. Humans synergize to create better experiences.
-   2. If I synergize with others it will maximize my experience.
+   2. If I synergize with others, it will maximize my experience.
    3. Others will synergize with me to maximize their experience.
 
-I [don't believe that moral facts exist](https://plato.stanford.edu/entries/moral-anti-realism/), or if they do, I don't believe they are perceivable to us. Therefore, I build all of my policy positions from this fundamental moral framework. I think about policy positions in a similar way that Rawls' veil of ignorance would demand of us — society should be constructed in a way that maximizes the experience of as many people possible. This means satisfying as many people's needs and desires as possible, so as to incentivize everyone's participation in our society. I view this as being similar to a sort of [Pareto efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency) that could exist in how we reallocate goods and services with government policy.
+I [don't believe that moral facts exist](https://plato.stanford.edu/entries/moral-anti-realism/), or if they do, I don't believe they are perceivable to us. Therefor, I build all of my policy positions from this fundamental moral framework. I think about policy positions in a similar way that [Rawls' veil of ignorance](https://en.wikipedia.org/wiki/Original_position) would demand of us — society should be constructed in a way that maximizes the experience of as many people possible. This means satisfying as many people's needs and desires as possible, so as to incentivize everyone's participation in our society. I view this as being similar to a sort of [Pareto efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency) that could exist in how we reallocate goods and services with government policy.
 
 ### On Maximizing One's Experience
 
