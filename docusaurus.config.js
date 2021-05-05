@@ -25,36 +25,42 @@ module.exports = {
           activeBaseRegex: 'docs/$',
           label: 'About',
           position: 'left',
+          script: '/googleSchema.js'
         },
         {
           to: 'docs/current_events',
           activeBasePath: 'docs/current_events',
           label: 'Current Events',
           position: 'left',
+          script: '/googleSchema.js'
         },
         {
           to: 'docs/politics',
           activeBasePath: 'docs/politics',
           label: 'Politics',
           position: 'left',
+          script: '/googleSchema.js'
         },
         {
           to: 'docs/philosophy',
           activeBasePath: 'docs/philosophy',
           label: 'Philosophy',
           position: 'left',
+          script: '/googleSchema.js'
         },
-       {
+        {
           to: 'docs/notable_critics',
           activeBasePath: 'docs/notable_critics',
           label: 'Notable Critics',
           position: 'left',
+          script: '/googleSchema.js'
         },
         {
           to: 'docs/personal',
           activeBasePath: 'docs/personal',
           label: 'Personal',
           position: 'left',
+          script: '/googleSchema.js'
         },
       ],
     },
@@ -129,6 +135,10 @@ module.exports = {
     {
       src: 'https://kit.fontawesome.com/1932a73877.js',
       crossorigin: 'anonymous',
+    },
+    {
+      src: '/googleSchema.js',
+
     },
   ],
 };
