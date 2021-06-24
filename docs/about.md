@@ -8,7 +8,7 @@ slug: /
 
 ## Who am I?
 
-My name is Steven Bonnell and my online handle across [Twitch](https://www.twitch.tv/destiny), [YouTube](https://www.youtube.com/destiny) and [Instagram](https://www.instagram.com/destiny/) is Destiny. I'm most well known for my political content online, but I started my career as a [Starcraft 2](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) livestreamer. Today I livestream most aspects of my life, including gaming, online debates, and canvassing for political change. Throughout my life I have always tried to ensure the consistency of my beliefs, and to test my ideas I would argue with others.
+My name is Steven Bonnell and my online handle across [Twitch](https://www.twitch.tv/destiny), [YouTube](https://www.youtube.com/destiny), and [Instagram](https://www.instagram.com/destiny/) is Destiny. I'm most well known for my political content online, but I started my career as a [Starcraft 2](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) livestreamer. Today I livestream most aspects of my life, including gaming, online debates, and canvassing for political change. Throughout my life I have always tried to ensure the consistency of my beliefs, and to test my ideas I would argue with others.
 
 ## My political advocacy
 
@@ -16,7 +16,7 @@ Starting in [November of 2020](https://youtu.be/93leuGiUSpo), I attempted to spi
 
 ## Why this page exists
 
-Many things are said about who I am or what I believe in. Oftentimes, people make absurd claims about my beliefs, such as that I advocate for the indiscriminate killing of BLM protestors, that I'm a nazi, that I'm a communist, etc. This is partially my fault as I have a history of being hyperbolic in some circumstances, and I often engage with people who aren't really interested in good faith conversations. Part of this is also due to my huge backlog of content and the nature of the internet - I understand that sifting through thousands of hours of debates to find my fully fleshed-out views is not a practical demand to make of people.
+Many things are said about who I am or what I believe in. Oftentimes, people make absurd claims about my beliefs, such as that I advocate for the indiscriminate killing of BLM protestors, that I'm a nazi, that I'm a communist, etc. This is partially my fault as I have a history of being hyperbolic in some circumstances, and I often engage with people who aren't really interested in good faith conversations. Part of this is also due to my huge backlog of content and the nature of the internet &mdash; I understand that sifting through thousands of hours of debates to find my fully fleshed-out views is not a practical demand to make of people.
 
 As I've evolved both in my political and social views, and as I've continued to produce more hours of content, it is now possible that you could cherry pick almost any 30 seconds of me to claim I represent any given political or social viewpoint. As such, it is necessary to take preventative measures against this, as I have dealt with such behavior already. In 2021, I committed myself to a strategy of being more rhetorically effective, especially concerning how people represent me or my beliefs.
 
