@@ -108,7 +108,7 @@ module.exports = {
       defaultMode: 'dark',
     },
     image: 'https://www.destiny.gg/favicon-196x196.png',
-    metadatas: [
+    metadata: [
       {name: 'twitter:card', content: 'summary'},
     ],
   },
