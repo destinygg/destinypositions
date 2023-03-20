@@ -27,5 +27,5 @@ Melina and I are currently in an open/poly relationship. We treat each other as 
 * [Rumble](https://www.rumble.com/Destiny)
 * [Kick](https://www.kick.com/destiny)
 * [Reddit](https://www.reddit.com/r/Destiny/)
-* [Email](contact@destiny.gg)
+* [Email](mailto:contact@destiny.gg)
 * [Wikipedia](https://en.wikipedia.org/wiki/Destiny_(streamer))
