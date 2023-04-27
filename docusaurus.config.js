@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Positions',
   tagline: 'Find out what I actually believe.',
   url: 'https://positions.destiny.gg/',
-  baseUrl: '/',
+  baseUrl: process.env.GITHUB_ACTIONS ? `${process.env.BASE_URL}/` : "/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
