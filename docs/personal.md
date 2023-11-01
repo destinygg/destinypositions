@@ -17,15 +17,15 @@ I have a son called Nathaniel with my ex-girlfriend, Rachel. My ex-girlfriend an
 
 [Melina](https://www.twitch.tv/melina) is my wife. We met in New Zealand when she was 20 years old and I was 30 years old.
 
-Melina and I are currently in an open/poly relationship. We treat each other as primary partners, though we may pursue other sexual/romantic relationships as well.8
+Melina and I are currently in an open/poly relationship. We treat each other as primary partners, though we may pursue other sexual/romantic relationships as well.
 
 ## Links
 
-* [YouTube](https://www.youtube.com/user/destiny/)
-* [Instagram](https://www.instagram.com/destiny/)
-* [Twitter](https://www.twitter.com/TheOmniLiberal)
-* [Rumble](https://www.rumble.com/Destiny)
-* [Kick](https://www.kick.com/destiny)
-* [Reddit](https://www.reddit.com/r/Destiny/)
-* [Email](mailto:contact@destiny.gg)
-* [Wikipedia](https://en.wikipedia.org/wiki/Destiny_(streamer))
+- **[YouTube](https://www.youtube.com/user/destiny/)**                                                                                                                                          │
+- **[Instagram](https://www.instagram.com/destiny/)**                                                                                                                                           │
+- **[Twitter](https://www.twitter.com/TheOmniLiberal)**                                                                                                                                         │
+- **[Rumble](https://www.rumble.com/Destiny)**                                                                                                                                                  │
+- **[Kick](https://www.kick.com/destiny)**                                                                                                                                                      │
+- **[Reddit](https://www.reddit.com/r/Destiny/)**                                                                                                                                               │
+- **[Email](mailto:contact@destiny.gg)**                                                                                                                                                        │
+- **[Wikipedia](https://en.wikipedia.org/wiki/Destiny_(streamer))**
